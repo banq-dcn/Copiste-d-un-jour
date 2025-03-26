@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0053_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT17" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT17" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="220"
+                   VPOS="124"
+                   WIDTH="2234"
+                   HEIGHT="629"
+                   ID="eSc_textblock_fb08eed5"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="330 124 2337 146 2381 176 2388 379 2454 498 2454 555 2432 606 2381 621 1693 636 1662 672 1619 650 1405 731 293 753 242 709 220 293 242 139 330 124"/></Shape>
+          <TextLine ID="eSc_line_578d4a87"
+                    TAGREFS="LT17"
+                    BASELINE="245 238 1640 234 1766 243 2355 236" 
+                    HPOS="242"
+                    VPOS="151"
+                    WIDTH="2112"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="244 236 244 244 387 266 396 266 426 247 561 247 585 264 712 253 789 275 913 244 1067 244 1152 266 1265 244 1328 272 1408 258 1567 269 1611 244 1733 247 1768 272 1884 250 1898 255 1920 269 2093 250 2145 269 2354 258 2349 167 2222 159 2159 181 2126 156 2112 156 2082 184 1889 184 1854 167 1832 159 1823 159 1771 187 1521 187 1482 156 1468 156 1435 184 1325 156 1314 156 1273 187 1237 187 1191 151 1097 151 1053 189 968 189 924 154 750 178 739 173 717 154 583 154 547 181 508 154 253 154 242 165 244 236"/></Shape>
+	    <String CONTENT="UEFA (Europe) - 53 équipes - 13 qualifiés"
+                    HPOS="242"
+                    VPOS="151"
+                    WIDTH="2112"
+                    HEIGHT="124"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_914f5f97"
+                    TAGREFS="LT17"
+                    BASELINE="256 456 2362 469" 
+                    HPOS="255"
+                    VPOS="379"
+                    WIDTH="2107"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="256 456 255 465 280 480 282 480 284 480 286 480 288 480 311 471 440 476 442 476 443 476 480 465 555 493 557 493 559 495 765 495 765 493 766 493 818 467 820 467 979 491 981 491 983 491 1027 469 1113 469 1115 469 1137 480 1139 480 1141 480 1225 471 1227 471 1271 491 1273 491 1275 491 1276 491 1341 471 1344 471 1346 471 1394 496 1396 496 1397 496 1504 476 1577 489 1579 489 1581 489 1614 474 1618 473 1625 474 1691 489 1693 489 1797 476 1810 474 1814 476 1841 489 1843 489 1845 489 1847 489 1878 482 1904 491 1906 491 1907 491 1994 478 2016 474 2027 478 2063 491 2065 491 2067 491 2128 480 2194 491 2195 491 2197 491 2239 480 2241 480 2295 496 2296 496 2298 496 2300 496 2361 480 2362 469 2362 407 2302 390 2300 390 2298 390 2296 390 2260 407 2225 421 2203 412 2201 412 2199 412 2197 412 2168 429 2091 429 2047 405 2017 388 2016 388 2014 388 1942 401 1902 392 1900 392 1898 392 1896 392 1865 401 1854 405 1847 401 1821 388 1819 388 1735 386 1733 386 1731 386 1702 399 1654 423 1607 399 1583 386 1581 386 1465 386 1463 386 1462 386 1440 396 1388 423 1297 423 1267 407 1265 407 1263 407 1157 421 1078 421 1005 392 983 383 981 383 979 383 977 383 957 390 880 419 768 419 737 403 735 403 733 403 621 414 588 397 587 397 585 397 583 397 524 416 464 385 453 379 451 379 449 379 256 383 256 456"/></Shape>
+	    <String CONTENT="Cette page est une liste d&#x27;événements"
+                    HPOS="255"
+                    VPOS="379"
+                    WIDTH="2107"
+                    HEIGHT="117"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_99e4ed22"
+                    TAGREFS="LT17"
+                    BASELINE="269 594 2427 573" 
+                    HPOS="264"
+                    VPOS="497"
+                    WIDTH="2162"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="266 594 266 621 536 599 781 599 825 613 1092 594 1122 616 1130 618 1224 618 1251 596 1402 591 1496 610 1655 588 1785 610 1889 594 1986 607 2013 585 2074 607 2148 605 2148 602 2173 583 2291 599 2426 585 2426 572 2420 497 2365 497 2305 530 2175 530 2129 500 2118 500 2060 530 1966 500 1955 500 1917 530 1843 517 1796 533 1757 503 1686 503 1609 536 1532 506 1411 522 1347 506 1336 506 1303 536 1259 539 1188 522 1171 522 1149 541 1070 541 982 511 971 511 940 536 858 514 847 514 797 547 706 547 668 514 594 514 530 547 335 517 283 517 264 533 266 594"/></Shape>
+	    <String CONTENT="qui se sont produits durant l&#x27;année"
+                    HPOS="264"
+                    VPOS="497"
+                    WIDTH="2162"
+                    HEIGHT="124"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_daa98ca0"
+                    TAGREFS="LT17"
+                    BASELINE="320 693 1401 683" 
+                    HPOS="316"
+                    VPOS="607"
+                    WIDTH="1084"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="319 693 319 706 1400 704 1397 640 1364 627 1353 627 1336 643 1226 643 1158 621 1149 621 1089 640 1056 610 1056 607 973 607 973 610 940 640 935 649 748 649 690 616 676 616 640 640 629 651 577 651 539 616 539 613 332 613 332 616 316 629 319 693"/></Shape>
+	    <String CONTENT="1964 en Lorraine."
+                    HPOS="316"
+                    VPOS="607"
+                    WIDTH="1084"
+                    HEIGHT="99"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

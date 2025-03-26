@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0119_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT37" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT37" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="249"
+                   VPOS="234"
+                   WIDTH="2095"
+                   HEIGHT="358"
+                   ID="eSc_textblock_91f7f217"
+                   TAGREFS="BT37">
+          <Shape><Polygon POINTS="1682 234 2307 256 2344 308 2329 372 2307 394 2243 372 2183 408 2192 440 2271 440 2307 403 2329 460 2302 482 2184 452 2080 489 1414 489 1275 511 1267 555 1302 570 1216 592 256 592 249 366 278 249 1682 234"/></Shape>
+          <TextLine ID="eSc_line_d6ea5b20"
+                    TAGREFS="LT37"
+                    BASELINE="282 352 2279 336" 
+                    HPOS="277"
+                    VPOS="247"
+                    WIDTH="2000"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="280 365 440 363 533 382 541 382 563 363 772 363 794 379 850 405 943 382 943 379 949 379 965 365 1100 376 1141 363 1271 403 1339 357 1578 374 1587 374 1611 357 1790 371 1807 357 2116 376 2277 352 2277 335 2272 272 2093 272 2065 250 1966 269 1922 247 1917 247 1758 268 1733 247 1622 247 1584 277 1510 277 1479 250 1466 250 1433 275 1391 250 1380 250 1290 275 1270 277 1114 255 1075 280 1004 280 973 253 962 253 874 283 811 283 767 255 657 255 635 272 569 264 517 283 445 258 390 272 283 258 283 261 277 264 280 352"/></Shape>
+	    <String CONTENT="Toshiyuki Takagi (- -, Takagi Toshiyuki), né le 25 mai"
+                    HPOS="277"
+                    VPOS="247"
+                    WIDTH="2000"
+                    HEIGHT="158"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_65c93394"
+                    TAGREFS="LT37"
+                    BASELINE="280 458 1788 440 2153 443" 
+                    HPOS="275"
+                    VPOS="371"
+                    WIDTH="1876"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="277 478 431 495 544 478 552 478 569 492 583 492 607 475 938 475 1006 489 2060 511 2148 470 2151 442 2145 390 1788 390 1755 376 1749 376 1584 393 1548 371 1537 371 1471 387 1378 371 1361 385 1287 374 1262 396 1180 382 1174 382 1149 393 1111 374 1103 374 1020 401 800 401 761 379 753 379 704 396 687 379 555 379 530 407 475 407 451 385 451 382 308 382 275 401 277 456"/></Shape>
+	    <String CONTENT="1991 à Yokohama, est un footballeur japonais qui"
+                    HPOS="275"
+                    VPOS="371"
+                    WIDTH="1876"
+                    HEIGHT="140"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f3492edc"
+                    TAGREFS="LT37"
+                    BASELINE="267 573 999 561 1203 566" 
+                    HPOS="267"
+                    VPOS="481"
+                    WIDTH="936"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="267 592 1203 609 1203 566 1201 518 1086 498 1084 498 1082 498 1080 498 1060 513 975 500 974 500 972 500 970 500 970 502 950 520 691 504 689 504 687 504 686 504 686 506 665 526 636 526 634 526 599 509 598 509 596 509 594 509 543 526 478 515 476 515 475 515 473 515 473 517 465 524 467 481 449 507 447 507 428 490 390 507 388 507 387 507 385 507 385 509 345 494 325 500 322 501 313 503 271 496 267 573"/></Shape>
+	    <String CONTENT="évolue au Cerezo Osaka."
+                    HPOS="267"
+                    VPOS="481"
+                    WIDTH="936"
+                    HEIGHT="128"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1854"
+                   VPOS="0"
+                   WIDTH="541"
+                   HEIGHT="93"
+                   ID="eSc_textblock_c83eaa8d"
+                   TAGREFS="BT37">
+          <Shape><Polygon POINTS="1858 0 2395 0 2395 34 2373 93 1884 93 1854 71 1858 0"/></Shape>
+          <TextLine ID="eSc_line_6ab83998"
+                    TAGREFS="LT37"
+                    BASELINE="1878 58 2361 62" 
+                    HPOS="1876"
+                    VPOS="1"
+                    WIDTH="485"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2089 1 2087 1 2060 12 2043 18 2040 12 2028 3 2028 1 2027 1 2025 1 2023 1 2021 1 1992 14 1990 14 1988 14 1951 3 1950 3 1948 3 1946 3 1944 3 1928 16 1924 20 1917 16 1896 9 1895 9 1893 9 1891 9 1878 14 1878 58 1876 78 1889 88 1891 88 1893 88 1895 89 1964 89 1964 88 1966 88 1968 88 1983 77 2012 88 2014 88 2203 89 2205 89 2206 89 2208 89 2208 88 2214 82 2219 78 2357 86 2361 62 2357 3 2247 5 2245 5 2243 5 2243 7 2223 20 2122 18 2109 11 2093 1 2091 1"/></Shape>
+	    <String CONTENT="wikitexte_0119"
+                    HPOS="1876"
+                    VPOS="1"
+                    WIDTH="485"
+                    HEIGHT="88"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2065"
+                   VPOS="139"
+                   WIDTH="66"
+                   HEIGHT="20"
+                   ID="eSc_textblock_000730f6"
+                   TAGREFS="BT37">
+          <Shape><Polygon POINTS="2065 139 2117 139 2131 152 2074 159 2065 139"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2295"
+                   VPOS="557"
+                   WIDTH="20"
+                   HEIGHT="13"
+                   ID="eSc_textblock_8e51dc8a"
+                   TAGREFS="BT37">
+          <Shape><Polygon POINTS="2298 557 2315 557 2315 570 2295 570 2298 557"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2346"
+                   VPOS="3138"
+                   WIDTH="181"
+                   HEIGHT="160"
+                   ID="eSc_textblock_f6e49683"
+                   TAGREFS="BT37">
+          <Shape><Polygon POINTS="2417 3138 2483 3146 2527 3217 2476 3276 2368 3298 2346 3190 2368 3146 2417 3138"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2544"
+                   VPOS="3190"
+                   WIDTH="4"
+                   HEIGHT="42"
+                   ID="eSc_textblock_573e7bdc"
+                   TAGREFS="BT37">
+          <Shape><Polygon POINTS="2548 3191 2548 3232 2544 3232 2544 3190 2548 3191"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

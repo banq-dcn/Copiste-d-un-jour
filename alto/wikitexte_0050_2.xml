@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0050_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT14" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT14" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="205"
+                   VPOS="44"
+                   WIDTH="2205"
+                   HEIGHT="790"
+                   ID="eSc_textblock_b0831da6"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="2003 44 2373 44 2410 66 2388 144 2285 154 2366 174 2322 249 2300 709 2271 738 1619 753 1405 834 212 826 205 227 249 161 1706 168 1786 154 1832 58 2003 44"/></Shape>
+          <TextLine ID="eSc_line_8b678a1d"
+                    TAGREFS="LT14"
+                    BASELINE="1829 117 2381 104" 
+                    HPOS="1827"
+                    VPOS="55"
+                    WIDTH="554"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1829 117 1829 132 2298 133 2300 133 2302 133 2304 133 2320 121 2322 121 2379 121 2381 104 2375 55 2225 66 2223 66 2221 66 2221 67 2219 67 2214 75 2162 66 2126 60 2124 60 2122 60 2120 60 2107 69 2096 77 2071 71 2030 62 2028 62 2027 62 2025 62 2025 64 2014 75 2008 80 1983 80 1973 77 1944 64 1942 64 1940 64 1939 64 1937 64 1937 66 1922 80 1920 80 1918 80 1889 71 1887 71 1885 71 1884 71 1882 71 1882 73 1871 82 1871 84 1827 84 1829 117"/></Shape>
+	    <String CONTENT="wikitexte_0050"
+                    HPOS="1827"
+                    VPOS="55"
+                    WIDTH="554"
+                    HEIGHT="78"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dbd9dc62"
+                    TAGREFS="LT14"
+                    BASELINE="247 232 2046 247" 
+                    HPOS="242"
+                    VPOS="167"
+                    WIDTH="1801"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="244 231 242 258 1523 277 1683 266 1865 280 2041 264 2043 244 2041 198 1867 178 1815 195 1763 178 1694 195 1490 195 1325 173 1317 173 1292 189 1213 173 1147 189 1075 173 874 187 836 170 753 187 739 187 646 173 552 184 514 167 244 181 244 231"/></Shape>
+	    <String CONTENT="-ca{-displaystyle -ca} est résidu quadratique"
+                    HPOS="242"
+                    VPOS="167"
+                    WIDTH="1801"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_403eeb30"
+                    TAGREFS="LT14"
+                    BASELINE="236 353 387 346 1674 356" 
+                    HPOS="231"
+                    VPOS="269"
+                    WIDTH="1441"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="233 352 231 374 1078 390 1512 379 1581 393 1669 376 1672 354 1672 305 1636 277 1438 277 1413 299 1369 277 1358 277 1317 305 1207 291 1163 302 1136 275 1122 275 1078 305 1031 305 1031 302 1004 275 993 275 932 299 902 277 891 277 827 299 748 286 654 299 635 283 621 283 596 299 541 269 533 269 500 286 448 269 437 269 387 299 327 299 291 269 280 269 233 291 233 352"/></Shape>
+	    <String CONTENT="(modb){-displaystyle {-pmod {b}}}."
+                    HPOS="231"
+                    VPOS="269"
+                    WIDTH="1441"
+                    HEIGHT="124"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2ddcf881"
+                    TAGREFS="LT14"
+                    BASELINE="229 463 2210 462" 
+                    HPOS="227"
+                    VPOS="408"
+                    WIDTH="1983"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="229 463 229 487 2206 489 2210 462 2206 425 2052 408 2051 408 2049 408 2017 425 2008 430 1907 430 1895 425 1849 408 1847 408 1794 408 1792 408 1790 408 1728 425 1715 429 1707 425 1678 412 1676 412 1674 412 1673 412 1643 425 1634 430 1539 430 1531 425 1498 408 1496 408 1463 408 1462 408 1460 408 1429 427 1421 430 1330 430 1315 427 1232 408 1230 408 1229 408 1194 427 1192 427 1159 408 1157 408 1111 408 1109 408 1108 408 1073 427 1067 430 1016 430 1007 427 937 408 935 408 933 408 814 427 803 429 799 427 759 408 757 408 755 408 753 408 719 427 687 418 686 418 684 418 682 418 660 429 656 430 568 430 565 429 528 408 526 408 440 408 438 408 341 429 339 429 300 408 299 408 258 408 256 408 255 408 253 408 227 423 229 463"/></Shape>
+	    <String CONTENT="La ville américaine de Cascade est située dans"
+                    HPOS="227"
+                    VPOS="408"
+                    WIDTH="1983"
+                    HEIGHT="81"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_88bf1e11"
+                    TAGREFS="LT14"
+                    BASELINE="229 577 2025 575 2236 583" 
+                    HPOS="227"
+                    VPOS="515"
+                    WIDTH="2009"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="229 577 229 597 2232 605 2236 583 2234 540 2179 515 2177 515 2175 515 2173 515 2124 531 2073 515 2071 515 2069 515 2067 515 2027 533 1992 515 1990 515 1836 515 1834 515 1832 515 1786 540 1783 542 1660 542 1656 540 1614 520 1612 520 1610 520 1608 520 1574 539 1568 542 1440 542 1434 539 1390 515 1388 515 1243 515 1241 515 1240 515 1192 537 1185 540 1148 537 1080 531 1078 531 1076 531 1064 537 1054 540 1043 537 1014 528 1012 528 1010 528 1008 528 981 537 979 537 977 537 931 517 930 517 928 517 926 517 893 533 854 515 853 515 821 515 820 515 818 515 779 535 770 540 755 535 704 518 702 518 700 518 698 518 664 535 653 542 572 542 559 535 533 520 532 520 530 520 528 520 500 535 487 542 348 542 333 533 299 515 297 515 256 515 255 515 253 515 251 515 227 528 229 577"/></Shape>
+	    <String CONTENT="les comtés de Dubuque et Jones, dans l’État de"
+                    HPOS="227"
+                    VPOS="515"
+                    WIDTH="2009"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e6d10867"
+                    TAGREFS="LT14"
+                    BASELINE="218 694 2280 691" 
+                    HPOS="216"
+                    VPOS="636"
+                    WIDTH="2064"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="218 694 218 713 1951 726 1953 726 2252 722 2254 722 2280 709 2280 691 2276 660 2164 636 2162 636 2161 636 2111 654 2052 636 2051 636 2049 636 2047 636 2003 658 2003 660 1770 660 1768 658 1750 649 1748 649 1746 649 1682 658 1676 658 1674 658 1640 639 1638 639 1524 636 1522 636 1520 636 1465 656 1427 636 1425 636 1390 636 1388 636 1386 636 1346 656 1344 658 1342 656 1302 639 1300 639 1298 639 1297 639 1252 656 1243 660 1089 660 1084 656 1069 649 1067 649 1065 649 1064 649 1043 656 1034 660 964 656 865 650 864 650 862 650 845 656 834 660 825 656 790 638 788 638 744 638 742 638 741 638 708 656 698 660 678 656 596 638 539 638 537 638 535 638 500 654 491 660 469 654 390 638 242 638 240 638 238 638 236 638 216 649 218 694"/></Shape>
+	    <String CONTENT="l’Iowa. Lors du recensement de 2010, sa population"
+                    HPOS="216"
+                    VPOS="636"
+                    WIDTH="2064"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_042f1c02"
+                    TAGREFS="LT14"
+                    BASELINE="236 806 1408 806" 
+                    HPOS="236"
+                    VPOS="749"
+                    WIDTH="1172"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="236 806 236 830 1407 832 1408 806 1408 768 1375 749 1374 749 1372 749 1370 749 1368 749 1324 770 1297 759 1295 759 1293 759 1291 759 1269 770 1230 749 1229 749 1227 749 1170 759 1148 749 1146 749 1144 749 1142 749 1141 749 1115 771 1073 771 1040 749 1038 749 1036 749 1034 749 1032 749 994 770 974 751 974 749 972 749 970 749 878 749 876 749 875 749 838 770 799 749 798 749 796 749 794 749 792 749 792 751 770 771 706 771 675 749 673 749 671 749 669 749 667 749 665 749 665 751 643 771 605 771 565 749 563 749 561 749 475 770 392 749 390 749 388 749 387 749 385 749 355 770 300 749 299 749 297 749 295 749 293 749 293 751 277 766 236 770 236 806"/></Shape>
+	    <String CONTENT="s’élevait à 2 159 habitants."
+                    HPOS="236"
+                    VPOS="749"
+                    WIDTH="1172"
+                    HEIGHT="83"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2339"
+                   VPOS="3160"
+                   WIDTH="152"
+                   HEIGHT="138"
+                   ID="eSc_textblock_823e28bc"
+                   TAGREFS="BT14">
+          <Shape><Polygon POINTS="2362 3160 2454 3160 2491 3190 2483 3239 2417 3298 2361 3298 2339 3182 2362 3160"/></Shape>
+          <TextLine ID="eSc_line_6a85e475"
+                    TAGREFS="LT14"
+                    BASELINE="2372 3232 2460 3235" 
+                    HPOS="2370"
+                    VPOS="3164"
+                    WIDTH="90"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="2372 3232 2370 3248 2456 3256 2460 3235 2460 3179 2403 3164 2401 3164 2372 3169 2372 3232"/></Shape>
+	    <String CONTENT="2/2"
+                    HPOS="2370"
+                    VPOS="3164"
+                    WIDTH="90"
+                    HEIGHT="92"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

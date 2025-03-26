@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0087_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT30" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT30" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="220"
+                   VPOS="176"
+                   WIDTH="2249"
+                   HEIGHT="460"
+                   ID="eSc_textblock_99ffc4a5"
+                   TAGREFS="BT30">
+          <Shape><Polygon POINTS="275 176 851 198 2425 183 2469 205 2469 262 2373 291 2170 284 2139 335 2023 342 1984 374 2236 447 2359 418 2410 469 2373 518 2214 504 1669 564 1825 601 2263 601 2344 579 2373 621 256 636 220 606 220 278 234 198 275 176"/></Shape>
+          <TextLine ID="eSc_line_d7779810"
+                    TAGREFS="LT30"
+                    BASELINE="278 236 489 245 2450 254" 
+                    HPOS="277"
+                    VPOS="192"
+                    WIDTH="2173"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="277 291 2447 271 2450 254 2450 221 2412 203 2410 203 2408 203 2406 203 2344 220 2342 220 2300 203 2298 203 2296 203 2249 212 2091 201 2089 201 2087 201 2045 216 2038 218 2027 216 1973 201 1972 201 1970 201 1968 201 1940 214 1933 220 1805 220 1735 210 1614 199 1612 199 1610 199 1579 209 1568 214 1375 216 1020 216 968 201 963 199 961 199 959 199 942 201 829 212 761 210 735 198 731 196 730 196 728 196 726 196 720 198 680 210 632 201 631 201 577 210 522 194 519 194 517 194 515 194 508 194 425 210 392 194 390 194 278 192 278 236"/></Shape>
+	    <String CONTENT="Bad Schwanberg est une commune autrichienne du district de"
+                    HPOS="277"
+                    VPOS="192"
+                    WIDTH="2173"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b5c69412"
+                    TAGREFS="LT30"
+                    BASELINE="265 368 1223 366" 
+                    HPOS="264"
+                    VPOS="310"
+                    WIDTH="957"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="264 387 1161 420 1221 365 1221 330 1083 330 1078 327 1056 310 1053 310 1050 310 1048 310 1045 310 1009 324 1001 327 264 313 264 365"/></Shape>
+	    <String CONTENT="Deutschlandsberg en Styrie."
+                    HPOS="264"
+                    VPOS="310"
+                    WIDTH="957"
+                    HEIGHT="110"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d2df9f27"
+                    TAGREFS="LT30"
+                    BASELINE="272 487 2224 492" 
+                    HPOS="269"
+                    VPOS="429"
+                    WIDTH="1953"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="269 486 269 511 2219 511 2222 489 2219 448 2104 429 2027 429 2008 445 1928 431 1876 445 1851 429 1840 429 1782 442 1702 429 1680 445 1680 448 1565 448 1565 445 1545 429 1408 429 1389 445 1284 429 1240 445 1240 448 1075 448 1075 445 1053 429 965 445 883 429 877 429 844 445 808 429 734 445 671 429 662 429 629 445 569 429 387 445 283 429 269 437 269 486"/></Shape>
+	    <String CONTENT="Guy Hersant, né le 24 novembre 1949 à Fercé en Loire-"
+                    HPOS="269"
+                    VPOS="429"
+                    WIDTH="1953"
+                    HEIGHT="82"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_95240e93"
+                    TAGREFS="LT30"
+                    BASELINE="250 601 1592 608" 
+                    HPOS="244"
+                    VPOS="544"
+                    WIDTH="1345"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="244 627 1001 681 1449 640 1452 640 1455 640 1587 624 1589 607 1589 566 1537 550 1534 550 1532 550 1433 566 1430 566 1424 566 1350 550 1347 550 1345 550 1292 566 1284 566 1243 563 979 547 976 547 973 547 971 547 949 561 940 566 712 566 706 558 698 547 695 547 695 544 693 544 690 544 687 544 627 558 610 561 555 558 423 547 420 547 418 547 415 547 404 555 398 558 396 555 374 544 371 544 368 544 247 552 247 599"/></Shape>
+	    <String CONTENT="Inférieure, est un photographe français."
+                    HPOS="244"
+                    VPOS="544"
+                    WIDTH="1345"
+                    HEIGHT="137"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1056"
+                   VPOS="2750"
+                   WIDTH="591"
+                   HEIGHT="130"
+                   ID="eSc_textblock_c9f546dc"
+                   TAGREFS="BT30">
+          <Shape><Polygon POINTS="1403 2750 1640 2772 1647 2843 1610 2872 1500 2880 1056 2865 1071 2772 1403 2750"/></Shape>
+          <TextLine ID="eSc_line_9a604425"
+                    TAGREFS="LT30"
+                    BASELINE="1091 2858 1599 2847" 
+                    HPOS="1087"
+                    VPOS="2762"
+                    WIDTH="512"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1091 2858 1091 2883 1597 2874 1599 2847 1594 2770 1467 2784 1458 2775 1445 2764 1445 2762 1443 2762 1441 2762 1440 2762 1260 2770 1258 2770 1256 2770 1256 2772 1254 2772 1245 2783 1212 2770 1210 2770 1208 2770 1207 2770 1172 2788 1164 2794 1087 2794 1091 2858"/></Shape>
+	    <String CONTENT="wikitexte_0087"
+                    HPOS="1087"
+                    VPOS="2762"
+                    WIDTH="512"
+                    HEIGHT="121"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1496"
+                   VPOS="0"
+                   WIDTH="613"
+                   HEIGHT="12"
+                   ID="eSc_textblock_164bb7b8"
+                   TAGREFS="BT30">
+          <Shape><Polygon POINTS="1496 0 2109 0 2109 5 1539 12 1496 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2302"
+                   VPOS="352"
+                   WIDTH="71"
+                   HEIGHT="56"
+                   ID="eSc_textblock_d11e7624"
+                   TAGREFS="BT30">
+          <Shape><Polygon POINTS="2329 352 2373 359 2359 408 2302 372 2329 352"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2368"
+                   VPOS="3168"
+                   WIDTH="86"
+                   HEIGHT="100"
+                   ID="eSc_textblock_3d483eac"
+                   TAGREFS="BT30">
+          <Shape><Polygon POINTS="2403 3168 2454 3197 2425 3268 2368 3254 2368 3182 2403 3168"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0004_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT19" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT19" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="396"
+                   VPOS="308"
+                   WIDTH="2043"
+                   HEIGHT="2528"
+                   ID="eSc_textblock_bfa401de"
+                   TAGREFS="BT19">
+          <Shape><Polygon POINTS="436 308 2102 330 2168 344 2214 410 2439 440 2439 562 2221 577 2175 630 2183 929 2153 1041 2175 1085 2153 1136 2175 1188 2153 1217 2153 1288 2175 1290 2153 1320 2153 1391 2175 1393 2153 1444 2153 1494 2175 1496 2153 1525 2153 1596 2175 1598 2153 1628 2153 1699 2175 1701 2153 1730 2153 1802 2175 1804 2153 2000 2175 2022 2146 2068 2175 2112 2153 2163 2175 2220 2139 2376 2161 2440 2131 2484 2036 2447 1700 2432 2058 2398 2038 2368 2065 2352 1478 2330 550 2344 519 2354 528 2390 665 2432 498 2454 497 2491 665 2535 513 2557 511 2594 665 2638 482 2662 506 2706 629 2733 462 2755 453 2806 585 2828 410 2836 432 2750 410 2733 425 2185 403 2124 418 1254 396 711 403 366 436 308"/></Shape>
+          <TextLine ID="eSc_line_d3fc413b"
+                    TAGREFS="LT19"
+                    BASELINE="416 372 1914 398" 
+                    HPOS="412"
+                    VPOS="310"
+                    WIDTH="1499"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1543 324 1504 324 1438 341 1416 321 1372 321 1284 338 1210 319 1158 319 1081 335 1059 316 1023 316 984 330 943 316 932 316 913 332 838 332 819 313 794 313 764 330 728 316 607 327 519 327 489 310 448 310 437 313 415 346 412 385 1906 407 1911 396 1909 343 1543 324"/></Shape>
+	    <String CONTENT="Sa principale plate-forme de correspondance"
+                    HPOS="412"
+                    VPOS="310"
+                    WIDTH="1499"
+                    HEIGHT="97"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ba4bea04"
+                    TAGREFS="LT19"
+                    BASELINE="414 476 2197 489 2436 511" 
+                    HPOS="409"
+                    VPOS="409"
+                    WIDTH="2025"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="409 497 2433 541 2434 508 2417 445 2294 445 2291 442 2211 420 2151 420 2120 442 2076 429 1999 440 1972 418 1961 418 1900 440 1867 418 1766 431 1722 418 1713 418 1653 437 1628 415 1617 415 1567 437 1567 440 1501 440 1463 415 1452 415 1391 437 1367 415 1367 412 1356 412 1290 434 1125 412 927 431 786 415 737 429 715 409 701 409 665 431 522 409 412 429 412 475"/></Shape>
+	    <String CONTENT="aéroportuaire est l&#x27;Aéroport international Félix-Houphouët-Boigny,"
+                    HPOS="409"
+                    VPOS="409"
+                    WIDTH="2025"
+                    HEIGHT="132"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_27c94c0b"
+                    TAGREFS="LT19"
+                    BASELINE="416 579 2067 597" 
+                    HPOS="412"
+                    VPOS="517"
+                    WIDTH="1653"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="415 577 412 594 2060 613 2065 596 2063 530 1955 530 1933 555 1895 555 1834 528 1540 547 1485 525 1466 525 1389 547 1361 525 1361 522 1331 525 1235 544 1188 522 1180 522 1133 544 1017 530 888 539 822 517 742 517 701 539 415 522 415 577"/></Shape>
+	    <String CONTENT="basé à Abidjan avec lequel elle entretient des"
+                    HPOS="412"
+                    VPOS="517"
+                    WIDTH="1653"
+                    HEIGHT="96"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_20e81da3"
+                    TAGREFS="LT19"
+                    BASELINE="414 680 2112 698" 
+                    HPOS="409"
+                    VPOS="616"
+                    WIDTH="1700"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="412 679 409 698 2104 715 2109 695 2104 635 2052 651 2032 635 2030 629 1931 651 1911 635 1909 629 1755 627 1730 649 1556 635 1389 646 1342 624 1331 624 1298 646 1243 621 1235 621 1191 646 1064 646 1042 621 965 618 957 618 929 638 910 621 910 618 819 638 748 618 739 618 695 640 602 616 594 616 550 638 506 624 412 635 412 679"/></Shape>
+	    <String CONTENT="accords d&#x27;exploitation et lui assure 48 % des"
+                    HPOS="409"
+                    VPOS="616"
+                    WIDTH="1700"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_190a1dee"
+                    TAGREFS="LT19"
+                    BASELINE="418 786 1151 799" 
+                    HPOS="412"
+                    VPOS="734"
+                    WIDTH="737"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="415 783 412 822 1147 822 1149 797 1149 750 1127 739 1125 739 1122 739 1119 739 918 748 855 750 415 734 415 783"/></Shape>
+	    <String CONTENT="passagers en 2016."
+                    HPOS="412"
+                    VPOS="734"
+                    WIDTH="737"
+                    HEIGHT="88"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1751"
+                   VPOS="51"
+                   WIDTH="725"
+                   HEIGHT="203"
+                   ID="eSc_textblock_c61a90c6"
+                   TAGREFS="BT19">
+          <Shape><Polygon POINTS="1786 51 2432 51 2469 80 2476 137 2425 225 2271 254 1840 225 1759 166 1751 80 1786 51"/></Shape>
+          <TextLine ID="eSc_line_063d9b80"
+                    TAGREFS="LT19"
+                    BASELINE="1775 124 2454 148" 
+                    HPOS="1773"
+                    VPOS="55"
+                    WIDTH="681"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="1775 124 1773 139 1786 152 1786 154 1788 154 1790 154 1792 154 1867 152 1869 152 1898 139 1911 150 1911 152 1913 152 1915 152 1917 152 1918 152 1940 146 2012 166 2014 166 2016 166 2073 154 2104 165 2106 165 2107 165 2109 165 2129 154 2188 207 2188 209 2190 209 2192 209 2306 212 2307 212 2309 212 2311 212 2311 210 2355 170 2452 159 2454 148 2454 106 2406 73 2405 73 2403 73 2350 71 2348 71 2346 71 2344 71 2344 73 2315 102 2285 88 2283 88 2282 88 2280 88 2258 99 2173 80 2172 80 2170 80 2168 80 2146 95 2142 97 2098 97 2093 93 2056 66 2054 66 2052 66 2051 66 2049 66 1992 82 1968 62 1968 60 1966 60 1964 60 1962 60 1961 60 1959 60 1933 82 1873 55 1871 55 1869 55 1867 55 1865 55 1830 82 1829 82 1775 80 1775 124"/></Shape>
+	    <String CONTENT="wikitexte_0004/2"
+                    HPOS="1773"
+                    VPOS="55"
+                    WIDTH="681"
+                    HEIGHT="157"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1781"
+                   VPOS="2603"
+                   WIDTH="380"
+                   HEIGHT="42"
+                   ID="eSc_textblock_795081e6"
+                   TAGREFS="BT19">
+          <Shape><Polygon POINTS="2109 2603 2161 2645 1781 2638 1891 2618 2109 2603"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1788"
+                   VPOS="2500"
+                   WIDTH="373"
+                   HEIGHT="79"
+                   ID="eSc_textblock_f6308af3"
+                   TAGREFS="BT19">
+          <Shape><Polygon POINTS="2102 2500 2161 2537 2124 2579 2095 2550 1788 2535 2102 2500"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1810"
+                   VPOS="2720"
+                   WIDTH="351"
+                   HEIGHT="28"
+                   ID="eSc_textblock_9e94f58b"
+                   TAGREFS="BT19">
+          <Shape><Polygon POINTS="1946 2720 2153 2720 2161 2748 1810 2740 1946 2720"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1898"
+                   VPOS="2823"
+                   WIDTH="255"
+                   HEIGHT="27"
+                   ID="eSc_textblock_23eb5379"
+                   TAGREFS="BT19">
+          <Shape><Polygon POINTS="2065 2823 2153 2850 1898 2843 2058 2830 2065 2823"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0010_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT15" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT15" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="381"
+                   VPOS="271"
+                   WIDTH="1816"
+                   HEIGHT="1905"
+                   ID="eSc_textblock_4389ab4c"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="616 271 2051 278 2168 300 2197 403 2197 518 2168 564 2197 608 2190 1853 2146 1906 2168 1963 1803 1948 2082 1912 1911 1868 631 1875 533 1912 1260 1956 440 1970 462 2016 498 2024 820 2044 447 2066 432 2126 629 2154 431 2176 396 2154 418 2066 396 2051 381 1772 396 322 425 286 616 271"/></Shape>
+          <TextLine ID="eSc_line_ccad7cbf"
+                    TAGREFS="LT15"
+                    BASELINE="401 366 2107 369" 
+                    HPOS="396"
+                    VPOS="280"
+                    WIDTH="1708"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="451 286 420 286 398 319 396 385 2098 396 2104 368 2101 305 1977 280 1895 280 1895 283 1873 302 1677 302 1655 283 1655 280 1644 280 1581 299 1515 280 1504 280 1477 302 1477 305 1433 305 1433 302 1400 280 1389 280 1342 302 1218 280 1056 302 968 280 957 280 957 283 932 302 932 305 894 305 891 302 797 280 789 280 770 302 654 302 594 280 585 280 536 302 459 283 451 286"/></Shape>
+	    <String CONTENT="des Journées Musicales de Carthage. Elle a"
+                    HPOS="396"
+                    VPOS="280"
+                    WIDTH="1708"
+                    HEIGHT="116"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8197a0eb"
+                    TAGREFS="LT15"
+                    BASELINE="401 478 1183 476 1635 483" 
+                    HPOS="396"
+                    VPOS="390"
+                    WIDTH="1237"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="398 475 396 495 1628 503 1633 481 1633 418 1567 393 1565 393 1562 393 1463 415 1433 393 1430 393 1427 393 1424 393 1369 396 1367 396 1364 396 1364 398 1347 415 1298 393 1295 393 1292 393 1174 415 1083 393 1081 393 1078 393 1075 393 1031 415 1031 418 929 418 929 415 880 393 877 393 874 393 872 393 822 412 805 396 805 393 803 393 800 393 726 390 723 390 605 412 440 393 437 393 434 393 398 409 398 475"/></Shape>
+	    <String CONTENT="son actif deux albums studio."
+                    HPOS="396"
+                    VPOS="390"
+                    WIDTH="1237"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_64076727"
+                    TAGREFS="LT15"
+                    BASELINE="415 678 1858 694" 
+                    HPOS="409"
+                    VPOS="591"
+                    WIDTH="1447"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="412 676 409 704 1851 712 1856 693 1856 624 1801 602 1799 602 1796 602 1793 602 1716 621 1713 621 1658 602 1655 602 1653 602 1650 602 1614 616 1386 599 1383 599 1380 599 1378 599 1356 616 1268 596 1265 596 1262 596 1204 616 1171 599 1169 599 1166 599 943 613 918 613 913 613 883 591 880 591 877 591 874 591 872 591 797 610 794 610 574 610 574 607 530 591 528 591 525 591 412 605 412 676"/></Shape>
+	    <String CONTENT="L&#x27;Angust est une rivière française du"
+                    HPOS="409"
+                    VPOS="591"
+                    WIDTH="1447"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_09ca76e1"
+                    TAGREFS="LT15"
+                    BASELINE="399 790 2023 804" 
+                    HPOS="396"
+                    VPOS="698"
+                    WIDTH="1625"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="398 789 396 808 2016 816 2021 803 2021 728 1964 706 1955 706 1914 726 1854 706 1845 706 1793 726 1777 706 1697 704 1501 723 1419 704 1323 720 1281 701 1210 715 1158 701 1149 701 1108 717 1050 698 1042 698 1006 717 910 698 902 698 877 717 811 704 803 704 786 717 654 717 613 698 602 698 577 715 492 701 398 712 398 789"/></Shape>
+	    <String CONTENT="département des Pyrénées-Orientales de la"
+                    HPOS="396"
+                    VPOS="698"
+                    WIDTH="1625"
+                    HEIGHT="118"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d4913111"
+                    TAGREFS="LT15"
+                    BASELINE="405 900 926 892 1006 896 1714 900 1994 896" 
+                    HPOS="401"
+                    VPOS="808"
+                    WIDTH="1590"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="404 899 404 918 1986 921 1991 893 1986 830 1909 827 1889 808 1735 830 1711 830 1523 811 1433 830 1364 808 1356 808 1309 830 1295 814 1232 825 1180 808 1169 808 1169 811 1144 833 1094 833 1078 816 745 808 737 808 715 833 574 833 517 808 511 808 401 833 404 899"/></Shape>
+	    <String CONTENT="région Occitanie, dans l&#x27;ancienne région"
+                    HPOS="401"
+                    VPOS="808"
+                    WIDTH="1590"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0067884d"
+                    TAGREFS="LT15"
+                    BASELINE="399 1004 691 997 853 1004 2135 1012" 
+                    HPOS="396"
+                    VPOS="913"
+                    WIDTH="1738"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="398 1003 396 1014 2129 1028 2134 1012 2131 940 2030 921 2021 921 1999 937 1892 924 1867 940 1840 921 1832 921 1722 940 1603 918 1534 940 1367 940 1336 918 1325 918 1290 937 1281 937 1235 924 1149 937 1125 918 1125 915 1017 935 899 915 836 935 759 915 750 915 706 932 489 929 475 913 464 913 398 932 398 1003"/></Shape>
+	    <String CONTENT="Languedoc-Roussillon et un affluent gauche"
+                    HPOS="396"
+                    VPOS="913"
+                    WIDTH="1738"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3b5c25cf"
+                    TAGREFS="LT15"
+                    BASELINE="399 1107 2109 1108" 
+                    HPOS="398"
+                    VPOS="1024"
+                    WIDTH="1709"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="630 1145 2104 1138 2107 1050 2057 1025 2049 1025 1988 1045 1928 1025 1920 1025 1823 1050 1796 1028 1796 1025 1675 1025 1622 1050 1559 1025 1548 1025 1532 1039 1435 1031 1435 1034 1416 1050 1345 1036 1262 1050 1138 1025 1097 1053 1054 1024 979 1025 924 1025 866 1039 838 1028 827 1028 827 1031 805 1050 715 1036 525 1050 462 1025 453 1025 398 1050 398 1105"/></Shape>
+	    <String CONTENT="du Sègre, c&#x27;est-à-dire un sous-affluent de"
+                    HPOS="398"
+                    VPOS="1024"
+                    WIDTH="1709"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_40682209"
+                    TAGREFS="LT15"
+                    BASELINE="438 1208 729 1211" 
+                    HPOS="434"
+                    VPOS="1122"
+                    WIDTH="294"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="437 1207 434 1232 723 1234 728 1210 728 1149 676 1133 673 1133 671 1133 602 1144 572 1122 569 1122 566 1122 470 1122 467 1122 464 1122 462 1122 437 1135 437 1207"/></Shape>
+	    <String CONTENT="l&#x27;Èbre."
+                    HPOS="434"
+                    VPOS="1122"
+                    WIDTH="294"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b679509f"
+                    TAGREFS="LT15"
+                    BASELINE="418 1418 2115 1430" 
+                    HPOS="412"
+                    VPOS="1331"
+                    WIDTH="1700"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="415 1416 412 1441 2107 1449 2112 1430 2112 1364 2063 1342 1854 1361 1812 1342 1804 1342 1755 1358 1688 1339 1625 1355 1380 1339 1328 1355 1309 1339 1309 1336 1298 1336 1232 1358 1166 1358 1138 1336 1127 1336 1081 1353 965 1339 954 1339 918 1353 869 1336 756 1353 415 1331 415 1416"/></Shape>
+	    <String CONTENT="Tencozy est une équipe japonaise de catch"
+                    HPOS="412"
+                    VPOS="1331"
+                    WIDTH="1700"
+                    HEIGHT="118"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_77d3d2af"
+                    TAGREFS="LT15"
+                    BASELINE="399 1523 2039 1526" 
+                    HPOS="396"
+                    VPOS="1443"
+                    WIDTH="1642"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="398 1520 396 1542 2032 1551 2038 1523 2038 1465 1988 1443 1920 1460 1884 1443 1768 1443 1752 1463 1711 1443 1702 1443 1653 1463 1438 1460 1413 1443 1325 1443 1306 1465 1262 1465 1243 1443 1119 1465 1026 1465 995 1443 932 1443 916 1463 872 1443 805 1443 783 1463 673 1443 627 1463 398 1463 398 1520"/></Shape>
+	    <String CONTENT="composée de Hiroyoshi Tenzan et Satoshi"
+                    HPOS="396"
+                    VPOS="1443"
+                    WIDTH="1642"
+                    HEIGHT="108"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d63d7c47"
+                    TAGREFS="LT15"
+                    BASELINE="399 1628 2154 1637" 
+                    HPOS="396"
+                    VPOS="1537"
+                    WIDTH="1757"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="398 1628 396 1644 2148 1658 2153 1636 2151 1567 2002 1567 1964 1542 1950 1542 1917 1564 1873 1548 1865 1548 1821 1564 1788 1542 1777 1542 1733 1562 1702 1548 1694 1548 1642 1564 1592 1542 1581 1542 1581 1545 1565 1559 1532 1548 1521 1548 1501 1564 1356 1564 1334 1540 1191 1556 1064 1540 1031 1559 1015 1545 1015 1542 949 1537 885 1556 781 1537 781 1540 756 1559 756 1562 528 1562 492 1537 484 1537 398 1556 398 1628"/></Shape>
+	    <String CONTENT="Kojima. Le duo travaille pour la New Japan"
+                    HPOS="396"
+                    VPOS="1537"
+                    WIDTH="1757"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_18498191"
+                    TAGREFS="LT15"
+                    BASELINE="399 1736 752 1730 1351 1740" 
+                    HPOS="396"
+                    VPOS="1630"
+                    WIDTH="954"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="464 1630 456 1630 456 1633 426 1663 398 1663 396 1749 910 1768 1347 1757 1350 1738 1350 1666 1323 1639 1323 1636 1312 1636 1246 1658 1199 1636 1188 1636 1160 1655 1039 1644 1039 1647 1015 1669 960 1669 819 1636 698 1633 693 1633 660 1652 643 1636 643 1633 629 1633 629 1636 599 1663 599 1666 550 1666 464 1630"/></Shape>
+	    <String CONTENT="Pro Wrestling (NJPW)."
+                    HPOS="396"
+                    VPOS="1630"
+                    WIDTH="954"
+                    HEIGHT="138"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1773"
+                   VPOS="51"
+                   WIDTH="659"
+                   HEIGHT="123"
+                   ID="eSc_textblock_c662aa21"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="1812 51 2395 58 2432 115 2403 166 1796 174 1773 102 1812 51"/></Shape>
+          <TextLine ID="eSc_line_7c2a83d2"
+                    TAGREFS="LT15"
+                    BASELINE="1799 128 2406 133" 
+                    HPOS="1797"
+                    VPOS="58"
+                    WIDTH="609"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1799 128 1797 155 1878 148 2201 148 2210 152 2245 163 2247 163 2249 163 2298 154 2307 161 2307 163 2309 163 2311 163 2313 165 2386 165 2386 163 2388 163 2390 163 2405 150 2406 133 2406 84 2377 64 2375 64 2373 64 2372 64 2370 64 2368 64 2346 80 2329 67 2329 66 2328 66 2326 66 2324 66 2322 66 2295 77 2225 67 2223 67 2221 67 2219 67 2219 69 2205 82 2201 86 2137 86 2131 80 2104 60 2102 60 2100 60 2098 60 2036 73 1999 58 1997 58 1995 58 1929 67 1917 58 1915 58 1913 58 1911 58 1909 58 1907 58 1889 77 1880 82 1799 75 1799 128"/></Shape>
+	    <String CONTENT="wikitexte_0010"
+                    HPOS="1797"
+                    VPOS="58"
+                    WIDTH="609"
+                    HEIGHT="107"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2030"
+                   VPOS="2772"
+                   WIDTH="131"
+                   HEIGHT="20"
+                   ID="eSc_textblock_df395c29"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2084 2772 2139 2772 2161 2792 2030 2784 2084 2772"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1920"
+                   VPOS="2244"
+                   WIDTH="248"
+                   HEIGHT="27"
+                   ID="eSc_textblock_e301ce73"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2067 2244 2146 2244 2168 2271 1920 2264 2067 2244"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="396"
+                   VPOS="2339"
+                   WIDTH="453"
+                   HEIGHT="35"
+                   ID="eSc_textblock_1df7deb5"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="418 2339 587 2354 849 2359 410 2374 396 2354 418 2339"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="396"
+                   VPOS="2434"
+                   WIDTH="431"
+                   HEIGHT="50"
+                   ID="eSc_textblock_4969f9dd"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="418 2434 587 2456 827 2462 425 2484 396 2469 418 2434"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="396"
+                   VPOS="2757"
+                   WIDTH="350"
+                   HEIGHT="27"
+                   ID="eSc_textblock_04f7f5b2"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="418 2757 557 2772 746 2777 396 2784 418 2757"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1979"
+                   VPOS="2874"
+                   WIDTH="189"
+                   HEIGHT="20"
+                   ID="eSc_textblock_b4db9634"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2091 2874 2168 2894 1979 2887 2080 2882 2091 2874"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1840"
+                   VPOS="2456"
+                   WIDTH="328"
+                   HEIGHT="20"
+                   ID="eSc_textblock_7a062d23"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="1986 2456 2161 2456 2168 2476 1840 2469 1986 2456"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="396"
+                   VPOS="2544"
+                   WIDTH="203"
+                   HEIGHT="42"
+                   ID="eSc_textblock_706fe972"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="418 2544 599 2559 599 2564 425 2586 396 2572 418 2544"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="396"
+                   VPOS="2860"
+                   WIDTH="218"
+                   HEIGHT="27"
+                   ID="eSc_textblock_48525714"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="418 2860 614 2874 614 2880 396 2887 418 2860"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1979"
+                   VPOS="2662"
+                   WIDTH="189"
+                   HEIGHT="20"
+                   ID="eSc_textblock_9e21d58b"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2096 2662 2168 2682 1979 2674 2087 2669 2096 2662"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1803"
+                   VPOS="2031"
+                   WIDTH="372"
+                   HEIGHT="27"
+                   ID="eSc_textblock_06c76f2f"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2082 2031 2175 2058 1803 2051 2073 2038 2082 2031"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1854"
+                   VPOS="2559"
+                   WIDTH="314"
+                   HEIGHT="20"
+                   ID="eSc_textblock_3f97b589"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2030 2559 2168 2579 1854 2572 2021 2566 2030 2559"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="396"
+                   VPOS="2654"
+                   WIDTH="233"
+                   HEIGHT="20"
+                   ID="eSc_textblock_a54d4718"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="432 2654 577 2662 629 2674 396 2674 432 2654"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="396"
+                   VPOS="2236"
+                   WIDTH="262"
+                   HEIGHT="35"
+                   ID="eSc_textblock_6e86693c"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="418 2236 621 2244 658 2256 425 2271 396 2256 418 2236"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1854"
+                   VPOS="2141"
+                   WIDTH="314"
+                   HEIGHT="27"
+                   ID="eSc_textblock_3ae65d46"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2030 2141 2153 2141 2168 2168 1854 2154 2030 2141"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1972"
+                   VPOS="2354"
+                   WIDTH="196"
+                   HEIGHT="20"
+                   ID="eSc_textblock_d55e7ba9"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2047 2354 2153 2354 2168 2374 1972 2366 2047 2354"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="410"
+                   VPOS="2178"
+                   WIDTH="6"
+                   HEIGHT="5"
+                   ID="eSc_textblock_085f8324"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="414 2183 410 2183 410 2178 416 2178 414 2183"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

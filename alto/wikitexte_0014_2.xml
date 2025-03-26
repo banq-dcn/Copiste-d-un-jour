@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0014_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT12" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT12" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="198"
+                   VPOS="256"
+                   WIDTH="2007"
+                   HEIGHT="299"
+                   ID="eSc_textblock_9d18963a"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="229 256 1196 293 2095 278 2197 308 2205 401 2168 430 2016 445 2014 482 1913 482 1786 533 220 555 198 518 198 300 229 256"/></Shape>
+          <TextLine ID="eSc_line_2ded12a1"
+                    TAGREFS="LT12"
+                    BASELINE="236 375 825 368 1177 381 2186 383" 
+                    HPOS="214"
+                    VPOS="258"
+                    WIDTH="1972"
+                    HEIGHT="178">
+            <Shape><Polygon POINTS="236 392 449 392 456 394 517 414 519 414 521 416 585 436 640 414 642 414 676 396 684 392 798 392 809 396 858 416 860 416 862 416 864 416 919 396 922 394 985 394 1113 394 1122 397 1166 416 1168 416 1170 416 1876 408 1878 408 1893 401 1906 394 1937 401 1972 408 1973 408 1975 408 1990 401 2003 394 2028 401 2052 408 2054 408 2056 408 2184 401 2186 383 2184 342 1937 342 1926 337 1869 304 1867 304 1865 304 1863 304 1801 333 1786 341 1636 341 1614 330 1553 304 1552 304 1550 304 1548 304 1504 328 1478 342 1333 342 1194 330 1192 330 1108 337 1075 319 1049 304 1047 304 891 304 889 304 887 304 865 315 847 322 720 313 719 313 717 313 647 339 546 308 528 302 526 302 432 302 431 302 429 302 423 306 390 324 354 304 350 302 281 258 214 300 236 375"/></Shape>
+	    <String CONTENT="Le village comptait approximativement une"
+                    HPOS="214"
+                    VPOS="258"
+                    WIDTH="1972"
+                    HEIGHT="178"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_97ef2273"
+                    TAGREFS="LT12"
+                    BASELINE="231 491 871 476 1829 489" 
+                    HPOS="231"
+                    VPOS="412"
+                    WIDTH="1620"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="251 552 399 522 414 520 401 520 396 533 420 507 462 517 464 517 504 509 522 520 524 520 526 520 528 520 654 493 684 506 686 506 687 506 809 504 810 504 812 504 831 493 941 504 942 504 944 504 970 493 985 506 986 506 988 506 990 506 1080 495 1097 506 1098 506 1100 506 1192 507 1194 507 1585 504 1586 504 1625 495 1663 520 1665 520 1667 520 1669 520 1748 504 1849 526 1851 485 1829 441 1792 416 1790 416 1788 416 1786 416 1707 430 1663 414 1662 414 1660 414 1658 414 1656 414 1614 443 1612 445 1537 445 1535 443 1504 430 1502 430 1500 430 1445 443 1443 443 1401 414 1399 414 1397 414 1348 414 1346 414 1344 414 1302 434 1275 414 1273 414 1271 414 1232 414 1230 414 1229 414 1227 414 1208 429 1188 414 1186 414 1185 414 1183 414 1181 414 1152 423 1089 414 1087 414 1086 414 1084 414 1045 441 1007 414 1005 414 1003 414 878 412 876 412 875 412 873 412 829 443 810 443 766 412 765 412 763 412 726 412 724 412 722 412 720 412 676 443 577 443 510 412 508 412 506 412 504 412 502 412 476 429 445 412 443 412 442 412 440 412 438 412 394 443 231 443 231 491"/></Shape>
+	    <String CONTENT="population de 527 habitants en 2011 ."
+                    HPOS="231"
+                    VPOS="412"
+                    WIDTH="1620"
+                    HEIGHT="140"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1944"
+                   VPOS="0"
+                   WIDTH="561"
+                   HEIGHT="166"
+                   ID="eSc_textblock_46357cbe"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1944 0 2505 0 2505 78 2469 159 2346 137 1994 166 1950 122 1944 0"/></Shape>
+          <TextLine ID="eSc_line_f33fa2ea"
+                    TAGREFS="LT12"
+                    BASELINE="1964 84 2487 84" 
+                    HPOS="1961"
+                    VPOS="16"
+                    WIDTH="527"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1961 107 2486 107 2486 82 2488 31 2346 16 2343 16 2340 16 2277 35 2225 16 2222 16 2219 16 2217 16 2178 33 2049 16 2046 16 2043 16 2041 16 2041 19 2019 38 1961 38 1961 82"/></Shape>
+	    <String CONTENT="wikitexte-0014"
+                    HPOS="1961"
+                    VPOS="16"
+                    WIDTH="527"
+                    HEIGHT="91"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2353"
+                   VPOS="3146"
+                   WIDTH="145"
+                   HEIGHT="152"
+                   ID="eSc_textblock_27cabb7a"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="2386 3146 2498 3153 2498 3298 2353 3298 2353 3168 2386 3146"/></Shape>
+          <TextLine ID="eSc_line_af18a0d5"
+                    TAGREFS="LT12"
+                    BASELINE="2383 3254 2472 3254" 
+                    HPOS="2383"
+                    VPOS="3158"
+                    WIDTH="89"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="2383 3254 2383 3276 2472 3276 2472 3254 2471 3158 2383 3164 2383 3254"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2383"
+                    VPOS="3158"
+                    WIDTH="89"
+                    HEIGHT="118"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

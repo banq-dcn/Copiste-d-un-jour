@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0032_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT7" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT7" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="198"
+                   VPOS="7"
+                   WIDTH="2234"
+                   HEIGHT="702"
+                   ID="eSc_textblock_bd5ec8a5"
+                   TAGREFS="BT7">
+          <Shape><Polygon POINTS="2113 7 2366 7 2432 44 2381 306 2278 366 2329 410 2329 452 2014 454 2410 484 2410 599 2337 687 1451 709 513 702 271 672 264 271 198 240 198 139 1764 139 1832 122 1862 29 2113 7"/></Shape>
+          <TextLine ID="eSc_line_023152d7"
+                    TAGREFS="LT7"
+                    BASELINE="1858 106 2051 95 2405 93" 
+                    HPOS="1856"
+                    VPOS="31"
+                    WIDTH="549"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1858 106 1858 113 2405 113 2405 93 2403 55 2379 33 2379 31 2377 31 2375 31 2304 31 2302 31 2300 31 2269 42 2247 36 2245 36 2243 36 2241 36 2239 36 2239 38 2216 60 2157 60 2137 60 2085 34 2084 34 2082 34 2080 34 2040 45 2001 40 1999 40 1997 40 1995 40 1995 42 1983 51 1968 40 1966 40 1964 40 1962 40 1961 40 1959 40 1922 66 1856 66 1858 106"/></Shape>
+	    <String CONTENT="wikitexte_0032"
+                    HPOS="1856"
+                    VPOS="31"
+                    WIDTH="549"
+                    HEIGHT="82"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5bd90ace"
+                    TAGREFS="LT7"
+                    BASELINE="304 308 2036 319" 
+                    HPOS="304"
+                    VPOS="253"
+                    WIDTH="1732"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="304 328 592 328 605 330 649 341 715 395 757 342 757 341 759 341 761 341 776 331 779 330 875 331 1374 342 1375 342 1634 335 1638 335 1678 346 1680 346 1737 388 1808 337 1832 348 1834 348 1858 376 2034 335 2036 319 2034 286 1990 286 1988 284 1955 264 1953 264 1951 264 1950 264 1948 264 1891 282 1889 282 1860 271 1858 271 1856 271 1854 271 1829 280 1821 284 1812 280 1779 267 1777 267 1775 267 1773 267 1772 267 1753 280 1750 282 1717 278 1662 273 1660 273 1636 276 1621 280 1616 276 1594 262 1592 262 1590 262 1588 262 1586 262 1557 276 1553 276 1548 275 1522 269 1520 269 1518 269 1493 275 1460 282 1436 273 1399 260 1397 260 1396 260 1394 260 1370 273 1353 280 1328 271 1315 267 1313 267 1311 267 1309 267 1302 271 1284 282 1236 282 1218 269 1205 260 1203 260 1201 260 1199 260 1197 260 1164 267 1124 278 1064 265 1047 264 1045 264 1043 264 1038 265 1008 278 884 278 856 262 849 256 847 256 845 256 843 256 842 256 821 262 770 276 753 265 752 265 750 265 748 265 680 273 658 258 656 256 654 256 653 256 304 253 304 308"/></Shape>
+	    <String CONTENT="(14727) Suggs est un astéroïde de la ceinture principale."
+                    HPOS="304"
+                    VPOS="253"
+                    WIDTH="1732"
+                    HEIGHT="142"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1249a7a4"
+                    TAGREFS="LT7"
+                    BASELINE="282 539 2394 546" 
+                    HPOS="280"
+                    VPOS="482"
+                    WIDTH="2114"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="280 555 458 561 489 577 491 577 537 603 592 579 592 577 594 577 627 561 779 561 785 562 812 579 814 579 816 579 818 581 909 581 909 579 911 579 944 564 950 561 1322 561 1346 570 1348 570 1350 570 1370 570 1698 564 1718 575 1731 581 1733 581 1735 583 1777 583 1777 581 1779 581 1790 575 1812 564 2214 564 2261 583 2265 583 2267 583 2328 621 2392 584 2394 546 2390 489 2318 506 2287 496 2285 496 2283 496 2223 506 2190 489 2188 489 2186 489 2085 502 2060 489 2058 489 2001 489 1999 489 1869 506 1713 506 1673 487 1671 487 1669 487 1667 487 1630 504 1597 489 1596 489 1594 489 1592 489 1563 506 1430 506 1401 491 1399 491 1397 491 1396 491 1370 504 1335 485 1333 485 1331 485 1282 495 1192 485 1190 485 1188 485 1155 504 1073 504 1038 485 1036 485 924 485 922 485 920 485 891 500 731 500 700 484 698 484 660 484 658 484 656 484 623 502 434 502 401 484 399 484 398 484 396 484 370 491 282 482 282 539"/></Shape>
+	    <String CONTENT="Nedo-ery - Brezany (allemand : Untermaut, hongrois : Nádasérberzseny)"
+                    HPOS="280"
+                    VPOS="482"
+                    WIDTH="2114"
+                    HEIGHT="139"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6e045e7b"
+                    TAGREFS="LT7"
+                    BASELINE="291 654 2135 658" 
+                    HPOS="288"
+                    VPOS="582"
+                    WIDTH="1846"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="290 724 2120 726 2134 657 2131 618 2024 602 1887 616 1843 602 1834 602 1804 618 1551 618 1507 602 1441 616 1430 616 1394 602 1306 616 1290 616 1259 602 1248 602 1232 613 1215 599 1064 613 1061 616 869 616 869 613 824 582 767 613 759 613 720 599 712 599 684 613 558 599 288 610 288 651"/></Shape>
+	    <String CONTENT="est un village de Slovaquie situé dans la région de Tren-ín."
+                    HPOS="288"
+                    VPOS="582"
+                    WIDTH="1846"
+                    HEIGHT="144"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1876"
+                   VPOS="0"
+                   WIDTH="13"
+                   HEIGHT="5"
+                   ID="eSc_textblock_cd2dddcb"
+                   TAGREFS="BT7">
+          <Shape><Polygon POINTS="1878 0 1889 0 1889 5 1876 5 1878 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1957"
+                   VPOS="0"
+                   WIDTH="13"
+                   HEIGHT="5"
+                   ID="eSc_textblock_94ce1998"
+                   TAGREFS="BT7">
+          <Shape><Polygon POINTS="1959 0 1970 0 1970 5 1957 5 1959 0"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

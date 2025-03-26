@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0064_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT24" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT24" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="293"
+                   VPOS="344"
+                   WIDTH="2095"
+                   HEIGHT="952"
+                   ID="eSc_textblock_3f81be6a"
+                   TAGREFS="BT24">
+          <Shape><Polygon POINTS="368 344 1728 366 2315 410 2359 454 2359 812 2388 960 2359 1120 2322 1149 1385 1164 1282 1193 1295 1237 1150 1296 308 1252 293 425 315 359 368 344"/></Shape>
+          <TextLine ID="eSc_line_0b15c1a3"
+                    TAGREFS="LT24"
+                    BASELINE="329 449 2157 452" 
+                    HPOS="324"
+                    VPOS="326"
+                    WIDTH="1832"
+                    HEIGHT="198">
+            <Shape><Polygon POINTS="324 464 478 484 525 470 1254 470 1313 509 1394 473 1828 524 2153 473 2156 451 2151 401 1829 407 1719 371 1647 371 1606 407 1554 398 1496 393 1446 398 1402 407 1353 371 1265 371 1221 393 1166 371 1155 371 1155 374 1125 398 1119 407 1064 379 1056 379 987 407 932 407 921 398 866 371 808 371 778 398 522 401 489 374 489 371 417 326 327 390 327 448"/></Shape>
+	    <String CONTENT="Le monastère de Rakya ou Rabgya, au"
+                    HPOS="324"
+                    VPOS="326"
+                    WIDTH="1832"
+                    HEIGHT="198"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_05eccc2d"
+                    TAGREFS="LT24"
+                    BASELINE="358 559 2326 566" 
+                    HPOS="354"
+                    VPOS="473"
+                    WIDTH="1970"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="354 577 809 607 841 618 921 585 943 602 1078 583 1111 607 1229 583 1268 607 1279 607 1339 588 1407 628 1573 585 1782 585 1899 653 1961 613 1961 610 2010 585 2109 638 2148 613 2148 610 2153 610 2181 588 2321 588 2324 563 2321 519 2098 495 2093 495 2049 519 1504 519 1482 503 1471 503 1424 517 1391 495 1325 506 1309 492 1295 492 1262 514 984 492 957 517 877 517 811 492 803 492 753 508 705 473 662 492 638 514 572 495 563 495 530 514 503 492 357 492 357 558"/></Shape>
+	    <String CONTENT="Tibet Rakya Gompa (Wylie rva rgya dgon"
+                    HPOS="354"
+                    VPOS="473"
+                    WIDTH="1970"
+                    HEIGHT="180"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2c6c40d2"
+                    TAGREFS="LT24"
+                    BASELINE="341 674 2290 676" 
+                    HPOS="338"
+                    VPOS="585"
+                    WIDTH="1955"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="346 732 2293 733 2288 635 2244 635 2244 632 2206 607 2192 607 2164 632 2120 613 2027 632 1986 607 1975 607 1925 635 1669 635 1573 610 1567 610 1529 632 1422 602 1402 613 1389 613 1367 629 1336 605 1325 605 1226 632 1218 632 1185 605 1072 605 1042 629 1039 635 987 635 982 629 887 585 841 605 833 605 794 632 643 605 550 605 517 633 467 635 420 605 409 605 338 627 338 673"/></Shape>
+	    <String CONTENT="pa, Chin. Lajia Si) est le plus grand et le"
+                    HPOS="338"
+                    VPOS="585"
+                    WIDTH="1955"
+                    HEIGHT="148"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fce5301e"
+                    TAGREFS="LT24"
+                    BASELINE="338 780 2333 790" 
+                    HPOS="334"
+                    VPOS="693"
+                    WIDTH="1998"
+                    HEIGHT="167">
+            <Shape><Polygon POINTS="334 830 1479 805 1510 822 1518 822 1562 808 1675 808 1757 860 1892 811 1931 825 1939 825 1983 808 2329 803 2332 789 2332 745 2299 728 2291 728 2263 742 2241 723 2230 723 2170 745 2013 723 1944 723 1920 745 1829 731 1727 742 1702 720 1593 693 1510 739 1504 745 1468 745 1466 739 1444 723 1444 720 1317 742 1067 742 1037 717 1026 717 962 737 946 739 511 739 418 715 374 737 335 731 335 778"/></Shape>
+	    <String CONTENT="plus important monastère Gelugpa  (une des"
+                    HPOS="334"
+                    VPOS="693"
+                    WIDTH="1998"
+                    HEIGHT="167"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dc0e076e"
+                    TAGREFS="LT24"
+                    BASELINE="347 896 2250 902" 
+                    HPOS="340"
+                    VPOS="825"
+                    WIDTH="1907"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="340 951 1227 961 2244 915 2247 902 2247 858 2214 841 2112 855 2071 830 2060 830 2005 849 1986 833 1986 830 1876 830 1876 833 1848 855 1848 858 1658 858 1617 827 1479 827 1446 852 1375 852 1347 827 1295 827 1295 830 1268 855 1215 855 1174 827 1163 827 1105 852 863 849 797 827 709 849 684 827 673 827 635 844 616 825 605 825 547 847 456 847 431 825 420 825 346 844 346 893"/></Shape>
+	    <String CONTENT="4 écoles majeur du Bouddhisme tibétain"
+                    HPOS="340"
+                    VPOS="825"
+                    WIDTH="1907"
+                    HEIGHT="136"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1628c283"
+                    TAGREFS="LT24"
+                    BASELINE="308 1010 990 1004 2357 1012" 
+                    HPOS="306"
+                    VPOS="917"
+                    WIDTH="2066"
+                    HEIGHT="202">
+            <Shape><Polygon POINTS="306 1024 755 1026 823 1063 825 1063 827 1065 897 1065 897 1063 898 1063 937 1043 992 1065 994 1065 996 1067 1053 1067 1053 1065 1054 1065 1104 1039 1153 1065 1155 1065 1157 1067 1186 1067 1186 1065 1188 1065 1256 1032 1308 1050 1309 1050 1311 1050 1313 1050 1353 1030 1394 1030 1462 1065 1463 1065 1465 1067 1577 1067 1577 1065 1579 1065 1614 1046 1649 1065 1651 1065 1652 1065 1654 1065 1739 1032 1929 1032 2034 1067 2036 1067 2148 1119 2219 1068 2219 1067 2221 1067 2272 1039 2304 1056 2306 1056 2307 1056 2309 1056 2355 1032 2357 1012 2372 933 2214 969 2124 947 2117 946 2115 946 1951 946 1950 946 1948 946 1940 949 1929 955 1904 949 1884 946 1882 946 1880 946 1871 949 1823 969 1638 966 1618 955 1616 955 1614 955 1612 955 1586 969 1539 969 1509 953 1491 944 1451 917 1394 944 1392 944 1390 944 1370 955 1344 968 1313 957 1311 957 1309 957 1249 969 1010 969 959 958 935 955 933 955 913 958 884 966 867 960 825 942 823 942 821 942 820 942 774 960 763 964 741 960 634 942 632 942 631 942 592 962 585 966 565 962 530 957 528 957 526 957 510 962 500 966 493 964 458 951 456 951 454 951 453 951 427 964 421 966 414 964 390 957 388 957 387 957 308 964 308 1010"/></Shape>
+	    <String CONTENT="avec les Nyingmapa, Kagyüpa et Sakyapa)"
+                    HPOS="306"
+                    VPOS="917"
+                    WIDTH="2066"
+                    HEIGHT="202"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b6c93a2c"
+                    TAGREFS="LT24"
+                    BASELINE="320 1118 1975 1117" 
+                    HPOS="319"
+                    VPOS="1056"
+                    WIDTH="1665"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="322 1164 1984 1167 1972 1069 1955 1056 1944 1056 1873 1075 1675 1056 1611 1078 1457 1078 1325 1056 1270 1075 1221 1056 1213 1056 1166 1075 1097 1056 1004 1075 943 1056 932 1056 913 1078 748 1078 693 1056 684 1056 627 1073 566 1056 555 1056 533 1072 517 1056 420 1069 393 1056 385 1056 319 1075 319 1116"/></Shape>
+	    <String CONTENT="situé dans la préfecture autonome"
+                    HPOS="319"
+                    VPOS="1056"
+                    WIDTH="1665"
+                    HEIGHT="111"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f623576a"
+                    TAGREFS="LT24"
+                    BASELINE="317 1224 1259 1228" 
+                    HPOS="313"
+                    VPOS="1155"
+                    WIDTH="944"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="313 1245 574 1262 866 1254 896 1270 907 1270 949 1251 1045 1251 1083 1270 1139 1315 1254 1248 1257 1226 1254 1185 1114 1177 1094 1155 1083 1155 1045 1177 1017 1155 943 1155 905 1182 863 1155 850 1155 808 1185 610 1185 572 1157 561 1157 503 1179 481 1155 371 1155 316 1179 316 1223"/></Shape>
+	    <String CONTENT="tibétaine de Golog."
+                    HPOS="313"
+                    VPOS="1155"
+                    WIDTH="944"
+                    HEIGHT="160"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1363"
+                   VPOS="3131"
+                   WIDTH="651"
+                   HEIGHT="137"
+                   ID="eSc_textblock_a64b906d"
+                   TAGREFS="BT24">
+          <Shape><Polygon POINTS="1432 3131 1955 3131 1999 3146 2014 3188 1984 3254 1392 3268 1363 3153 1432 3131"/></Shape>
+          <TextLine ID="eSc_line_fa52e04f"
+                    TAGREFS="LT24"
+                    BASELINE="1392 3246 1630 3217 1993 3210" 
+                    HPOS="1386"
+                    VPOS="3132"
+                    WIDTH="605"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1939 3140 1898 3135 1895 3135 1892 3135 1889 3135 1889 3137 1878 3146 1862 3135 1859 3135 1856 3135 1854 3135 1741 3157 1675 3132 1672 3132 1669 3132 1666 3132 1611 3159 1589 3140 1589 3137 1587 3137 1584 3137 1581 3137 1496 3140 1493 3140 1386 3176 1391 3245 1391 3253 1991 3234 1991 3209 1986 3148 1980 3146 1960 3150"/></Shape>
+	    <String CONTENT="wikitexte_0064"
+                    HPOS="1386"
+                    VPOS="3132"
+                    WIDTH="605"
+                    HEIGHT="121"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2295"
+                   VPOS="3153"
+                   WIDTH="115"
+                   HEIGHT="108"
+                   ID="eSc_textblock_79a36004"
+                   TAGREFS="BT24">
+          <Shape><Polygon POINTS="2313 3153 2410 3182 2395 3261 2295 3246 2313 3153"/></Shape>
+          <TextLine ID="eSc_line_4de9def5"
+                    TAGREFS="LT24"
+                    BASELINE="2303 3221 2383 3226" 
+                    HPOS="2299"
+                    VPOS="3159"
+                    WIDTH="83"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="2360 3168 2338 3159 2327 3165 2302 3206 2302 3220 2299 3239 2376 3247 2382 3225 2382 3176 2382 3173 2360 3168"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2299"
+                    VPOS="3159"
+                    WIDTH="83"
+                    HEIGHT="88"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

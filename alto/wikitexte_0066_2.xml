@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0066_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT26" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT26" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="212"
+                   VPOS="66"
+                   WIDTH="2183"
+                   HEIGHT="386"
+                   ID="eSc_textblock_506598b0"
+                   TAGREFS="BT26">
+          <Shape><Polygon POINTS="1860 66 2381 80 2395 130 2366 240 2395 394 2351 430 1436 430 1331 452 227 423 212 401 220 161 271 132 1728 139 1751 80 1860 66"/></Shape>
+          <TextLine ID="eSc_line_d9c56077"
+                    TAGREFS="LT26"
+                    BASELINE="1766 146 2370 150" 
+                    HPOS="1760"
+                    VPOS="68"
+                    WIDTH="608"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="2310 79 2291 79 2151 85 2129 79 2112 74 2090 74 2068 71 2030 79 2005 85 1999 79 1988 71 1980 71 1953 68 1925 68 1898 68 1870 68 1843 68 1821 68 1763 82 1763 145 1760 176 2365 176 2368 148 2362 79 2338 79"/></Shape>
+	    <String CONTENT="wikitexte_0066"
+                    HPOS="1760"
+                    VPOS="68"
+                    WIDTH="608"
+                    HEIGHT="108"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fb97c279"
+                    TAGREFS="LT26"
+                    BASELINE="240 276 2097 283" 
+                    HPOS="237"
+                    VPOS="144"
+                    WIDTH="1859"
+                    HEIGHT="177">
+            <Shape><Polygon POINTS="237 321 2093 297 2096 280 2087 178 1942 217 1584 198 1559 220 1501 220 1446 184 1433 184 1402 206 1372 181 1372 178 1287 192 1188 178 1116 217 786 217 753 195 657 192 651 192 610 214 572 176 540 144 442 209 406 150 242 148 239 275"/></Shape>
+	    <String CONTENT="Selon les premiers résultats du recensement"
+                    HPOS="237"
+                    VPOS="144"
+                    WIDTH="1859"
+                    HEIGHT="177"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_71d6e9e3"
+                    TAGREFS="LT26"
+                    BASELINE="249 391 2155 392" 
+                    HPOS="247"
+                    VPOS="288"
+                    WIDTH="1908"
+                    HEIGHT="177">
+            <Shape><Polygon POINTS="247 465 2155 462 2153 321 2107 288 2052 288 2052 291 2030 308 2008 288 1851 288 1832 305 1812 291 1812 288 1746 288 1711 319 1683 297 1625 305 1523 288 1482 321 1444 288 1400 288 1325 327 1138 327 1138 324 1083 288 1070 288 1028 324 1028 327 973 325 973 324 951 308 951 305 885 313 819 294 811 294 761 321 709 288 695 288 649 327 382 327 286 288 275 288 275 291 247 316 247 390"/></Shape>
+	    <String CONTENT="bosnien de 2013, il compte 234 habitants."
+                    HPOS="247"
+                    VPOS="288"
+                    WIDTH="1908"
+                    HEIGHT="177"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="256"
+                   VPOS="0"
+                   WIDTH="35"
+                   HEIGHT="5"
+                   ID="eSc_textblock_d048c140"
+                   TAGREFS="BT26">
+          <Shape><Polygon POINTS="258 0 291 0 291 5 256 5 258 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="324"
+                   VPOS="0"
+                   WIDTH="672"
+                   HEIGHT="20"
+                   ID="eSc_textblock_19b2a349"
+                   TAGREFS="BT26">
+          <Shape><Polygon POINTS="324 0 996 0 996 12 565 20 324 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1093"
+                   VPOS="0"
+                   WIDTH="13"
+                   HEIGHT="5"
+                   ID="eSc_textblock_092d8342"
+                   TAGREFS="BT26">
+          <Shape><Polygon POINTS="1095 0 1106 0 1106 5 1093 5 1095 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2368"
+                   VPOS="3109"
+                   WIDTH="108"
+                   HEIGHT="108"
+                   ID="eSc_textblock_03353a7e"
+                   TAGREFS="BT26">
+          <Shape><Polygon POINTS="2403 3109 2461 3124 2476 3173 2447 3217 2368 3202 2368 3138 2403 3109"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

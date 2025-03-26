@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0059_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT23" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT23" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="271"
+                   VPOS="352"
+                   WIDTH="2088"
+                   HEIGHT="819"
+                   ID="eSc_textblock_8f382588"
+                   TAGREFS="BT23">
+          <Shape><Polygon POINTS="326 352 1042 381 2307 359 2307 401 2359 454 2307 660 2329 929 2285 995 2315 1039 2278 1068 975 1098 937 1120 1135 1149 856 1171 286 1171 271 498 286 381 326 352"/></Shape>
+          <TextLine ID="eSc_line_83295ce4"
+                    TAGREFS="LT23"
+                    BASELINE="306 474 2345 475" 
+                    HPOS="305"
+                    VPOS="404"
+                    WIDTH="2038"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2340 440 2335 434 2217 434 2178 404 2167 404 2085 434 1757 434 1708 404 1697 404 1628 431 1584 412 1573 412 1543 434 1466 434 1441 412 1375 412 1367 412 1342 434 1257 434 1224 404 1213 404 1138 426 1089 404 1078 404 1042 434 863 434 825 412 693 426 665 404 305 407 305 503 2343 500 2343 442 2340 440"/></Shape>
+	    <String CONTENT="Goldilocks and the Jivin&#x27; Bears est un"
+                    HPOS="305"
+                    VPOS="404"
+                    WIDTH="2038"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_61f3ee57"
+                    TAGREFS="LT23"
+                    BASELINE="291 594 1337 584 2302 597" 
+                    HPOS="291"
+                    VPOS="504"
+                    WIDTH="2011"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="291 617 331 641 834 617 836 617 1361 610 2298 619 2302 597 2298 540 2206 546 2192 540 2168 529 2166 529 2164 529 2162 529 2142 540 2118 553 2076 553 2054 540 2047 537 2045 537 2043 537 2041 537 2030 540 2006 546 1983 540 1937 528 1935 528 1933 528 1931 528 1889 540 1856 551 1801 551 1772 540 1753 533 1751 533 1750 533 1748 533 1731 540 1706 553 1662 553 1640 540 1636 539 1634 539 1632 539 1618 540 1594 544 1586 540 1561 528 1559 528 1476 528 1474 528 1473 528 1445 540 1427 550 1353 546 1344 540 1322 529 1320 529 1319 529 1317 529 1278 540 1265 544 1254 540 1208 528 1136 504 1089 528 1087 528 1086 528 1060 540 1040 549 871 551 853 542 843 537 842 537 840 537 838 537 827 542 807 551 620 551 590 542 572 537 570 537 568 537 566 537 555 542 541 551 491 551 475 542 443 526 442 526 319 526 317 526 315 526 291 539 291 594"/></Shape>
+	    <String CONTENT="film américain d&#x27;animation réalisé par"
+                    HPOS="291"
+                    VPOS="504"
+                    WIDTH="2011"
+                    HEIGHT="137"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2f80a563"
+                    TAGREFS="LT23"
+                    BASELINE="302 702 1896 706" 
+                    HPOS="297"
+                    VPOS="629"
+                    WIDTH="1598"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="297 720 429 737 1889 753 1895 704 1892 660 1768 660 1744 632 1655 643 1625 629 1537 629 1537 632 1510 657 1490 651 1380 632 1380 635 1361 651 1356 660 1320 660 1287 629 1127 657 1116 649 1105 635 1094 635 1053 657 927 643 825 657 783 629 770 629 726 657 646 651 627 629 577 629 547 657 481 638 437 629 409 643 299 638 299 701"/></Shape>
+	    <String CONTENT="Friz Freleng, sorti en 1944"
+                    HPOS="297"
+                    VPOS="629"
+                    WIDTH="1598"
+                    HEIGHT="124"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e7b563db"
+                    TAGREFS="LT23"
+                    BASELINE="302 812 1667 810 2166 819" 
+                    HPOS="300"
+                    VPOS="718"
+                    WIDTH="1866"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="300 828 326 841 328 841 330 841 332 841 361 830 693 834 713 847 715 847 717 847 773 864 902 834 1596 834 1621 847 1623 847 1625 848 1707 848 1707 847 1709 847 1733 834 1735 834 1865 834 1867 834 1891 847 1893 847 1951 868 2164 834 2166 819 2164 773 1961 773 1950 770 1920 760 1918 760 1917 760 1915 760 1913 760 1902 768 1895 773 1816 773 1805 766 1796 760 1794 760 1792 760 1729 760 1728 760 1726 760 1715 764 1700 771 1678 764 1614 742 1612 742 1610 742 1608 742 1539 762 1537 762 1535 762 1498 742 1496 742 1443 742 1441 742 1440 742 1408 759 1352 742 1350 742 1348 742 1346 742 1344 742 1319 759 1298 770 1229 757 1214 755 1212 755 1210 755 1203 757 1161 768 1133 755 1106 742 1104 742 1001 742 999 742 997 742 996 742 979 753 946 771 821 771 779 753 777 753 776 753 774 753 719 771 675 748 667 744 665 744 664 744 662 744 654 748 605 771 548 746 541 742 539 742 537 742 519 746 440 760 426 753 409 742 407 742 343 718 302 742 302 812"/></Shape>
+	    <String CONTENT="Produit par Edward Selzer pour"
+                    HPOS="300"
+                    VPOS="718"
+                    WIDTH="1866"
+                    HEIGHT="150"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9818c6af"
+                    TAGREFS="LT23"
+                    BASELINE="297 916 1080 925 1836 918 2071 925" 
+                    HPOS="295"
+                    VPOS="852"
+                    WIDTH="1819"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="295 942 1408 953 1410 953 1541 951 1849 944 2114 968 2071 925 2110 867 1871 856 1869 856 1867 856 1834 870 1823 876 1812 870 1801 865 1799 865 1797 865 1796 865 1783 870 1777 874 1770 870 1746 858 1744 858 1742 858 1740 858 1739 858 1718 870 1695 885 1570 870 1537 867 1535 867 1533 867 1531 867 1528 870 1500 887 1412 887 1386 870 1381 865 1379 865 1377 865 1375 865 1353 870 1319 878 1289 869 1273 865 1271 865 1269 865 1267 865 1258 869 1247 876 1236 869 1212 854 1210 854 1208 854 1159 854 1157 854 1155 854 1128 869 1100 883 1071 869 1040 854 1038 854 1036 854 1034 854 997 869 961 885 873 885 847 869 845 867 843 867 842 867 840 867 838 867 831 869 794 878 779 869 757 854 755 854 753 854 719 852 671 852 669 852 667 852 665 852 642 869 618 881 552 872 550 872 467 881 432 867 398 852 396 852 322 852 321 852 319 852 297 863 297 916"/></Shape>
+	    <String CONTENT="Warner Bros. Cartoons, ce cartoon"
+                    HPOS="295"
+                    VPOS="852"
+                    WIDTH="1819"
+                    HEIGHT="116"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b2204325"
+                    TAGREFS="LT23"
+                    BASELINE="324 1033 665 1034 1249 1037 1994 1030" 
+                    HPOS="319"
+                    VPOS="946"
+                    WIDTH="1672"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="324 1077 1988 1061 1991 1028 1988 987 1922 965 1796 984 1774 959 1691 959 1691 962 1658 992 1394 992 1367 976 1353 976 1339 992 1251 992 1218 973 1185 959 1174 959 1174 962 1160 973 1144 992 1059 992 1006 962 993 962 957 995 888 995 770 962 759 962 709 992 629 962 618 962 585 988 555 965 555 962 402 946 319 962 321 1031"/></Shape>
+	    <String CONTENT="fait partie de la série Merrie"
+                    HPOS="319"
+                    VPOS="946"
+                    WIDTH="1672"
+                    HEIGHT="131"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c5f0c335"
+                    TAGREFS="LT23"
+                    BASELINE="322 1138 805 1145" 
+                    HPOS="321"
+                    VPOS="1070"
+                    WIDTH="484"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="322 1138 321 1162 801 1167 805 1145 805 1103 772 1094 770 1094 768 1094 676 1100 651 1076 651 1074 649 1074 647 1074 645 1074 643 1074 570 1098 543 1074 543 1072 541 1072 539 1072 504 1072 502 1072 500 1072 498 1072 498 1074 475 1096 473 1100 445 1100 443 1096 418 1072 418 1070 416 1070 414 1070 354 1070 352 1070 350 1070 348 1070 322 1087 322 1138"/></Shape>
+	    <String CONTENT="Melodies."
+                    HPOS="321"
+                    VPOS="1070"
+                    WIDTH="484"
+                    HEIGHT="97"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1729"
+                   VPOS="80"
+                   WIDTH="776"
+                   HEIGHT="152"
+                   ID="eSc_textblock_df46d83a"
+                   TAGREFS="BT23">
+          <Shape><Polygon POINTS="1755 80 2454 80 2505 144 2469 196 2133 232 2131 203 1751 188 1729 102 1755 80"/></Shape>
+          <TextLine ID="eSc_line_d81a9373"
+                    TAGREFS="LT23"
+                    BASELINE="1742 144 2128 161 2490 162" 
+                    HPOS="1738"
+                    VPOS="82"
+                    WIDTH="751"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="2483 121 2459 90 2365 90 2362 90 2225 110 2054 93 2052 93 2049 93 2019 107 2013 107 2010 107 1947 82 1944 82 1942 82 1939 82 1881 99 1807 82 1796 82 1782 82 1741 96 1741 143 1738 162 2123 187 2126 187 2343 178 2365 192 2368 192 2371 192 2373 192 2486 178 2489 159 2489 156 2483 121"/></Shape>
+	    <String CONTENT="wikitexte_0059"
+                    HPOS="1738"
+                    VPOS="82"
+                    WIDTH="751"
+                    HEIGHT="110"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1781"
+                   VPOS="0"
+                   WIDTH="446"
+                   HEIGHT="5"
+                   ID="eSc_textblock_d8374d9f"
+                   TAGREFS="BT23">
+          <Shape><Polygon POINTS="1783 0 2227 0 2227 5 1781 5 1783 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2317"
+                   VPOS="3109"
+                   WIDTH="100"
+                   HEIGHT="79"
+                   ID="eSc_textblock_6d108ef4"
+                   TAGREFS="BT23">
+          <Shape><Polygon POINTS="2357 3109 2417 3146 2403 3188 2317 3180 2317 3131 2357 3109"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

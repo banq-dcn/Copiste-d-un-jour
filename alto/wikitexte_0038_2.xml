@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0038_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT216" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT216" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="227"
+                   VPOS="88"
+                   WIDTH="2321"
+                   HEIGHT="1420"
+                   ID="eSc_textblock_873855ae"
+                   TAGREFS="BT216">
+          <Shape><Polygon POINTS="1746 88 2498 88 2548 110 2548 166 2505 210 2302 218 2249 298 2131 315 2184 344 2249 337 2249 401 2087 425 2118 454 2263 469 2263 665 2293 682 2271 740 2285 1002 2388 1122 2381 1215 2447 1298 2417 1406 2331 1435 2249 1508 785 1508 234 1464 234 1371 308 1362 234 1347 227 1230 242 278 726 242 1662 234 1671 110 1746 88"/></Shape>
+          <TextLine ID="eSc_line_b04ad9ca"
+                    TAGREFS="LT216"
+                    BASELINE="1685 154 2020 177 2505 163" 
+                    HPOS="1680"
+                    VPOS="90"
+                    WIDTH="823"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="2387 90 2335 112 2285 90 2274 90 2252 115 2222 115 2178 90 2167 90 2153 104 2134 93 2126 93 2076 115 1988 115 1986 110 1964 90 1944 90 1906 110 1887 90 1766 90 1735 112 1708 99 1683 107 1680 178 1939 184 1966 203 2112 187 2129 187 2178 203 2189 203 2189 200 2206 189 2211 181 2255 206 2313 206 2313 203 2318 203 2318 200 2340 181 2439 203 2500 192 2503 162 2497 107 2415 90 2395 90"/></Shape>
+	    <String CONTENT="wikitexte_0038 (suite)"
+                    HPOS="1680"
+                    VPOS="90"
+                    WIDTH="823"
+                    HEIGHT="116"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3434514a"
+                    TAGREFS="LT216"
+                    BASELINE="330 345 2077 363" 
+                    HPOS="324"
+                    VPOS="258"
+                    WIDTH="1752"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="327 275 327 343 324 371 2071 379 2076 363 2076 305 2043 275 2043 272 1953 272 1953 275 1928 297 1757 283 1733 302 1688 269 1675 269 1675 272 1636 305 1529 302 1471 266 1460 266 1408 286 1391 266 1268 266 1268 269 1127 280 1050 299 1042 288 1012 264 1012 261 1001 261 932 283 874 261 863 261 863 264 827 294 772 258 717 258 717 261 679 294 467 294 453 277 434 264 409 266"/></Shape>
+	    <String CONTENT="El amante bilingüe (italien : L&#x27;amante"
+                    HPOS="324"
+                    VPOS="258"
+                    WIDTH="1752"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a3d5c500"
+                    TAGREFS="LT216"
+                    BASELINE="363 457 1974 467" 
+                    HPOS="357"
+                    VPOS="374"
+                    WIDTH="1615"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="360 456 357 481 489 484 503 500 511 503 679 503 679 500 684 500 684 497 704 481 1719 486 1807 506 1969 489 1972 464 1969 415 1760 382 1752 382 1708 412 1639 412 1532 382 1521 382 1521 385 1501 401 1490 415 1435 415 1408 398 1367 379 1287 379 1254 407 1122 393 1103 412 951 412 874 376 706 407 679 379 676 379 676 376 627 376 627 379 624 379 596 407 525 407 484 376 360 374 360 456"/></Shape>
+	    <String CONTENT="bilingue) est une comédie dramatique"
+                    HPOS="357"
+                    VPOS="374"
+                    WIDTH="1615"
+                    HEIGHT="132"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_239d02b0"
+                    TAGREFS="LT216"
+                    BASELINE="361 572 941 562 1144 572 1999 581" 
+                    HPOS="359"
+                    VPOS="495"
+                    WIDTH="1640"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="359 592 403 592 407 594 425 606 427 606 429 606 431 608 546 608 546 606 548 606 550 606 568 594 574 592 1438 595 1445 597 1537 612 1539 612 1616 601 1997 601 1999 581 1997 509 1909 500 1907 500 1906 500 1904 500 1895 507 1862 529 1810 522 1788 507 1779 500 1777 500 1775 500 1724 500 1722 500 1720 500 1718 500 1711 506 1673 531 1579 522 1577 522 1575 522 1537 531 1437 505 1317 498 1315 498 1313 498 1311 498 1306 502 1261 508 1097 531 1073 511 1071 511 1069 511 1067 511 1008 522 944 515 920 498 919 496 917 496 915 496 871 496 869 496 867 496 865 496 864 498 843 513 821 498 820 496 818 496 816 496 737 496 735 496 733 496 731 496 695 522 642 504 640 504 638 504 636 504 585 526 539 513 537 513 535 513 480 526 361 495 361 572"/></Shape>
+	    <String CONTENT="hispano-italienne réalisée par Vicente"
+                    HPOS="359"
+                    VPOS="495"
+                    WIDTH="1640"
+                    HEIGHT="117"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_977175a4"
+                    BASELINE="357 688 1597 694" 
+                    HPOS="352"
+                    VPOS="602"
+                    WIDTH="1243"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="354 687 352 706 1589 712 1595 693 1595 643 1570 643 1570 640 1534 605 1444 618 1386 605 1375 605 1339 643 1259 643 1232 624 1218 624 1202 643 1130 643 1072 605 1023 605 998 627 993 635 927 610 916 610 888 635 852 605 852 602 792 602 745 640 698 640 657 602 599 602 544 638 467 621 423 638 401 613 390 605 390 602 379 602 354 610 354 687"/></Shape>
+	    <String CONTENT="Aranda et sortie en 1993."
+                    HPOS="352"
+                    VPOS="602"
+                    WIDTH="1243"
+                    HEIGHT="110"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3cfcf5ef"
+                    TAGREFS="LT216"
+                    BASELINE="373 798 1698 801 2047 809" 
+                    HPOS="368"
+                    VPOS="712"
+                    WIDTH="1678"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="371 797 368 811 668 819 684 838 827 819 1452 822 1468 841 1477 844 1686 844 1686 841 1691 841 1691 838 1711 822 2041 825 2046 808 2046 717 1997 715 1922 753 1859 753 1812 715 1777 717 1617 745 1501 734 1482 753 1460 753 1422 715 1336 731 1276 715 1265 715 1221 748 1111 748 1042 712 998 712 962 745 905 712 756 745 632 734 566 748 530 715 530 712 475 712 475 715 456 728 453 734 429 715 429 712 418 712 371 728 371 797"/></Shape>
+	    <String CONTENT="Cette coproduction italo-espagnole est"
+                    HPOS="368"
+                    VPOS="712"
+                    WIDTH="1678"
+                    HEIGHT="132"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_26c358ae"
+                    TAGREFS="LT216"
+                    BASELINE="371 902 2086 914" 
+                    HPOS="365"
+                    VPOS="830"
+                    WIDTH="1720"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="365 924 2079 937 2085 913 2085 866 2038 838 1980 838 1980 841 1947 871 1881 871 1859 847 1752 860 1733 847 1722 847 1666 869 1578 844 1570 844 1518 848 1460 847 1449 847 1424 869 1378 869 1342 836 1265 836 1237 866 1182 844 1059 858 990 836 979 836 951 855 940 866 880 866 844 833 789 830 742 860 624 858 588 830 577 830 522 849 486 830 481 830 368 847 368 902"/></Shape>
+	    <String CONTENT="adaptée du roman du même nom de"
+                    HPOS="365"
+                    VPOS="830"
+                    WIDTH="1720"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_556796de"
+                    TAGREFS="LT216"
+                    BASELINE="437 1015 967 1006 2247 1023" 
+                    HPOS="431"
+                    VPOS="929"
+                    WIDTH="1813"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="431 1045 2239 1047 2244 1023 2244 976 2212 949 2126 954 2098 973 2087 973 1966 940 1873 940 1873 943 1843 970 1810 957 1713 970 1614 937 1562 937 1526 970 1471 970 1455 959 1405 935 1309 935 1276 968 1188 968 1125 932 1116 932 1050 962 874 941 783 929 709 929 709 932 676 959 434 943 434 1014"/></Shape>
+	    <String CONTENT="Juan Marsé et a été entièrement tourné"
+                    HPOS="431"
+                    VPOS="929"
+                    WIDTH="1813"
+                    HEIGHT="118"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0c1c92df"
+                    TAGREFS="LT216"
+                    BASELINE="353 1122 2137 1131 2335 1144" 
+                    HPOS="349"
+                    VPOS="1047"
+                    WIDTH="1983"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="349 1149 2327 1160 2332 1144 2329 1089 2230 1072 2164 1083 2120 1061 2112 1061 2057 1083 2016 1056 1856 1056 1823 1083 1823 1086 1763 1053 1705 1053 1672 1083 1543 1069 1537 1069 1504 1083 1504 1080 1471 1053 1339 1078 1281 1050 1188 1050 1147 1075 979 1083 957 1067 943 1067 927 1066 852 1058 841 1058 819 1078 811 1080 712 1067 646 1078 616 1053 602 1053 574 1078 467 1078 431 1047 371 1047 371 1050 352 1067 352 1122"/></Shape>
+	    <String CONTENT="et mis en scène à Barcelone. Le bilinguisme"
+                    HPOS="349"
+                    VPOS="1047"
+                    WIDTH="1983"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_90962e73"
+                    TAGREFS="LT216"
+                    BASELINE="371 1238 2059 1251" 
+                    HPOS="365"
+                    VPOS="1152"
+                    WIDTH="1692"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="365 1256 2052 1267 2057 1248 2057 1199 1947 1160 1895 1160 1848 1196 1801 1160 1614 1193 1573 1157 1532 1157 1532 1160 1496 1193 1496 1196 1331 1196 1312 1179 1224 1193 1185 1155 1103 1155 1054 1183 976 1193 940 1155 929 1155 852 1179 794 1152 783 1152 739 1190 687 1190 651 1155 651 1152 541 1152 541 1155 508 1185 506 1190 470 1190 434 1155 434 1152 393 1152 393 1155 368 1177 368 1237"/></Shape>
+	    <String CONTENT="du titre fait référence à la situation"
+                    HPOS="365"
+                    VPOS="1152"
+                    WIDTH="1692"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_98ad36f4"
+                    TAGREFS="LT216"
+                    BASELINE="355 1351 1287 1345 2417 1358" 
+                    HPOS="352"
+                    VPOS="1259"
+                    WIDTH="2063"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="354 1350 352 1383 517 1372 580 1399 591 1399 627 1372 682 1372 715 1399 838 1402 844 1402 905 1377 1466 1377 1496 1402 1700 1405 1708 1405 1738 1383 2373 1386 2412 1369 2415 1355 2415 1265 2343 1265 2302 1300 2269 1300 2228 1265 2214 1265 2085 1295 2019 1265 1900 1265 1862 1298 1801 1267 1785 1265 1777 1267 1724 1298 1554 1292 1512 1262 1441 1276 1391 1262 1380 1262 1353 1287 1298 1262 1287 1262 1246 1295 1199 1295 1160 1262 1147 1262 1094 1295 1039 1262 1028 1262 957 1298 827 1298 745 1259 643 1259 572 1292 354 1281 354 1350"/></Shape>
+	    <String CONTENT="sociopolitique de la Catalogne, traditionnellement"
+                    HPOS="352"
+                    VPOS="1259"
+                    WIDTH="2063"
+                    HEIGHT="146"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6a71af88"
+                    TAGREFS="LT216"
+                    BASELINE="364 1457 1884 1461 2249 1472" 
+                    HPOS="360"
+                    VPOS="1377"
+                    WIDTH="1887"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="360 1482 2241 1493 2247 1471 2247 1416 2197 1383 1986 1383 1955 1408 1928 1386 1928 1383 1856 1383 1812 1416 1738 1383 1642 1380 1584 1416 1482 1416 1449 1391 1435 1391 1408 1413 1309 1388 1301 1388 1251 1408 1166 1377 1155 1377 1116 1405 1015 1377 1004 1377 965 1410 641 1401 552 1388 363 1408 363 1454"/></Shape>
+	    <String CONTENT="animée par des tensions indépendantistes."
+                    HPOS="360"
+                    VPOS="1377"
+                    WIDTH="1887"
+                    HEIGHT="116"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1781"
+                   VPOS="0"
+                   WIDTH="490"
+                   HEIGHT="5"
+                   ID="eSc_textblock_129bddb3"
+                   TAGREFS="BT216">
+          <Shape><Polygon POINTS="1781 0 2271 0 2271 5 1781 5 1781 0"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
