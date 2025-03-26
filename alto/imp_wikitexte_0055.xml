@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>imp_wikitexte_0055.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT212" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT212" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="190"
+                   VPOS="14"
+                   WIDTH="2198"
+                   HEIGHT="2140"
+                   ID="eSc_textblock_55c2b6da"
+                   TAGREFS="BT212">
+          <Shape><Polygon POINTS="1878 14 2278 29 2300 100 2388 154 2373 225 2322 234 2359 256 2366 315 2337 718 2359 2029 2131 2066 1225 2058 1062 2102 1159 2126 2322 2132 278 2154 271 396 264 234 190 218 190 139 1816 132 1840 36 1878 14"/></Shape>
+          <TextLine ID="eSc_line_e82a84d0"
+                    TAGREFS="LT212"
+                    BASELINE="1849 73 2271 82" 
+                    HPOS="1847"
+                    VPOS="18"
+                    WIDTH="424"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2177 25 2166 23 2137 38 2135 38 2098 38 2082 23 2082 22 2080 22 2078 22 2076 22 2074 22 2036 36 2032 36 2030 36 2001 25 1999 25 1997 25 1995 25 1966 33 1935 18 1933 18 1931 18 1849 31 1849 73 1847 88 2267 97 2271 82 2271 42 2183 25 2177 25"/></Shape>
+	    <String CONTENT="wikitexte_0055"
+                    HPOS="1847"
+                    VPOS="18"
+                    WIDTH="424"
+                    HEIGHT="79"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c38aade9"
+                    TAGREFS="LT212"
+                    BASELINE="302 313 2114 315" 
+                    HPOS="297"
+                    VPOS="250"
+                    WIDTH="1815"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="297 330 2107 332 2112 313 2112 269 2071 250 2063 250 2027 269 1876 269 1854 250 1843 250 1793 266 1669 250 1581 250 1565 269 1490 269 1463 250 1452 250 1386 266 1358 250 1347 250 1303 266 1279 250 1268 250 1202 269 971 269 954 253 954 250 861 266 805 250 583 250 554 260 299 255 299 310"/></Shape>
+	    <String CONTENT="Le dzé réfléchi (capitale -, minuscule -) est une lettre archaïque de"
+                    HPOS="297"
+                    VPOS="250"
+                    WIDTH="1815"
+                    HEIGHT="82"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4b48efd4"
+                    TAGREFS="LT212"
+                    BASELINE="313 425 2234 429" 
+                    HPOS="308"
+                    VPOS="357"
+                    WIDTH="1925"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="310 423 308 440 390 459 517 445 605 459 607 462 800 462 800 459 805 459 827 445 847 459 858 459 913 445 1116 445 1138 459 1257 445 1840 445 1878 462 1884 462 2230 448 2233 429 2230 382 2129 363 2057 379 2043 379 1975 363 1821 376 1799 376 1785 363 1771 363 1752 376 1722 363 1713 363 1664 379 1625 363 1614 363 1587 382 1295 382 1273 363 1262 363 1215 376 1199 360 1185 360 1177 368 1160 376 874 360 866 360 847 376 715 363 591 376 569 360 475 360 453 376 310 357 310 423"/></Shape>
+	    <String CONTENT="l&#x27;alphabet cyrillique utilisée dans plusieurs manuscrits et inscriptions slaves"
+                    HPOS="308"
+                    VPOS="357"
+                    WIDTH="1925"
+                    HEIGHT="105"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0a6b970d"
+                    TAGREFS="LT212"
+                    BASELINE="322 539 2301 544" 
+                    HPOS="321"
+                    VPOS="473"
+                    WIDTH="1979"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="321 563 2296 563 2299 541 2300 475 2250 489 2211 473 2195 475 2162 492 2035 492 2010 473 1986 475 1942 489 1884 473 1768 473 1749 492 1666 492 1647 473 1633 473 1606 489 1515 475 1507 475 1490 489 1471 473 1460 473 1433 486 1391 473 1386 473 1369 489 1325 473 1317 473 1279 489 1262 473 1251 473 1213 489 1155 475 1144 475 1125 489 1105 473 1092 473 1064 489 943 475 861 489 838 473 827 473 792 492 662 492 640 473 629 473 588 489 506 473 321 486 321 539"/></Shape>
+	    <String CONTENT="méridionales. Le temple protestant de Calais est un édifice religieux situé"
+                    HPOS="321"
+                    VPOS="473"
+                    WIDTH="1979"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_83f71384"
+                    TAGREFS="LT212"
+                    BASELINE="320 654 2289 656" 
+                    HPOS="316"
+                    VPOS="588"
+                    WIDTH="1972"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="316 671 2283 676 2288 654 2288 602 2269 588 2258 588 2219 605 2085 588 2065 607 1958 607 1922 588 1672 588 1653 602 1633 588 1622 588 1589 605 1570 588 1493 602 1422 588 1372 607 1067 607 1048 588 1037 588 993 605 973 588 877 602 838 588 827 588 787 599 742 607 723 588 528 602 486 588 475 588 459 605 319 605 319 651"/></Shape>
+	    <String CONTENT="rue du Temple à Calais. La paroisse est rattachée à l&#x27;Église protestante"
+                    HPOS="316"
+                    VPOS="588"
+                    WIDTH="1972"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_14705731"
+                    TAGREFS="LT212"
+                    BASELINE="315 764 1731 770" 
+                    HPOS="310"
+                    VPOS="698"
+                    WIDTH="1420"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="310 786 786 786 858 800 1182 804 1372 803 1727 786 1730 770 1727 723 1644 723 1628 704 1334 717 1279 704 1268 704 1259 715 1246 704 1246 701 1160 717 1119 701 1020 701 993 720 847 720 830 704 830 701 627 715 621 715 605 701 605 698 594 698 544 715 497 701 489 701 462 715 404 701 313 712 313 761"/></Shape>
+	    <String CONTENT="unie de France. Supercalifragilisticexpialidocious"
+                    HPOS="310"
+                    VPOS="698"
+                    WIDTH="1420"
+                    HEIGHT="106"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_af8f6318"
+                    TAGREFS="LT212"
+                    BASELINE="341 877 1128 876 2308 885" 
+                    HPOS="335"
+                    VPOS="819"
+                    WIDTH="1972"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="338 874 335 899 2302 907 2307 882 2305 830 338 819 338 874"/></Shape>
+	    <String CONTENT="(-su-p-r-kæli--fræd-i--l-st-k-kspi-æli--do-s) est une chanson des frères"
+                    HPOS="335"
+                    VPOS="819"
+                    WIDTH="1972"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_994661ed"
+                    TAGREFS="LT212"
+                    BASELINE="338 997 2115 1003" 
+                    HPOS="332"
+                    VPOS="929"
+                    WIDTH="1780"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="335 995 332 1014 2107 1017 2112 1001 2104 932 2052 948 1953 932 1936 932 1889 948 1793 932 1774 932 1749 951 1675 951 1653 932 1636 932 1584 951 1397 951 1350 932 1262 948 1224 929 1213 929 1188 946 1138 929 1056 929 1042 946 1004 929 993 929 965 948 905 948 888 932 888 929 877 929 833 946 819 929 808 929 750 946 638 929 583 946 335 940 335 995"/></Shape>
+	    <String CONTENT="Sherman figurant dans le film Mary Poppins sorti en 1964. Elle est"
+                    HPOS="332"
+                    VPOS="929"
+                    WIDTH="1780"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d7394744"
+                    TAGREFS="LT212"
+                    BASELINE="327 1109 2277 1114" 
+                    HPOS="324"
+                    VPOS="1045"
+                    WIDTH="1950"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="324 1108 324 1135 2272 1133 2274 1113 2272 1067 2195 1067 2195 1064 2173 1047 1942 1064 1933 1064 1906 1047 1821 1064 1782 1047 1774 1047 1735 1064 1702 1047 1625 1061 1576 1047 1565 1047 1543 1064 1523 1047 1510 1047 1490 1067 1389 1067 1336 1047 1325 1047 1301 1064 1246 1045 1166 1045 1147 1061 1147 1064 734 1064 715 1045 704 1045 649 1061 561 1045 530 1061 324 1061 324 1108"/></Shape>
+	    <String CONTENT="principalement connue pour son titre (présent dix fois dans les paroles), un"
+                    HPOS="324"
+                    VPOS="1045"
+                    WIDTH="1950"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_749ee2a2"
+                    TAGREFS="LT212"
+                    BASELINE="325 1225 2171 1232" 
+                    HPOS="324"
+                    VPOS="1152"
+                    WIDTH="1846"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="2170 1179 2123 1157 2115 1157 2076 1174 2032 1157 2021 1157 2021 1160 1999 1177 1917 1163 1837 1177 1818 1163 1807 1163 1779 1177 1763 1157 1752 1157 1713 1171 1647 1157 1581 1177 1559 1157 1545 1157 1523 1177 1424 1177 1411 1168 1380 1155 1372 1155 1317 1174 1279 1155 1270 1155 1221 1174 1196 1155 1185 1155 1144 1174 1103 1155 1094 1155 1050 1174 1034 1155 1023 1155 979 1171 940 1152 929 1152 899 1174 830 1174 808 1155 808 1152 627 1155 610 1171 574 1152 563 1152 530 1174 365 1174 327 1155 324 1245 2167 1245 2170 1232 2170 1179"/></Shape>
+	    <String CONTENT="hapax de 34 lettres (en). Rajbrot est une localité polonaise de la"
+                    HPOS="324"
+                    VPOS="1152"
+                    WIDTH="1846"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e9d77f56"
+                    TAGREFS="LT212"
+                    BASELINE="347 1339 2230 1346" 
+                    HPOS="346"
+                    VPOS="1270"
+                    WIDTH="1882"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="346 1336 346 1364 2225 1361 2228 1344 2225 1295 2134 1295 2109 1276 1980 1289 1933 1276 1922 1276 1906 1289 1889 1276 1719 1276 1697 1295 1606 1295 1573 1273 1562 1273 1515 1289 1501 1289 1441 1273 1433 1273 1400 1289 1367 1273 1358 1273 1309 1289 1290 1273 1279 1273 1226 1292 979 1292 940 1270 866 1287 783 1273 734 1287 684 1270 676 1270 646 1287 618 1270 607 1270 558 1287 346 1281 346 1336"/></Shape>
+	    <String CONTENT="gmina de Lipnica Murowana, située dans le powiat de Bochnia en"
+                    HPOS="346"
+                    VPOS="1270"
+                    WIDTH="1882"
+                    HEIGHT="94"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_54710c66"
+                    TAGREFS="LT212"
+                    BASELINE="343 1448 787 1444 2090 1455" 
+                    HPOS="338"
+                    VPOS="1375"
+                    WIDTH="1749"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="338 1465 1002 1499 1567 1471 1708 1485 2085 1471 2087 1454 2085 1408 1920 1386 1911 1386 1889 1405 1884 1405 1711 1388 1702 1388 1702 1391 1688 1402 1669 1386 1669 1383 1534 1402 1512 1386 1512 1383 1430 1399 1367 1383 1356 1383 1356 1386 1336 1402 1273 1386 1262 1386 1246 1399 1160 1386 1100 1399 896 1386 838 1397 819 1380 819 1377 660 1397 621 1377 613 1377 552 1397 533 1380 533 1377 522 1377 470 1394 451 1375 341 1394 341 1446"/></Shape>
+	    <String CONTENT="voïvodie de Petite-Pologne. Maurice Gaït, né le 13 juin 1909 à"
+                    HPOS="338"
+                    VPOS="1375"
+                    WIDTH="1749"
+                    HEIGHT="124"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a83be9d9"
+                    TAGREFS="LT212"
+                    BASELINE="339 1565 981 1560 2220 1571" 
+                    HPOS="335"
+                    VPOS="1496"
+                    WIDTH="1884"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="338 1564 335 1586 2214 1589 2219 1570 2219 1518 2197 1504 1950 1518 1876 1504 1859 1520 1727 1520 1691 1501 1609 1515 1573 1501 1402 1515 1276 1501 1199 1515 1185 1515 1163 1498 1149 1498 1127 1512 1127 1515 993 1515 993 1512 976 1498 965 1498 913 1512 783 1498 767 1512 750 1512 660 1498 572 1509 552 1496 544 1496 338 1507 338 1564"/></Shape>
+	    <String CONTENT="Marseille et mort le 12 novembre 1983 dans le 15e arrondissement de"
+                    HPOS="335"
+                    VPOS="1496"
+                    WIDTH="1884"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3f189abd"
+                    TAGREFS="LT212"
+                    BASELINE="327 1679 2118 1685" 
+                    HPOS="321"
+                    VPOS="1611"
+                    WIDTH="1794"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="324 1677 321 1691 1218 1710 2112 1696 2115 1683 2115 1633 2065 1614 2057 1614 2016 1630 1972 1614 1832 1614 1823 1614 1807 1630 1581 1614 1474 1630 1441 1614 1433 1614 1397 1628 1383 1630 1202 1630 1166 1611 1097 1628 1031 1611 825 1630 640 1630 632 1619 621 1611 610 1611 563 1630 489 1630 470 1611 459 1611 420 1628 374 1611 324 1617 324 1677"/></Shape>
+	    <String CONTENT="Paris, est un journaliste français. Commissaire général à la"
+                    HPOS="321"
+                    VPOS="1611"
+                    WIDTH="1794"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7d125251"
+                    TAGREFS="LT212"
+                    BASELINE="332 1791 1564 1787 2155 1794" 
+                    HPOS="327"
+                    VPOS="1721"
+                    WIDTH="1826"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="330 1790 330 1812 2148 1815 2153 1793 2151 1738 2115 1721 2107 1721 2063 1738 2049 1724 2035 1724 2013 1738 1856 1724 1807 1738 1790 1724 1777 1724 1760 1740 1664 1740 1633 1721 1620 1721 1595 1738 1455 1721 1402 1738 1361 1721 1265 1738 1248 1724 1141 1721 1125 1735 1083 1721 1072 1721 1053 1740 984 1740 916 1721 907 1721 850 1738 794 1721 783 1721 764 1740 602 1740 533 1721 420 1738 363 1721 352 1721 327 1735 330 1790"/></Shape>
+	    <String CONTENT="Jeunesse sous le régime de Vichy, il est directeur de Rivarol de"
+                    HPOS="327"
+                    VPOS="1721"
+                    WIDTH="1826"
+                    HEIGHT="94"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_68a6dbb8"
+                    TAGREFS="LT212"
+                    BASELINE="347 1905 1832 1903 2166 1912" 
+                    HPOS="346"
+                    VPOS="1837"
+                    WIDTH="1818"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="346 1930 2162 1930 2164 1911 2162 1859 2098 1859 2098 1856 2076 1837 1950 1850 1917 1837 1906 1837 1892 1850 1840 1837 1829 1837 1810 1853 1807 1859 1763 1859 1760 1853 1741 1837 1669 1837 1653 1853 1631 1837 1622 1837 1460 1856 1383 1856 1364 1837 1284 1837 1268 1853 1243 1837 1232 1837 1191 1856 1116 1837 1108 1837 1067 1856 1012 1837 1004 1837 968 1850 932 1837 921 1837 902 1856 844 1837 552 1838 346 1842 346 1903"/></Shape>
+	    <String CONTENT="1973 à sa mort. Guia Lauri Filzi, née le 23 juillet 1943 à"
+                    HPOS="346"
+                    VPOS="1837"
+                    WIDTH="1818"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_652b03a3"
+                    TAGREFS="LT212"
+                    BASELINE="347 2021 1772 2014 2082 2018" 
+                    HPOS="343"
+                    VPOS="1949"
+                    WIDTH="1736"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="346 2018 346 2037 2074 2043 2079 2015 2074 1966 1694 1966 1636 1949 1625 1949 1600 1966 1565 1949 1460 1966 1444 1952 1444 1949 1364 1949 1345 1966 1301 1949 1292 1949 1232 1966 1191 1949 1182 1949 1149 1963 1097 1952 916 1969 844 1952 742 1969 643 1952 343 1952 346 2018"/></Shape>
+	    <String CONTENT="Buenos Aires, est une actrice de films érotiques argentine"
+                    HPOS="343"
+                    VPOS="1949"
+                    WIDTH="1736"
+                    HEIGHT="94"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_15ebe814"
+                    TAGREFS="LT212"
+                    BASELINE="334 2130 1007 2130" 
+                    HPOS="332"
+                    VPOS="2059"
+                    WIDTH="674"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="332 2128 332 2150 1004 2153 1006 2128 1006 2081 866 2081 866 2079 841 2059 838 2059 836 2059 833 2059 830 2059 781 2076 759 2059 756 2059 753 2059 750 2059 748 2059 676 2079 657 2062 657 2059 654 2059 651 2059 649 2059 646 2059 643 2059 621 2076 544 2059 541 2059 539 2059 475 2076 420 2059 418 2059 415 2059 412 2059 409 2059 409 2062 393 2079 332 2079 332 2128"/></Shape>
+	    <String CONTENT="naturalisée italienne."
+                    HPOS="332"
+                    VPOS="2059"
+                    WIDTH="674"
+                    HEIGHT="94"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1429"
+                   VPOS="2251"
+                   WIDTH="944"
+                   HEIGHT="145"
+                   ID="eSc_textblock_f37c7643"
+                   TAGREFS="BT212">
+          <Shape><Polygon POINTS="2245 2251 2315 2251 2351 2280 2373 2317 2351 2396 1575 2388 1473 2381 1429 2344 1465 2258 2051 2280 2045 2258 2245 2251"/></Shape>
+          <TextLine ID="eSc_line_4d2e98ea"
+                    TAGREFS="LT212"
+                    BASELINE="1468 2354 2349 2363" 
+                    HPOS="1463"
+                    VPOS="2274"
+                    WIDTH="883"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1463 2376 2340 2392 2346 2362 2346 2299 2332 2285 2332 2282 2329 2282 2327 2282 2324 2282 2142 2285 2140 2285 2137 2285 2137 2288 2129 2293 2112 2312 2054 2312 2005 2290 1986 2282 1983 2282 1980 2282 1977 2282 1955 2288 1903 2304 1774 2288 1771 2288 1768 2288 1766 2288 1746 2307 1554 2307 1468 2274 1466 2354 1463 2376"/></Shape>
+	    <String CONTENT="(imp_wikitexte_0055)"
+                    HPOS="1463"
+                    VPOS="2274"
+                    WIDTH="883"
+                    HEIGHT="118"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

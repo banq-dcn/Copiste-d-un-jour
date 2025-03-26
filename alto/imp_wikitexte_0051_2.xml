@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>imp_wikitexte_0051_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT218" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT218" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="183"
+                   VPOS="0"
+                   WIDTH="2337"
+                   HEIGHT="291"
+                   ID="eSc_textblock_f40f4de8"
+                   TAGREFS="BT218">
+          <Shape><Polygon POINTS="1799 0 2432 7 2513 29 2520 86 2491 152 2381 218 2162 225 2139 269 2028 284 344 291 306 262 286 276 277 240 183 218 183 168 220 139 1735 146 1796 115 1825 20 1799 0"/></Shape>
+          <TextLine ID="eSc_line_3103cd4a"
+                    TAGREFS="LT218"
+                    BASELINE="1827 91 2485 97" 
+                    HPOS="1825"
+                    VPOS="29"
+                    WIDTH="660"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1827 91 1825 106 2482 111 2485 97 2482 47 2399 49 2392 47 2379 40 2377 40 2375 40 2322 42 2320 42 2318 42 2313 47 2300 56 2206 56 2192 47 2170 31 2168 31 2166 31 2164 31 2100 44 2087 33 2087 31 2085 31 2084 31 1986 31 1984 31 1929 44 1902 29 1900 29 1898 29 1896 29 1895 29 1895 31 1878 47 1876 47 1874 47 1867 40 1865 40 1863 40 1862 40 1827 45 1827 91"/></Shape>
+	    <String CONTENT="wikitexte_0051"
+                    HPOS="1825"
+                    VPOS="29"
+                    WIDTH="660"
+                    HEIGHT="82"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="256"
+                   VPOS="322"
+                   WIDTH="2088"
+                   HEIGHT="299"
+                   ID="eSc_textblock_9d22a7e3"
+                   TAGREFS="BT218">
+          <Shape><Polygon POINTS="372 322 2073 330 2205 374 2249 410 2243 440 2322 396 2344 452 1935 482 1882 518 2058 562 1537 621 278 592 256 359 286 330 372 322"/></Shape>
+          <TextLine ID="eSc_line_6d86d00b"
+                    TAGREFS="LT218"
+                    BASELINE="351 440 2214 440" 
+                    HPOS="349"
+                    VPOS="360"
+                    WIDTH="1862"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="349 459 2206 464 2211 440 2206 387 2156 387 2120 363 2107 363 2050 370 1961 390 1931 363 1931 360 1790 360 1735 390 1584 390 1540 365 1416 387 1350 363 1339 363 1207 369 960 374 866 387 833 360 569 360 569 363 550 376 530 360 349 363 349 440"/></Shape>
+	    <String CONTENT="(26688) Wangenevieve est un astéroïde"
+                    HPOS="349"
+                    VPOS="360"
+                    WIDTH="1862"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_51a34b25"
+                    TAGREFS="LT218"
+                    BASELINE="397 544 1816 553" 
+                    HPOS="393"
+                    VPOS="475"
+                    WIDTH="1422"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="393 583 569 572 588 585 588 588 599 588 660 572 723 572 739 585 739 588 750 588 781 574 1103 574 1177 596 1231 616 1279 594 1279 591 1298 574 1482 574 1501 596 1563 608 1603 599 1603 596 1609 596 1642 574 1810 580 1815 552 1812 511 1768 511 1768 508 1738 484 1620 508 1587 489 1573 489 1545 508 1485 492 1358 485 1262 484 1251 484 1210 506 1160 492 1152 492 1111 506 1064 506 1039 478 889 476 794 478 786 478 709 500 673 475 618 475 594 503 528 503 528 500 500 478 500 475 442 475 396 497 396 541"/></Shape>
+	    <String CONTENT="de la ceinture principale."
+                    HPOS="393"
+                    VPOS="475"
+                    WIDTH="1422"
+                    HEIGHT="141"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="755"
+                   VPOS="308"
+                   WIDTH="13"
+                   HEIGHT="5"
+                   ID="eSc_textblock_a5b12ae4"
+                   TAGREFS="BT218">
+          <Shape><Polygon POINTS="761 308 768 308 768 313 755 313 761 308"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="711"
+                   VPOS="308"
+                   WIDTH="6"
+                   HEIGHT="5"
+                   ID="eSc_textblock_af828449"
+                   TAGREFS="BT218">
+          <Shape><Polygon POINTS="715 308 717 313 711 313 711 308 715 308"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="733"
+                   VPOS="308"
+                   WIDTH="6"
+                   HEIGHT="5"
+                   ID="eSc_textblock_bbf58551"
+                   TAGREFS="BT218">
+          <Shape><Polygon POINTS="739 308 739 313 733 313 733 308 739 308"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2307"
+                   VPOS="550"
+                   WIDTH="22"
+                   HEIGHT="12"
+                   ID="eSc_textblock_45fe41ef"
+                   TAGREFS="BT218">
+          <Shape><Polygon POINTS="2307 550 2329 550 2329 555 2309 562 2307 550"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2361"
+                   VPOS="3094"
+                   WIDTH="122"
+                   HEIGHT="123"
+                   ID="eSc_textblock_0f866095"
+                   TAGREFS="BT218">
+          <Shape><Polygon POINTS="2388 3094 2454 3094 2483 3124 2469 3217 2361 3210 2361 3124 2388 3094"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

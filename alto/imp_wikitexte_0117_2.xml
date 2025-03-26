@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>imp_wikitexte_0117_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT150" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT150" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="256"
+                   VPOS="22"
+                   WIDTH="2292"
+                   HEIGHT="496"
+                   ID="eSc_textblock_17f0a959"
+                   TAGREFS="BT150">
+          <Shape><Polygon POINTS="1651 22 2476 29 2548 51 2548 86 2537 64 2454 350 2221 379 2131 430 1847 438 1786 482 1040 518 308 518 271 489 256 190 293 88 1412 95 1485 117 1588 88 1651 22"/></Shape>
+          <TextLine ID="eSc_line_01204607"
+                    TAGREFS="LT150"
+                    BASELINE="1644 106 2241 110 2502 106" 
+                    HPOS="1639"
+                    VPOS="41"
+                    WIDTH="861"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1642 104 1639 115 1700 134 1823 134 1829 132 1829 129 1843 118 2217 134 2497 123 2500 104 2494 63 2415 44 2365 57 2357 63 2316 63 2313 57 2296 44 2296 41 2285 41 2208 60 2170 41 2162 41 2134 55 2065 41 2057 41 2038 63 1873 63 1840 41 1829 41 1779 55 1642 41 1642 104"/></Shape>
+	    <String CONTENT="imp_wikitexte_0117"
+                    HPOS="1639"
+                    VPOS="41"
+                    WIDTH="861"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b78cf97e"
+                    TAGREFS="LT150"
+                    BASELINE="289 210 1245 209 1430 216 2192 188" 
+                    HPOS="286"
+                    VPOS="104"
+                    WIDTH="1903"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="288 209 288 220 330 233 539 220 569 244 580 244 635 220 643 220 698 239 781 236 781 233 800 217 863 236 872 236 924 222 973 236 982 236 1015 220 1180 231 1193 217 1246 236 1254 236 1287 222 1309 236 1317 236 1548 233 1999 200 2186 220 2189 187 2186 145 2120 104 2107 104 2052 148 1975 107 1964 107 1944 121 1931 107 1922 107 1799 123 1752 154 1559 137 1540 159 1367 159 1328 126 1268 123 1259 123 1218 159 1144 134 1114 126 1103 126 1067 159 1026 140 1020 140 841 165 759 123 750 123 671 156 632 123 528 123 525 129 511 137 500 126 286 126 288 209"/></Shape>
+	    <String CONTENT="(Loire) et mort le 27 janvier 1870 à"
+                    HPOS="286"
+                    VPOS="104"
+                    WIDTH="1903"
+                    HEIGHT="140"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c6a155c3"
+                    TAGREFS="LT150"
+                    BASELINE="297 330 1410 322 1810 330 2195 309 2443 306" 
+                    HPOS="295"
+                    VPOS="249"
+                    WIDTH="2148"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="297 344 332 359 333 359 335 359 337 359 388 344 390 344 442 344 460 344 502 363 504 363 506 363 682 361 684 361 739 341 741 341 781 359 783 359 785 361 878 361 878 359 880 359 933 339 935 339 1014 339 1051 357 1053 357 1054 357 1130 348 1183 355 1185 355 1289 339 1352 355 1353 355 1355 355 1528 335 1621 352 1623 353 1667 353 1667 352 1669 352 1702 335 1742 348 1744 348 1849 350 1851 350 1852 350 1898 331 1986 346 1988 346 2067 330 2217 337 2219 337 2443 324 2443 306 2439 264 2322 258 2320 258 2318 258 2302 264 2271 271 2214 264 2118 249 2117 249 2115 249 2087 264 2060 278 1904 278 1867 264 1851 256 1849 256 1847 256 1845 256 1830 264 1794 280 1678 280 1641 264 1621 253 1619 253 1566 253 1564 253 1515 264 1441 278 1386 264 1357 254 1355 254 1353 254 1304 256 1302 256 1284 264 1232 284 1143 270 1075 264 1060 258 1058 258 1056 258 1054 258 1045 264 999 286 900 275 898 275 897 275 867 289 603 289 511 264 508 262 506 262 504 262 495 264 425 276 398 264 396 264 295 264 297 330"/></Shape>
+	    <String CONTENT="Boulogne-sur-Seine (Seine), est un homme"
+                    HPOS="295"
+                    VPOS="249"
+                    WIDTH="2148"
+                    HEIGHT="114"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3ba5a192"
+                    TAGREFS="LT150"
+                    BASELINE="307 463 1779 434" 
+                    HPOS="302"
+                    VPOS="360"
+                    WIDTH="1475"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="305 462 305 492 500 467 563 495 574 495 602 462 704 462 789 481 883 459 902 475 902 478 968 467 982 478 984 484 993 486 1094 486 1100 484 1105 475 1122 459 1177 451 1391 448 1592 473 1774 459 1777 431 1768 382 1490 385 1466 363 1466 360 1394 360 1394 363 1364 387 1361 393 1334 393 1248 363 1237 363 1202 393 1147 379 1081 387 1059 371 1059 368 1048 368 995 390 973 371 973 368 960 368 910 401 869 401 841 374 841 371 830 371 739 404 671 404 638 379 522 396 503 379 431 379 302 407 305 462"/></Shape>
+	    <String CONTENT="politique et diplomate français."
+                    HPOS="302"
+                    VPOS="360"
+                    WIDTH="1475"
+                    HEIGHT="135"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2089"
+                   VPOS="3072"
+                   WIDTH="314"
+                   HEIGHT="130"
+                   ID="eSc_textblock_ea35745c"
+                   TAGREFS="BT150">
+          <Shape><Polygon POINTS="2128 3072 2381 3087 2403 3180 2359 3202 2096 3202 2089 3102 2128 3072"/></Shape>
+          <TextLine ID="eSc_line_c8e32a8c"
+                    TAGREFS="LT150"
+                    BASELINE="2102 3168 2384 3162" 
+                    HPOS="2100"
+                    VPOS="3094"
+                    WIDTH="284"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2102 3168 2102 3182 2153 3193 2155 3193 2157 3193 2159 3193 2173 3182 2188 3193 2190 3193 2192 3193 2194 3193 2195 3193 2221 3180 2227 3177 2298 3177 2300 3179 2311 3188 2311 3190 2313 3190 2315 3190 2317 3191 2368 3191 2368 3190 2370 3190 2372 3190 2384 3177 2384 3162 2383 3118 2317 3094 2315 3094 2313 3094 2311 3094 2309 3094 2309 3096 2285 3118 2283 3118 2269 3118 2260 3118 2239 3098 2239 3096 2238 3096 2236 3096 2217 3096 2216 3096 2214 3096 2212 3096 2212 3098 2190 3118 2188 3120 2183 3118 2126 3102 2124 3102 2122 3102 2120 3102 2118 3102 2100 3113 2102 3168"/></Shape>
+	    <String CONTENT="2 de 2"
+                    HPOS="2100"
+                    VPOS="3094"
+                    WIDTH="284"
+                    HEIGHT="99"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
