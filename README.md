@@ -1,4 +1,3 @@
-# Copiste d'un jour
 # Description
 The Copiste d'un jour project aims at creating a dataset of ground truth of contemporary Québécois handwriting to train HTR models.
 
