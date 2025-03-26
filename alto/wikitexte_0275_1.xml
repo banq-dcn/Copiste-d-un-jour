@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0275_1.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT202" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT202" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="110"
+                   VPOS="117"
+                   WIDTH="2293"
+                   HEIGHT="3056"
+                   ID="eSc_textblock_c64f48eb"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="2025 117 2373 124 2403 176 2388 218 2322 227 2359 247 2322 271 2307 410 2315 1068 2307 1142 2249 1210 2293 1268 2278 1296 2307 1371 2315 1743 2307 1875 2271 1943 2300 1965 2300 2212 2227 2286 2293 2330 1992 2398 2293 2442 2307 2689 2263 2777 2293 2794 2278 2858 2315 2911 2293 2975 2337 3021 2351 3144 2315 3173 2192 3173 2139 3070 146 3048 124 3012 132 1129 110 870 132 234 168 198 814 227 1808 205 1884 132 2025 117"/></Shape>
+          <TextLine ID="eSc_line_045b3cc2"
+                    BASELINE="1885 189 2387 198" 
+                    HPOS="1881"
+                    VPOS="118"
+                    WIDTH="503"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2379 143 2360 129 2175 137 2153 129 2126 118 2104 118 2093 118 2071 129 2063 134 2060 129 2046 118 2021 118 1994 121 1966 123 1939 126 1911 129 1884 132 1884 187 1881 211 2379 217 2384 198 2379 143 2379 143"/></Shape>
+	    <String CONTENT="wikitexte_0275"
+                    HPOS="1881"
+                    VPOS="118"
+                    WIDTH="503"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3173d2b8"
+                    TAGREFS="LT202"
+                    BASELINE="172 298 2032 308" 
+                    HPOS="167"
+                    VPOS="220"
+                    WIDTH="1863"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1023 222 1015 222 976 242 940 222 927 222 899 250 803 250 767 225 745 225 715 236 695 222 682 222 651 247 577 233 517 244 489 220 478 220 412 244 360 220 352 220 291 242 261 220 170 228 170 297 167 321 1196 338 1438 327 1567 341 2027 327 2030 308 2030 253 1988 228 1931 228 1900 255 1700 255 1675 236 1664 236 1628 253 1595 236 1521 250 1493 228 1493 225 1479 225 1438 250 1342 250 1317 228 1317 225 1306 225 1248 244 1218 225 1204 225 1204 228 1180 247 1149 225 1138 225 1053 247 1023 222"/></Shape>
+	    <String CONTENT="J&#x27;ai lu les conditions de participation et j&#x27;y consens. Je"
+                    HPOS="167"
+                    VPOS="220"
+                    WIDTH="1863"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6bd46504"
+                    TAGREFS="LT202"
+                    BASELINE="171 419 2289 423" 
+                    HPOS="170"
+                    VPOS="352"
+                    WIDTH="2118"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="170 418 170 445 305 445 324 459 429 445 550 445 569 459 671 445 954 459 2104 445 2197 459 2285 437 2288 420 2285 374 2170 354 2120 371 2068 352 1909 365 1859 352 1848 352 1826 371 1752 352 1543 374 1312 374 1295 368 1210 352 1130 352 1105 374 566 374 525 352 517 352 475 365 456 374 275 374 225 352 217 352 170 363 170 418"/></Shape>
+	    <String CONTENT="comprends que mon manuscrit sera anonymisé et utilisé par"
+                    HPOS="170"
+                    VPOS="352"
+                    WIDTH="2118"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_81102560"
+                    TAGREFS="LT202"
+                    BASELINE="173 536 2283 546" 
+                    HPOS="167"
+                    VPOS="451"
+                    WIDTH="2113"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="170 533 167 555 393 572 1548 563 1752 580 2016 566 2258 580 2277 563 2280 544 2277 467 2170 462 2098 486 2038 462 2027 462 1997 486 1961 462 1947 462 1911 492 1771 492 1647 462 1639 462 1576 486 1510 459 1496 459 1463 486 1435 464 1422 464 1394 489 1325 489 1290 459 1279 459 1215 484 1149 456 1136 456 1050 484 995 456 984 456 949 484 877 456 866 456 822 484 786 456 772 456 726 484 660 484 632 459 618 459 580 484 464 484 407 478 379 453 368 453 302 475 275 453 170 451 170 533"/></Shape>
+	    <String CONTENT="BAnQ pour des activités de recherche et développement et qu&#x27;il"
+                    HPOS="167"
+                    VPOS="451"
+                    WIDTH="2113"
+                    HEIGHT="129"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ea4f45c7"
+                    TAGREFS="LT202"
+                    BASELINE="170 654 2204 667" 
+                    HPOS="165"
+                    VPOS="580"
+                    WIDTH="2038"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="167 651 165 682 1284 695 1356 682 1394 698 2120 684 2148 701 2159 701 2200 682 2203 665 2200 596 2104 588 2082 607 2049 588 2041 588 1983 605 1964 588 1955 588 1859 610 1733 585 1628 607 1493 585 1413 602 1391 583 1185 583 1158 607 1111 607 1078 583 998 583 976 599 951 580 940 580 883 602 827 580 742 580 712 602 558 602 533 580 522 580 508 585 484 599 167 585 167 651"/></Shape>
+	    <String CONTENT="pourra aussi être publié et partagé sous licence CC-BY"
+                    HPOS="165"
+                    VPOS="580"
+                    WIDTH="2038"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ecb21cbc"
+                    TAGREFS="LT202"
+                    BASELINE="186 773 2251 782" 
+                    HPOS="181"
+                    VPOS="701"
+                    WIDTH="2069"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="184 772 181 792 2244 800 2250 781 2250 731 2195 715 2186 715 2142 728 2082 706 2074 706 2024 728 1906 715 1859 731 1576 731 1562 715 1499 726 1383 704 1317 726 1281 704 1270 704 1232 720 1213 704 1114 704 1086 728 946 728 902 709 874 701 789 701 764 723 701 701 588 701 544 726 489 726 429 701 420 701 376 726 305 726 184 701 184 772"/></Shape>
+	    <String CONTENT="pour être utilisé librement à des fins non commerciales."
+                    HPOS="181"
+                    VPOS="701"
+                    WIDTH="2069"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1abb6cec"
+                    TAGREFS="LT202"
+                    BASELINE="146 892 2254 902" 
+                    HPOS="143"
+                    VPOS="811"
+                    WIDTH="2109"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="145 891 143 907 357 926 2250 921 2252 849 2208 849 2173 819 2159 819 2115 847 2008 844 1972 819 1961 819 1909 844 1840 830 1779 844 1727 816 1716 816 1669 844 1537 838 1493 816 1482 816 1449 844 1325 844 1292 816 1218 827 1204 814 1017 814 984 841 951 825 940 825 918 844 734 844 673 811 517 811 478 838 478 841 440 841 437 838 341 811 231 811 145 836 145 891"/></Shape>
+	    <String CONTENT="Philippe Vallancien, dit Calvi, est un dessinateur de"
+                    HPOS="143"
+                    VPOS="811"
+                    WIDTH="2109"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e6e9a8a4"
+                    TAGREFS="LT202"
+                    BASELINE="199 1018 1157 1012 2230 1022" 
+                    HPOS="198"
+                    VPOS="937"
+                    WIDTH="2030"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="198 1017 198 1045 2225 1042 2228 1020 2228 959 2167 940 2159 940 2109 959 1969 959 1931 940 1922 940 1862 957 1664 940 1559 957 1339 940 1331 940 1312 957 1229 940 1171 957 1138 940 1127 940 1108 957 1089 940 1078 940 1031 954 968 940 872 957 800 940 789 940 770 957 693 943 640 957 572 940 558 940 522 957 288 957 198 937 198 1017"/></Shape>
+	    <String CONTENT="presse, caricaturiste et illustrateur français né le"
+                    HPOS="198"
+                    VPOS="937"
+                    WIDTH="2030"
+                    HEIGHT="108"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_589ab9b4"
+                    TAGREFS="LT202"
+                    BASELINE="192 1133 2264 1135" 
+                    HPOS="189"
+                    VPOS="1053"
+                    WIDTH="2074"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="189 1133 189 1152 2261 1157 2263 1078 2175 1056 2104 1069 2082 1053 1920 1075 1821 1056 1768 1072 1746 1053 1735 1053 1666 1072 1636 1053 1622 1053 1589 1080 1482 1080 1452 1053 1438 1053 1400 1080 1141 1080 1072 1053 982 1053 943 1078 861 1053 739 1053 704 1080 610 1080 547 1056 539 1056 470 1078 415 1058 401 1056 374 1058 280 1078 250 1053 242 1053 189 1056 189 1133"/></Shape>
+	    <String CONTENT="3 septembre 1938 à Besançon et mort le 11 avril 2022"
+                    HPOS="189"
+                    VPOS="1053"
+                    WIDTH="2074"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_40886bac"
+                    TAGREFS="LT202"
+                    BASELINE="186 1248 568 1248" 
+                    HPOS="184"
+                    VPOS="1149"
+                    WIDTH="382"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="184 1245 184 1267 563 1270 566 1245 566 1196 495 1179 492 1179 489 1179 434 1190 365 1149 363 1149 360 1149 275 1149 272 1149 269 1149 266 1149 266 1152 228 1190 184 1196 184 1245"/></Shape>
+	    <String CONTENT="à Paris."
+                    HPOS="184"
+                    VPOS="1149"
+                    WIDTH="382"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8e1f642b"
+                    TAGREFS="LT202"
+                    BASELINE="178 1374 2256 1367" 
+                    HPOS="173"
+                    VPOS="1287"
+                    WIDTH="2082"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="176 1372 176 1402 2252 1397 2255 1366 2250 1314 2156 1292 2148 1292 2118 1311 2052 1292 2043 1292 1983 1311 1955 1287 1944 1287 1843 1311 1757 1295 1733 1314 1468 1314 1380 1287 1257 1289 1210 1309 1171 1292 1160 1292 1125 1314 1061 1295 1015 1300 943 1314 866 1289 858 1289 775 1314 706 1292 594 1314 528 1289 360 1311 305 1289 173 1292 176 1372"/></Shape>
+	    <String CONTENT="Zhang Guoqing (chinois simplifié : - ; pinyin : Zh-ng Guóq-"
+                    HPOS="173"
+                    VPOS="1287"
+                    WIDTH="2082"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_75a8a27d"
+                    TAGREFS="LT202"
+                    BASELINE="203 1487 2040 1493" 
+                    HPOS="198"
+                    VPOS="1410"
+                    WIDTH="1840"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="200 1485 198 1507 2032 1515 2038 1490 2038 1441 1977 1424 1966 1424 1944 1441 1818 1441 1782 1413 1658 1435 1606 1413 1501 1413 1501 1416 1479 1435 1438 1416 1427 1416 1427 1419 1402 1438 1235 1438 1210 1416 1210 1413 1199 1413 1152 1435 1078 1421 1070 1421 1059 1432 1034 1413 1034 1410 1020 1410 990 1432 960 1410 781 1410 764 1424 750 1413 750 1410 682 1410 651 1435 376 1421 368 1421 349 1435 324 1413 324 1410 316 1410 200 1421 200 1485"/></Shape>
+	    <String CONTENT="ng), né en août 1964, est un homme politique chinois."
+                    HPOS="198"
+                    VPOS="1410"
+                    WIDTH="1840"
+                    HEIGHT="105"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a4d5033c"
+                    TAGREFS="LT202"
+                    BASELINE="184 1602 2283 1613" 
+                    HPOS="178"
+                    VPOS="1515"
+                    WIDTH="2102"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="178 1619 2274 1630 2280 1611 2280 1551 2247 1526 2236 1526 2175 1545 2126 1526 2115 1526 2071 1553 2002 1534 1991 1534 1966 1556 1909 1556 1892 1548 1818 1526 1810 1526 1760 1553 1713 1523 1702 1523 1622 1553 1323 1553 1265 1523 1257 1523 1226 1540 1204 1520 1028 1520 990 1551 861 1551 827 1529 819 1520 778 1526 693 1545 665 1523 651 1523 605 1545 572 1518 561 1518 506 1548 431 1548 390 1518 376 1518 341 1548 297 1548 261 1518 250 1518 220 1531 184 1515 178 1619"/></Shape>
+	    <String CONTENT="Membre du politburo du Parti communiste chinois, il est"
+                    HPOS="178"
+                    VPOS="1515"
+                    WIDTH="2102"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_969d05ae"
+                    TAGREFS="LT202"
+                    BASELINE="189 1719 1783 1723 2170 1731" 
+                    HPOS="184"
+                    VPOS="1633"
+                    WIDTH="1983"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="187 1718 184 1738 2162 1749 2167 1729 2164 1672 2129 1672 2129 1669 2085 1636 2071 1636 2041 1658 2016 1639 2002 1639 1961 1672 1884 1672 1878 1663 1845 1636 1774 1636 1746 1658 1716 1636 1702 1636 1661 1672 1592 1672 1570 1658 1523 1636 1515 1636 1433 1672 1191 1672 1119 1669 1078 1633 965 1633 938 1658 921 1647 907 1633 816 1633 775 1666 671 1644 662 1644 640 1663 495 1666 431 1636 412 1633 371 1669 343 1669 280 1633 187 1633 187 1718"/></Shape>
+	    <String CONTENT="l&#x27;un des quatre Vice-Premiers ministres du Conseil des"
+                    HPOS="184"
+                    VPOS="1633"
+                    WIDTH="1983"
+                    HEIGHT="116"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5157d868"
+                    TAGREFS="LT202"
+                    BASELINE="180 1837 2285 1848" 
+                    HPOS="176"
+                    VPOS="1760"
+                    WIDTH="2107"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="178 1837 176 1878 484 1861 591 1878 684 1867 698 1878 698 1881 1039 1870 1050 1875 1061 1886 1070 1886 1204 1867 1254 1889 1334 1870 1358 1889 1367 1892 1485 1892 1485 1889 1490 1889 1510 1872 1521 1867 2046 1867 2137 1892 2148 1892 2178 1870 2280 1870 2283 1848 2283 1793 2079 1768 2021 1793 1914 1793 1884 1768 1757 1765 1653 1787 1526 1765 1518 1765 1490 1787 1378 1773 1262 1787 1213 1762 1149 1762 1122 1784 1075 1762 987 1784 921 1762 910 1762 880 1784 852 1762 742 1782 709 1760 577 1760 550 1782 517 1760 503 1760 470 1784 305 1784 275 1760 214 1760 178 1776 178 1837"/></Shape>
+	    <String CONTENT="affaires de l&#x27;Etat de la république populaire de Chine depuis"
+                    HPOS="176"
+                    VPOS="1760"
+                    WIDTH="2107"
+                    HEIGHT="132"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c743ad86"
+                    TAGREFS="LT202"
+                    BASELINE="201 1958 445 1956" 
+                    HPOS="198"
+                    VPOS="1878"
+                    WIDTH="244"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="200 1958 200 1982 440 1982 442 1955 440 1905 354 1878 352 1878 349 1878 198 1905 200 1958"/></Shape>
+	    <String CONTENT="2023."
+                    HPOS="198"
+                    VPOS="1878"
+                    WIDTH="244"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7d37701b"
+                    TAGREFS="LT202"
+                    BASELINE="193 2076 990 2073 2236 2085" 
+                    HPOS="189"
+                    VPOS="1982"
+                    WIDTH="2044"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="192 2073 189 2095 2228 2103 2233 2084 2233 2029 2164 1996 2156 1996 2093 2026 2027 1996 1961 1996 1917 2026 1887 2002 1873 2002 1837 2026 1633 2026 1600 1996 1589 1996 1518 2026 1435 2026 1369 1993 1361 1993 1287 2021 1251 1991 1240 1991 1125 2021 1089 1991 1026 1988 990 1999 946 2018 844 1988 750 1988 629 2018 585 1985 459 2015 305 2015 266 1985 192 1982 192 2073"/></Shape>
+	    <String CONTENT="University of Akron Concert est un album en public du"
+                    HPOS="189"
+                    VPOS="1982"
+                    WIDTH="2044"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8521fcbb"
+                    TAGREFS="LT202"
+                    BASELINE="190 2190 2208 2200" 
+                    HPOS="187"
+                    VPOS="2103"
+                    WIDTH="2019"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="189 2189 187 2219 2200 2224 2206 2200 2206 2147 2107 2120 2096 2120 2057 2145 1942 2145 1903 2117 1892 2117 1832 2145 1793 2112 1779 2112 1755 2131 1702 2109 1587 2109 1554 2136 1501 2109 1490 2109 1455 2139 1435 2123 1303 2117 1254 2142 1155 2142 1108 2106 1094 2106 1056 2136 1020 2123 1009 2123 984 2142 918 2142 880 2106 759 2106 726 2134 687 2103 676 2103 613 2139 580 2139 539 2103 528 2103 459 2128 437 2139 398 2139 357 2103 346 2103 283 2136 189 2128 189 2189"/></Shape>
+	    <String CONTENT="guitariste Joe Pass sorti en 1985 chez Pablo Records."
+                    HPOS="187"
+                    VPOS="2103"
+                    WIDTH="2019"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e59dab92"
+                    TAGREFS="LT202"
+                    BASELINE="193 2312 2048 2315" 
+                    HPOS="189"
+                    VPOS="2224"
+                    WIDTH="1857"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="189 2329 346 2345 2043 2337 2046 2312 2043 2257 1738 2257 1708 2230 1708 2227 1694 2227 1661 2249 1639 2230 1639 2227 1625 2227 1625 2230 1598 2255 1543 2233 1532 2233 1510 2249 1485 2230 1485 2227 1358 2227 1358 2230 1336 2249 1298 2233 1287 2233 1259 2257 1158 2257 1119 2227 1105 2227 1105 2230 1078 2255 1023 2255 965 2233 954 2233 932 2255 880 2255 816 2227 684 2227 649 2244 610 2227 599 2227 594 2233 558 2255 530 2230 530 2227 407 2244 382 2227 368 2227 310 2252 286 2230 286 2227 275 2227 231 2246 198 2224 189 2329"/></Shape>
+	    <String CONTENT="Moshi Moshi Records est un petit label de musique"
+                    HPOS="189"
+                    VPOS="2224"
+                    WIDTH="1857"
+                    HEIGHT="121"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d670bd70"
+                    TAGREFS="LT202"
+                    BASELINE="192 2430 1399 2429" 
+                    HPOS="189"
+                    VPOS="2354"
+                    WIDTH="1208"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="189 2461 1397 2461 1397 2381 1273 2381 1243 2354 1232 2354 1182 2381 1103 2381 1061 2354 1048 2354 1023 2378 1004 2370 973 2365 960 2381 847 2381 805 2354 739 2354 717 2376 693 2354 682 2354 629 2376 522 2354 497 2381 459 2381 407 2356 396 2354 302 2354 272 2378 192 2354 189 2461"/></Shape>
+	    <String CONTENT="indépendant basé à Londres."
+                    HPOS="189"
+                    VPOS="2354"
+                    WIDTH="1208"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_77a9bd38"
+                    TAGREFS="LT202"
+                    BASELINE="182 2548 2234 2553" 
+                    HPOS="178"
+                    VPOS="2469"
+                    WIDTH="2055"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="178 2568 2228 2576 2233 2552 2233 2497 2200 2477 2109 2491 2063 2472 1942 2497 1867 2472 1766 2475 1738 2499 1669 2499 1642 2477 1628 2477 1585 2482 1554 2499 1510 2472 1499 2472 1441 2499 1298 2499 1265 2472 1254 2472 1185 2488 1163 2469 1015 2475 1001 2488 976 2469 965 2469 907 2486 852 2469 841 2469 814 2494 624 2494 596 2469 583 2469 539 2494 313 2494 283 2469 275 2469 181 2477 181 2546"/></Shape>
+	    <String CONTENT="Son nom provient de « Moshi moshi », une interjection"
+                    HPOS="178"
+                    VPOS="2469"
+                    WIDTH="2055"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_64bb715c"
+                    TAGREFS="LT202"
+                    BASELINE="185 2667 1282 2663 2178 2679" 
+                    HPOS="184"
+                    VPOS="2585"
+                    WIDTH="1991"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="184 2664 184 2703 2173 2703 2175 2678 2173 2626 2002 2620 1969 2596 1955 2596 1920 2623 1898 2604 1884 2604 1854 2623 1730 2620 1705 2596 1705 2593 1446 2593 1416 2620 1342 2598 1331 2598 1303 2623 1259 2623 1237 2607 1237 2604 1213 2604 1136 2615 1119 2604 1105 2590 940 2618 899 2590 838 2590 805 2620 770 2620 693 2587 682 2587 635 2615 528 2601 506 2618 341 2618 302 2587 291 2587 253 2601 184 2585 184 2664"/></Shape>
+	    <String CONTENT="japonaise que l&#x27;on adresse au téléphone pour"
+                    HPOS="184"
+                    VPOS="2585"
+                    WIDTH="1991"
+                    HEIGHT="118"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7a02b10d"
+                    TAGREFS="LT202"
+                    BASELINE="211 2787 1267 2783" 
+                    HPOS="206"
+                    VPOS="2711"
+                    WIDTH="1059"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="209 2785 209 2807 1259 2813 1265 2783 1262 2739 1207 2717 1125 2736 1122 2736 1100 2711 1034 2711 1004 2736 932 2736 910 2711 899 2711 833 2730 827 2730 792 2711 783 2711 734 2736 585 2733 569 2717 558 2717 514 2736 451 2719 440 2719 429 2728 415 2717 415 2714 401 2714 382 2728 338 2711 206 2717 209 2785"/></Shape>
+	    <String CONTENT="saluer son interlocuteur."
+                    HPOS="206"
+                    VPOS="2711"
+                    WIDTH="1059"
+                    HEIGHT="102"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5e060b32"
+                    TAGREFS="LT202"
+                    BASELINE="217 2904 2073 2907" 
+                    HPOS="211"
+                    VPOS="2824"
+                    WIDTH="1860"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="211 2920 2065 2928 2071 2906 2063 2838 2032 2854 1895 2854 1870 2835 1848 2835 1730 2851 1675 2832 1556 2854 1141 2854 1075 2829 1053 2827 1023 2854 965 2854 943 2835 943 2832 932 2832 894 2846 877 2829 687 2827 662 2851 618 2832 607 2832 583 2849 558 2827 470 2843 451 2827 319 2827 297 2846 217 2824 211 2920"/></Shape>
+	    <String CONTENT="Le label a fêté son dixième anniversaire en"
+                    HPOS="211"
+                    VPOS="2824"
+                    WIDTH="1860"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c94f7e6f"
+                    TAGREFS="LT202"
+                    BASELINE="230 3019 1922 3017" 
+                    HPOS="228"
+                    VPOS="2939"
+                    WIDTH="1692"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="228 3016 228 3047 1917 3055 1920 3016 1917 2959 1757 2964 1683 2939 1672 2939 1647 2961 1628 2945 1628 2942 1496 2942 1496 2945 1485 2953 1466 2942 1452 2942 1430 2967 1345 2967 1320 2939 1309 2939 1243 2956 1193 2939 1182 2939 1182 2942 1160 2961 1158 2967 1061 2967 1053 2961 990 2939 979 2939 946 2967 866 2967 858 2961 786 2939 775 2939 775 2942 753 2961 734 2945 734 2942 643 2956 547 2939 522 2967 431 2967 431 2964 404 2942 404 2939 393 2939 360 2956 321 2939 313 2939 228 2964 228 3016"/></Shape>
+	    <String CONTENT="octobre 2008 lors d&#x27;une fête à l&#x27;O2 Arena"
+                    HPOS="228"
+                    VPOS="2939"
+                    WIDTH="1692"
+                    HEIGHT="116"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="192"
+                   VPOS="168"
+                   WIDTH="85"
+                   HEIGHT="13"
+                   ID="eSc_textblock_bd3b239b"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="192 168 277 168 277 174 198 181 192 168"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

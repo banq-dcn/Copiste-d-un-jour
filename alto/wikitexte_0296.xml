@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0296.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT233" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT233" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="139"
+                   VPOS="80"
+                   WIDTH="2374"
+                   HEIGHT="2484"
+                   ID="eSc_textblock_7a6eb513"
+                   TAGREFS="BT233">
+          <Shape><Polygon POINTS="146 80 2425 95 2417 159 2190 198 2395 227 2417 286 2395 320 2447 344 2454 381 2425 533 2366 577 2236 592 2256 628 2117 672 1685 687 1640 711 1669 753 1530 775 1076 812 886 799 946 828 1201 836 1164 848 460 858 1530 880 2381 938 2395 988 2366 1017 1847 1024 1728 1063 1845 1105 1223 1188 1772 1246 1737 1268 2373 1283 2427 1364 2505 1400 2513 1486 2417 1554 2359 1833 2359 1948 2395 2046 2366 2236 2388 2410 2329 2542 1273 2564 242 2542 220 2396 220 1430 242 1224 278 1210 212 1098 220 968 242 887 388 850 286 848 227 775 234 330 1691 322 1816 308 1796 271 1840 249 1810 227 1891 190 484 174 293 196 139 166 146 80"/></Shape>
+          <TextLine ID="eSc_line_3607095c"
+                    TAGREFS="LT233"
+                    BASELINE="1881 269 2379 271" 
+                    HPOS="1876"
+                    VPOS="231"
+                    WIDTH="500"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1878 266 1876 291 2373 291 2376 269 2373 233 1878 231 1878 266"/></Shape>
+	    <String CONTENT="wikitexte_0296"
+                    HPOS="1876"
+                    VPOS="231"
+                    WIDTH="500"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_96e24748"
+                    TAGREFS="LT233"
+                    BASELINE="331 391 2434 386" 
+                    HPOS="327"
+                    VPOS="335"
+                    WIDTH="2104"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="330 390 330 404 2428 407 2431 385 2426 352 2343 335 2340 335 2272 349 2269 352 1955 352 1953 349 1922 335 1920 335 1917 335 1914 335 1911 335 1892 349 1887 352 1677 352 1633 346 1499 335 1496 335 1493 335 1466 346 1455 349 1438 346 1397 335 1394 335 1391 335 1389 335 1386 335 1375 346 1367 352 1312 343 1254 338 1251 338 1204 343 1152 352 1136 343 1125 338 1122 338 1119 338 1034 343 902 352 327 341 330 390"/></Shape>
+	    <String CONTENT="Jean Schorn, appelé Schorn le Jeune, né le 16 mars 1912"
+                    HPOS="327"
+                    VPOS="335"
+                    WIDTH="2104"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2dde68cc"
+                    TAGREFS="LT233"
+                    BASELINE="312 506 2410 507" 
+                    HPOS="310"
+                    VPOS="453"
+                    WIDTH="2099"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="310 506 310 522 605 539 607 541 2409 541 2409 506 2409 470 2277 470 2261 453 2258 453 2255 453 2252 453 2159 467 1537 453 1534 453 1466 467 1416 453 1413 453 1411 453 1408 453 1405 453 1389 470 1279 470 1221 453 1218 453 1215 453 1213 453 1166 467 987 453 984 453 894 467 808 453 805 453 803 453 800 453 783 470 640 470 522 453 519 453 310 467 310 506"/></Shape>
+	    <String CONTENT="à Cologne et mort le 4 avril 1994 à Cologne, est un"
+                    HPOS="310"
+                    VPOS="453"
+                    WIDTH="2099"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c7252ace"
+                    TAGREFS="LT233"
+                    BASELINE="337 622 2166 623" 
+                    HPOS="335"
+                    VPOS="572"
+                    WIDTH="1829"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="335 621 335 649 2164 649 2164 585 2107 572 1944 572 1931 585 1887 572 1878 572 1851 585 1837 585 1782 572 1744 585 1644 572 1631 588 1501 588 1477 580 1433 572 1309 585 1251 572 1240 572 1224 588 896 588 883 572 750 572 734 588 514 588 484 572 473 572 440 585 335 572 335 621"/></Shape>
+	    <String CONTENT="coureur cycliste sur piste allemand et multiple"
+                    HPOS="335"
+                    VPOS="572"
+                    WIDTH="1829"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3102f782"
+                    TAGREFS="LT233"
+                    BASELINE="342 742 1557 744" 
+                    HPOS="338"
+                    VPOS="687"
+                    WIDTH="1218"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="341 739 338 764 1554 764 1556 742 1554 706 1378 706 1378 704 1361 690 1361 687 1358 687 1356 687 1298 687 1295 687 1292 687 1290 687 1290 690 1273 704 1273 706 1114 706 1114 704 1094 687 1092 687 1089 687 1086 687 1083 687 1081 687 1064 704 1009 687 1006 687 1004 687 885 704 877 704 855 687 852 687 850 687 783 687 781 687 778 687 775 687 775 690 759 704 759 706 514 706 508 704 456 687 453 687 451 687 341 701 341 739"/></Shape>
+	    <String CONTENT="champion national de cyclisme."
+                    HPOS="338"
+                    VPOS="687"
+                    WIDTH="1218"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d66c87ea"
+                    TAGREFS="LT233"
+                    BASELINE="341 973 2377 978" 
+                    HPOS="335"
+                    VPOS="915"
+                    WIDTH="2041"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="2123 921 2082 937 2021 921 2010 921 1991 937 1939 921 1928 921 1900 940 1810 940 1779 921 1768 921 1708 937 1691 921 1680 921 1639 935 1592 921 1581 921 1559 940 1361 940 1323 918 1314 918 1251 937 1056 937 1001 918 984 921 965 937 827 937 783 918 753 918 583 935 508 918 442 935 338 915 338 970 335 995 2371 1001 2376 976 2373 940 2181 940 2134 921 2123 921"/></Shape>
+	    <String CONTENT="Jared Rushton est un acteur américain né le 3 mars"
+                    HPOS="335"
+                    VPOS="915"
+                    WIDTH="2041"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b28d7116"
+                    TAGREFS="LT233"
+                    BASELINE="332 1098 1667 1094" 
+                    HPOS="330"
+                    VPOS="1046"
+                    WIDTH="1337"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="332 1098 332 1114 1663 1118 1667 1094 1663 1067 1623 1067 1601 1046 1599 1046 1597 1046 1596 1046 1594 1046 1550 1065 1491 1050 1489 1050 1487 1050 1485 1050 1445 1067 1388 1067 1364 1046 1363 1046 1361 1046 1359 1046 1357 1046 1315 1059 1297 1046 1295 1046 1293 1046 1291 1046 1289 1046 1265 1059 1252 1048 1252 1046 1251 1046 1249 1046 1247 1046 1245 1046 1212 1057 1188 1046 1186 1046 1185 1046 1183 1046 1181 1046 1157 1067 1108 1067 1076 1046 1075 1046 1073 1046 1071 1046 1069 1046 1042 1061 1010 1046 1008 1046 1007 1046 1005 1046 933 1067 682 1048 680 1048 678 1048 676 1048 654 1067 598 1057 596 1057 535 1067 513 1048 511 1048 510 1048 359 1048 357 1048 355 1048 354 1048 330 1065 332 1098"/></Shape>
+	    <String CONTENT="1974 à Provo, Utah (Etats-Unis)."
+                    HPOS="330"
+                    VPOS="1046"
+                    WIDTH="1337"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1e3f5e92"
+                    TAGREFS="LT233"
+                    BASELINE="311 1327 1726 1331 2304 1340" 
+                    HPOS="308"
+                    VPOS="1270"
+                    WIDTH="1994"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2263 1281 2247 1278 2208 1295 2156 1278 1862 1295 1826 1278 1818 1278 1777 1292 1760 1276 1746 1276 1719 1292 1493 1276 1386 1292 1320 1276 1279 1292 1149 1292 1114 1273 1105 1273 1048 1289 836 1276 764 1289 687 1270 616 1287 415 1270 393 1289 310 1289 308 1353 2296 1355 2302 1339 2302 1295 2263 1281"/></Shape>
+	    <String CONTENT="Molhem Barakat est un travailleur indépendant et"
+                    HPOS="308"
+                    VPOS="1270"
+                    WIDTH="1994"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b4beef1f"
+                    TAGREFS="LT233"
+                    BASELINE="309 1453 2500 1452" 
+                    HPOS="308"
+                    VPOS="1399"
+                    WIDTH="2189"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="308 1452 308 1476 2494 1482 2497 1452 2497 1416 2222 1399 2219 1399 2217 1399 2189 1413 2068 1399 2065 1399 2063 1399 2013 1413 2010 1416 1856 1416 1854 1413 1837 1399 1834 1399 1832 1399 1829 1399 1766 1413 1735 1399 1733 1399 1589 1399 1587 1399 1584 1399 1581 1399 1567 1413 1540 1399 1537 1399 1534 1399 1532 1399 1501 1413 1501 1416 894 1416 891 1413 874 1399 872 1399 869 1399 866 1399 863 1399 811 1413 805 1413 803 1413 783 1399 781 1399 778 1399 775 1399 308 1410 308 1452"/></Shape>
+	    <String CONTENT="correspondant de guerre syrien décédé le 20 décembre 2013."
+                    HPOS="308"
+                    VPOS="1399"
+                    WIDTH="2189"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b833ad4e"
+                    TAGREFS="LT233"
+                    BASELINE="315 1574 2388 1576" 
+                    HPOS="310"
+                    VPOS="1518"
+                    WIDTH="2077"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 1573 310 1586 2382 1595 2387 1575 2384 1537 2239 1537 2239 1534 2219 1518 2104 1537 1702 1537 1683 1529 1639 1518 1628 1518 1603 1537 1515 1537 1424 1518 1416 1518 1394 1534 1152 1534 1092 1518 1083 1518 1042 1534 883 1518 874 1518 847 1534 778 1518 627 1534 517 1520 478 1518 415 1534 313 1520 313 1573"/></Shape>
+	    <String CONTENT="Son âge exact lors de sa mort n&#x27;est pas connu, certains"
+                    HPOS="310"
+                    VPOS="1518"
+                    WIDTH="2077"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0e344b1c"
+                    TAGREFS="LT233"
+                    BASELINE="307 1692 1608 1688 2214 1695" 
+                    HPOS="302"
+                    VPOS="1633"
+                    WIDTH="1909"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="305 1691 305 1707 390 1724 662 1710 695 1710 781 1724 814 1710 2206 1716 2211 1694 2208 1652 1944 1652 1884 1633 1876 1633 1829 1650 1779 1633 1768 1633 1749 1652 1617 1652 1446 1633 1438 1633 1422 1650 1235 1650 1215 1633 1105 1633 946 1650 894 1633 676 1650 591 1633 572 1652 440 1652 363 1633 302 1652 305 1691"/></Shape>
+	    <String CONTENT="affirment qu&#x27;il n&#x27;avait pas 17 ans, et l&#x27;Agence"
+                    HPOS="302"
+                    VPOS="1633"
+                    WIDTH="1909"
+                    HEIGHT="91"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b9564ac2"
+                    TAGREFS="LT233"
+                    BASELINE="315 1814 2006 1821" 
+                    HPOS="310"
+                    VPOS="1754"
+                    WIDTH="1695"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 1812 310 1826 1999 1831 2005 1820 2002 1779 1856 1760 1854 1760 1578 1773 1488 1776 1477 1771 1444 1757 1441 1757 1438 1757 1435 1757 1380 1771 1364 1773 1295 1771 1111 1757 1108 1757 1059 1768 1037 1771 1023 1765 995 1757 993 1757 990 1757 987 1757 984 1757 973 1765 962 1773 739 1771 731 1762 720 1754 717 1754 715 1754 712 1754 673 1762 635 1771 313 1760 313 1812"/></Shape>
+	    <String CONTENT="France-Presse declare qu&#x27;il avait 18 ans ."
+                    HPOS="310"
+                    VPOS="1754"
+                    WIDTH="1695"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a72acae5"
+                    TAGREFS="LT233"
+                    BASELINE="320 2051 2317 2040" 
+                    HPOS="316"
+                    VPOS="1982"
+                    WIDTH="2000"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="319 2065 2313 2068 2316 2037 2310 2004 2250 2004 2228 1985 2228 1982 2214 1982 2184 2004 1940 1992 1884 1982 1876 1982 1810 2007 1655 2007 1609 1985 1598 1985 1567 2004 1386 1993 1309 2010 960 2010 935 1988 924 1988 861 2007 811 1991 585 1991 563 2010 528 1993 316 1993 319 2048"/></Shape>
+	    <String CONTENT="L&#x27;ère Kannin (en japonais : -) est une des ères du"
+                    HPOS="316"
+                    VPOS="1982"
+                    WIDTH="2000"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ce72b08a"
+                    TAGREFS="LT233"
+                    BASELINE="290 2166 2308 2171" 
+                    HPOS="286"
+                    VPOS="2106"
+                    WIDTH="2021"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="288 2164 286 2180 2302 2186 2307 2169 2307 2125 2285 2109 2181 2125 2153 2109 1999 2123 1898 2109 1851 2125 1804 2109 1793 2109 1771 2128 1570 2128 1515 2109 1424 2125 1323 2109 1298 2125 1213 2106 1125 2123 894 2106 874 2125 583 2125 552 2109 541 2109 519 2125 368 2125 288 2106 288 2164"/></Shape>
+	    <String CONTENT="Japon (-, neng-, littéralement « le nom de l&#x27;année »)"
+                    HPOS="286"
+                    VPOS="2106"
+                    WIDTH="2021"
+                    HEIGHT="80"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_87cd4782"
+                    TAGREFS="LT233"
+                    BASELINE="309 2281 2107 2284" 
+                    HPOS="305"
+                    VPOS="2224"
+                    WIDTH="1799"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="305 2299 2098 2304 2104 2282 2101 2244 1975 2224 1892 2241 1892 2244 1832 2244 1815 2224 1677 2224 1664 2241 1620 2224 1375 2224 1336 2241 1210 2224 1169 2244 979 2244 962 2224 951 2224 902 2244 765 2233 728 2224 717 2224 676 2241 668 2241 621 2224 613 2224 563 2241 308 2241 308 2279"/></Shape>
+	    <String CONTENT="suivant l&#x27;ère ch-wa et précédant l&#x27;ère Jian"
+                    HPOS="305"
+                    VPOS="2224"
+                    WIDTH="1799"
+                    HEIGHT="80"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_48b5f9ee"
+                    TAGREFS="LT233"
+                    BASELINE="291 2399 1480 2396 2346 2405" 
+                    HPOS="286"
+                    VPOS="2337"
+                    WIDTH="2057"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="286 2417 2338 2420 2343 2403 2340 2362 2214 2362 2189 2340 2178 2340 2107 2359 1972 2340 1947 2362 1622 2362 1576 2345 1438 2359 1424 2351 1413 2340 1237 2354 1180 2340 1169 2340 1144 2362 861 2362 838 2345 836 2340 814 2343 778 2356 756 2337 657 2354 561 2337 514 2356 420 2337 316 2356 291 2337 286 2417"/></Shape>
+	    <String CONTENT="s&#x27;étendant du mois d&#x27;avril 1017 au mois de février"
+                    HPOS="286"
+                    VPOS="2337"
+                    WIDTH="2057"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0065d4b0"
+                    TAGREFS="LT233"
+                    BASELINE="320 2515 2238 2520" 
+                    HPOS="319"
+                    VPOS="2464"
+                    WIDTH="1917"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="319 2513 319 2541 2233 2541 2236 2519 2236 2480 2175 2464 2173 2464 2170 2464 2065 2477 1933 2464 1931 2464 1865 2477 1862 2477 1788 2464 1785 2464 1675 2477 1666 2477 1661 2477 1598 2464 1595 2464 1592 2464 1537 2477 1534 2477 1532 2477 1501 2464 1499 2464 1496 2464 1438 2477 1430 2477 1419 2477 1336 2464 1334 2464 319 2472 319 2513"/></Shape>
+	    <String CONTENT="1021. L&#x27;empereur régnant est Go-Ichij--tenn- (-)."
+                    HPOS="319"
+                    VPOS="2464"
+                    WIDTH="1917"
+                    HEIGHT="77"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

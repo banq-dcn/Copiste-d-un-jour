@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0275_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT202" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT202" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="139"
+                   VPOS="88"
+                   WIDTH="2388"
+                   HEIGHT="592"
+                   ID="eSc_textblock_266fba58"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="1962 88 2483 110 2527 146 2483 232 2375 254 2329 300 2293 562 748 599 585 665 284 680 139 643 146 205 609 174 249 154 1632 161 1693 110 1962 88"/></Shape>
+          <TextLine ID="eSc_line_85efeed0"
+                    TAGREFS="LT202"
+                    BASELINE="1710 176 2271 163 2474 198" 
+                    HPOS="1705"
+                    VPOS="101"
+                    WIDTH="767"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1705 123 1708 176 1708 200 2467 203 2472 198 2470 121 2296 104 2294 104 2291 104 2288 104 2269 123 2189 123 2118 101 2115 101 2112 101 2109 101 2107 101 2107 104 2087 123 2010 123 1950 101 1947 101 1944 101 1942 101 1895 121 1867 101 1865 101 1862 101 1815 101 1788 101"/></Shape>
+	    <String CONTENT="wikitexte_0275"
+                    HPOS="1705"
+                    VPOS="101"
+                    WIDTH="767"
+                    HEIGHT="102"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3e231500"
+                    TAGREFS="LT202"
+                    BASELINE="222 295 1860 286 2283 295" 
+                    HPOS="217"
+                    VPOS="195"
+                    WIDTH="2063"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="220 294 220 316 2274 319 2280 294 2277 225 2244 211 2167 225 2129 195 2118 195 2052 228 1925 228 1914 222 1823 195 1812 195 1788 217 1722 198 1713 198 1669 222 1642 198 1573 198 1545 220 1540 220 1510 203 1499 203 1471 228 1419 198 1408 198 1361 231 1163 231 1125 198 1037 198 995 231 954 200 940 200 899 231 858 200 808 200 772 231 728 200 717 200 660 220 629 200 616 200 580 231 517 209 508 209 481 222 437 200 418 203 374 225 341 200 217 200 220 294"/></Shape>
+	    <String CONTENT="Hot Chip, Kate Nash, Florence And The Machine, Slow"
+                    HPOS="217"
+                    VPOS="195"
+                    WIDTH="2063"
+                    HEIGHT="124"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dc4ce71f"
+                    TAGREFS="LT202"
+                    BASELINE="220 405 2040 416" 
+                    HPOS="214"
+                    VPOS="313"
+                    WIDTH="1824"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="217 404 214 426 1644 445 2035 431 2038 415 2035 349 1925 349 1898 324 1898 321 1788 346 1760 324 1760 321 1705 321 1705 324 1677 349 1644 349 1587 319 1515 319 1488 346 1438 346 1433 338 1411 319 1397 319 1358 346 1309 346 1301 335 1281 319 1270 319 1177 343 1160 335 1133 316 1078 316 1050 341 1042 332 1017 316 1006 316 957 341 910 316 905 316 770 343 734 343 706 319 706 316 693 316 654 341 624 341 596 316 596 313 448 316 448 319 426 338 382 321 360 316 349 316 324 338 294 316 217 319 217 404"/></Shape>
+	    <String CONTENT="Club, Tilly And The Wall, The Mae Shi, The Wave"
+                    HPOS="214"
+                    VPOS="313"
+                    WIDTH="1824"
+                    HEIGHT="132"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6e9a3fc8"
+                    TAGREFS="LT202"
+                    BASELINE="172 528 920 524 2215 533" 
+                    HPOS="167"
+                    VPOS="440"
+                    WIDTH="2047"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="170 528 167 544 1477 569 2211 552 2214 530 2211 481 2156 475 2118 442 2107 442 2052 456 2016 442 2005 442 1944 481 1862 481 1826 448 1812 448 1779 473 1766 478 1733 478 1675 442 1661 442 1620 478 1543 459 1534 459 1510 473 1479 451 1466 451 1427 481 1336 481 1295 462 1221 467 1180 440 1166 440 1136 459 1078 442 1067 442 1039 467 995 440 982 440 929 473 894 462 800 475 745 440 734 440 671 475 638 453 627 453 574 478 412 478 368 440 170 440 170 528"/></Shape>
+	    <String CONTENT="Pictures et James Yuill faisaient partie des artistes"
+                    HPOS="167"
+                    VPOS="440"
+                    WIDTH="2047"
+                    HEIGHT="129"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d2bce0ff"
+                    TAGREFS="LT202"
+                    BASELINE="247 647 605 641" 
+                    HPOS="242"
+                    VPOS="561"
+                    WIDTH="360"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="244 646 244 676 602 665 602 640 599 588 528 561 525 561 522 561 519 561 481 580 470 585 420 577 404 574 401 574 398 574 396 574 376 588 242 566 244 646"/></Shape>
+	    <String CONTENT="présents."
+                    HPOS="242"
+                    VPOS="561"
+                    WIDTH="360"
+                    HEIGHT="115"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2074"
+                   VPOS="3043"
+                   WIDTH="197"
+                   HEIGHT="108"
+                   ID="eSc_textblock_aca2cbe3"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="2109 3043 2249 3050 2271 3087 2249 3151 2082 3151 2074 3072 2109 3043"/></Shape>
+          <TextLine ID="eSc_line_4502b431"
+                    TAGREFS="LT202"
+                    BASELINE="2127 3112 2194 3116" 
+                    HPOS="2120"
+                    VPOS="3047"
+                    WIDTH="72"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="2164 3047 2162 3047 2159 3047 2156 3047 2126 3055 2126 3110 2120 3159 2184 3162 2192 3115 2192 3063 2167 3047 2164 3047"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2120"
+                    VPOS="3047"
+                    WIDTH="72"
+                    HEIGHT="115"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2258"
+                   VPOS="0"
+                   WIDTH="13"
+                   HEIGHT="5"
+                   ID="eSc_textblock_ada2f841"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="2261 0 2271 0 2271 5 2258 5 2261 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2324"
+                   VPOS="0"
+                   WIDTH="5"
+                   HEIGHT="5"
+                   ID="eSc_textblock_6abdc3b6"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="2328 0 2329 5 2324 5 2324 0 2328 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2368"
+                   VPOS="0"
+                   WIDTH="20"
+                   HEIGHT="5"
+                   ID="eSc_textblock_218ef712"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="2372 0 2388 0 2388 5 2368 5 2372 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="231"
+                   VPOS="0"
+                   WIDTH="545"
+                   HEIGHT="20"
+                   ID="eSc_textblock_003d972c"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="231 0 776 0 776 5 322 20 231 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2544"
+                   VPOS="154"
+                   WIDTH="4"
+                   HEIGHT="34"
+                   ID="eSc_textblock_c0dab005"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="2548 155 2548 188 2544 188 2544 154 2548 155"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2184"
+                   VPOS="0"
+                   WIDTH="6"
+                   HEIGHT="5"
+                   ID="eSc_textblock_b2a7534d"
+                   TAGREFS="BT202">
+          <Shape><Polygon POINTS="2188 0 2190 5 2184 5 2184 0 2188 0"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

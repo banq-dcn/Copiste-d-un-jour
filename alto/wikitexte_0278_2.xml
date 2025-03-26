@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0278_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT69" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT69" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2526"
+          HEIGHT="3276"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2526"
+                  HEIGHT="3276">
+        <TextBlock HPOS="247"
+                   VPOS="182"
+                   WIDTH="2104"
+                   HEIGHT="1090"
+                   ID="eSc_textblock_83b08ee5"
+                   TAGREFS="BT69">
+          <Shape><Polygon POINTS="293 182 684 218 2045 196 2198 232 2227 262 2227 311 2198 333 1945 340 1768 391 1464 427 1491 442 1447 471 1491 500 1382 536 1522 575 1965 582 2112 684 2329 706 2351 757 2343 1119 2307 1148 1821 1184 1797 1193 1812 1235 1680 1272 262 1264 247 247 293 182"/></Shape>
+          <TextLine ID="eSc_line_f794ba18"
+                    TAGREFS="LT69"
+                    BASELINE="278 303 2238 292" 
+                    HPOS="273"
+                    VPOS="172"
+                    WIDTH="1963"
+                    HEIGHT="161">
+            <Shape><Polygon POINTS="275 333 2236 330 2236 289 2231 256 2108 256 1991 172 1938 221 1870 256 1717 259 1389 259 1349 223 1335 223 1299 251 1215 251 1163 226 1152 226 1111 262 1043 262 1002 226 955 226 912 256 759 264 688 264 649 229 573 229 535 264 426 264 291 189 273 229 275 300"/></Shape>
+	    <String CONTENT="Deep Space Nine (1996) ou encore Power"
+                    HPOS="273"
+                    VPOS="172"
+                    WIDTH="1963"
+                    HEIGHT="161"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ff858db6"
+                    TAGREFS="LT69"
+                    BASELINE="289 414 1357 423" 
+                    HPOS="284"
+                    VPOS="333"
+                    WIDTH="1070"
+                    HEIGHT="165">
+            <Shape><Polygon POINTS="284 444 455 498 568 444 996 444 1065 461 1073 461 1105 444 1223 444 1275 461 1351 442 1354 379 1302 354 1136 368 1062 354 1062 357 1040 376 963 352 784 340 625 360 406 371 385 352 385 349 376 349 285 333 286 412"/></Shape>
+	    <String CONTENT="Rangers : Turbo (1997)."
+                    HPOS="284"
+                    VPOS="333"
+                    WIDTH="1070"
+                    HEIGHT="165"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_45a8ce18"
+                    TAGREFS="LT69"
+                    BASELINE="273 647 2042 645" 
+                    HPOS="270"
+                    VPOS="565"
+                    WIDTH="1769"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1990 603 1900 589 1867 600 1832 581 1742 581 1728 595 1714 584 1714 581 1616 581 1616 584 1586 611 1072 565 890 586 759 608 696 581 595 581 595 584 570 606 502 608 472 584 472 581 300 581 270 603 270 685 2039 682 2039 636 2018 619"/></Shape>
+	    <String CONTENT="Elle est aussi intervenue en tant que"
+                    HPOS="270"
+                    VPOS="565"
+                    WIDTH="1769"
+                    HEIGHT="120"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_91c9d7f3"
+                    TAGREFS="LT69"
+                    BASELINE="264 768 2336 765" 
+                    HPOS="259"
+                    VPOS="696"
+                    WIDTH="2075"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="262 767 262 794 2334 788 2329 726 2094 698 2086 698 2064 715 2037 701 2026 701 1996 723 1878 709 1810 723 1673 696 1638 726 1458 726 1425 696 1368 696 1327 726 1187 726 1152 696 1084 696 999 723 953 696 821 696 720 726 608 726 565 696 409 696 371 720 259 726 262 767"/></Shape>
+	    <String CONTENT="vedette invitée dans de nombreuses séries"
+                    HPOS="259"
+                    VPOS="696"
+                    WIDTH="2075"
+                    HEIGHT="98"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bea4f9de"
+                    TAGREFS="LT69"
+                    BASELINE="284 876 2333 871" 
+                    HPOS="278"
+                    VPOS="799"
+                    WIDTH="2054"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="281 873 281 909 2332 909 2329 832 2258 799 2113 799 2078 829 2012 799 2004 799 1938 832 1892 832 1856 802 1725 821 1698 799 1687 799 1622 829 1447 810 1422 832 1220 832 1157 799 1045 799 1007 829 950 827 917 799 846 799 808 832 532 832 491 829 456 799 445 799 393 819 278 805 281 873"/></Shape>
+	    <String CONTENT="telles que : Les Craquantes (1989), La Fête"
+                    HPOS="278"
+                    VPOS="799"
+                    WIDTH="2054"
+                    HEIGHT="110"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d1cbf57b"
+                    TAGREFS="LT69"
+                    BASELINE="271 993 1928 990" 
+                    HPOS="267"
+                    VPOS="882"
+                    WIDTH="1660"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="270 1023 1922 1026 1927 988 1925 950 1881 922 1723 941 1701 925 1701 922 1553 925 1534 947 1458 952 1417 952 1333 882 1247 922 1247 925 1220 952 1176 952 1149 925 1149 922 1138 922 1089 944 928 922 920 922 920 925 892 950 677 936 663 952 497 952 469 925 469 922 417 922 417 925 390 950 316 939 267 952 270 990"/></Shape>
+	    <String CONTENT="à la maison (1992), Roswell (1999),"
+                    HPOS="267"
+                    VPOS="882"
+                    WIDTH="1660"
+                    HEIGHT="144"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_515356e8"
+                    TAGREFS="LT69"
+                    BASELINE="269 1108 2320 1102" 
+                    HPOS="267"
+                    VPOS="1005"
+                    WIDTH="2053"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="269 1130 713 1130 772 1146 774 1146 808 1171 1008 1128 1032 1128 1260 1128 1296 1144 1298 1144 1300 1146 1371 1146 1371 1144 1373 1144 1402 1132 1562 1144 1564 1144 1566 1144 1593 1130 1764 1128 1935 1128 1968 1128 2220 1142 2221 1142 2223 1142 2247 1130 2320 1128 2320 1102 2316 1073 2179 1059 2178 1059 2176 1059 2138 1070 2132 1071 2127 1070 2083 1050 2081 1050 2079 1050 2077 1050 2041 1068 2034 1073 1835 1073 1823 1066 1772 1039 1716 1005 1637 1039 1635 1039 1633 1039 1582 1062 1573 1066 1564 1062 1518 1041 1517 1041 1515 1041 1513 1041 1473 1061 1455 1070 1431 1061 1382 1041 1380 1041 1340 1041 1338 1041 1336 1041 1298 1059 1273 1070 1240 1070 1211 1057 1171 1041 1169 1041 1167 1041 1165 1041 1109 1055 1038 1073 919 1066 917 1066 916 1066 896 1077 626 1077 582 1071 537 1048 528 1042 526 1042 524 1042 522 1042 509 1046 475 1059 442 1046 433 1042 431 1042 429 1042 267 1042 269 1108"/></Shape>
+	    <String CONTENT="Totalement jumelles (2001), Preuve à l&#x27;appui"
+                    HPOS="267"
+                    VPOS="1005"
+                    WIDTH="2053"
+                    HEIGHT="166"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8b49d491"
+                    TAGREFS="LT69"
+                    BASELINE="275 1228 1737 1223" 
+                    HPOS="273"
+                    VPOS="1130"
+                    WIDTH="1464"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="275 1252 460 1252 468 1252 551 1264 553 1264 757 1252 790 1250 1083 1250 1085 1250 1116 1263 1118 1263 1120 1263 1575 1250 1708 1261 1710 1261 1711 1261 1737 1248 1737 1223 1735 1184 1711 1166 1710 1166 1708 1166 1666 1166 1664 1166 1662 1166 1626 1186 1546 1186 1518 1166 1517 1166 1515 1166 1456 1166 1455 1166 1453 1166 1451 1166 1266 1130 1278 1177 1276 1177 1274 1177 1273 1177 1252 1190 1125 1190 1095 1139 1025 1160 1017 1170 987 1179 948 1190 921 1190 894 1168 892 1168 890 1168 830 1168 828 1168 826 1168 825 1168 788 1190 761 1190 735 1170 733 1170 732 1170 677 1170 675 1170 673 1170 672 1170 637 1193 586 1193 555 1170 553 1170 551 1170 550 1170 548 1170 484 1190 318 1170 316 1170 315 1170 273 1192 275 1228"/></Shape>
+	    <String CONTENT="(2002) et Les Experts (2002)."
+                    HPOS="273"
+                    VPOS="1130"
+                    WIDTH="1464"
+                    HEIGHT="134"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2331"
+                   VPOS="3159"
+                   WIDTH="114"
+                   HEIGHT="115"
+                   ID="eSc_textblock_48eeeca8"
+                   TAGREFS="BT69">
+          <Shape><Polygon POINTS="2369 3159 2402 3159 2445 3217 2394 3274 2345 3274 2331 3237 2338 3181 2369 3159"/></Shape>
+          <TextLine ID="eSc_line_e9fff9e5"
+                    TAGREFS="LT69"
+                    BASELINE="2352 3223 2405 3226" 
+                    HPOS="2351"
+                    VPOS="3168"
+                    WIDTH="54"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="2403 3168 2354 3172 2352 3223 2351 3239 2402 3246 2405 3226 2405 3168 2403 3168"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2351"
+                    VPOS="3168"
+                    WIDTH="54"
+                    HEIGHT="78"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
