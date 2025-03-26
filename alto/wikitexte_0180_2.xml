@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0180_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT45" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT45" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="271"
+                   VPOS="322"
+                   WIDTH="2066"
+                   HEIGHT="475"
+                   ID="eSc_textblock_d5a847dd"
+                   TAGREFS="BT45">
+          <Shape><Polygon POINTS="350 322 697 359 915 344 1142 381 1186 410 1164 467 1018 526 1150 535 1188 586 2300 586 2337 601 2337 687 2322 709 1891 702 1860 753 1896 775 1801 797 278 797 271 557 322 528 476 526 271 496 286 330 350 322"/></Shape>
+          <TextLine ID="eSc_line_fd40896c"
+                    TAGREFS="LT45"
+                    BASELINE="300 429 421 419 1160 430" 
+                    HPOS="297"
+                    VPOS="357"
+                    WIDTH="861"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1023 390 1001 365 987 365 962 385 935 363 869 363 847 385 764 371 706 385 679 368 599 382 572 363 558 363 528 382 470 368 398 379 371 360 371 357 299 357 297 453 1154 479 1158 429 1155 390 1152 390"/></Shape>
+	    <String CONTENT="Portail de la Pologne"
+                    HPOS="297"
+                    VPOS="357"
+                    WIDTH="861"
+                    HEIGHT="122"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8fa5fc23"
+                    TAGREFS="LT45"
+                    BASELINE="304 652 1834 660 2325 659" 
+                    HPOS="299"
+                    VPOS="591"
+                    WIDTH="2025"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="302 651 299 682 2318 687 2324 657 2324 618 2291 596 2076 596 2076 599 2054 618 1980 618 1947 596 1823 616 1782 596 1658 613 1620 594 1609 594 1581 610 1576 616 1504 616 1482 594 1471 594 1422 613 1364 596 1353 596 1331 616 1191 616 1125 594 1114 594 1100 607 1092 610 1067 591 1053 591 1020 613 954 613 929 591 811 605 748 594 720 610 302 599 302 651"/></Shape>
+	    <String CONTENT="Frédéric Metthé (né à Saint-Jérôme le 24 octobre 1949)"
+                    HPOS="299"
+                    VPOS="591"
+                    WIDTH="2025"
+                    HEIGHT="96"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_802ba730"
+                    TAGREFS="LT45"
+                    BASELINE="295 773 1797 771" 
+                    HPOS="293"
+                    VPOS="726"
+                    WIDTH="1504"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="295 793 1794 836 1797 771 1796 744 1737 726 1735 726 1733 726 1731 726 1685 737 1636 726 1634 726 1632 726 1630 726 1618 737 1557 726 1555 726 1553 726 1552 726 1530 742 1471 733 1469 733 1467 733 1465 733 1452 744 1265 744 1225 727 1223 727 1221 727 1153 742 1139 731 1137 731 1135 731 946 726 944 726 942 726 941 726 917 744 823 744 799 726 798 726 796 726 682 726 680 726 678 726 625 742 598 733 596 733 594 733 592 733 572 744 421 744 403 729 401 729 399 729 324 727 322 727 321 727 319 727 293 740 295 773"/></Shape>
+	    <String CONTENT="est un artiste multidisciplinaire québécois."
+                    HPOS="293"
+                    VPOS="726"
+                    WIDTH="1504"
+                    HEIGHT="110"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2375"
+                   VPOS="3182"
+                   WIDTH="79"
+                   HEIGHT="72"
+                   ID="eSc_textblock_6f462053"
+                   TAGREFS="BT45">
+          <Shape><Polygon POINTS="2395 3182 2454 3197 2439 3254 2375 3246 2395 3182"/></Shape>
+          <TextLine ID="eSc_line_e49ebeeb"
+                    TAGREFS="LT45"
+                    BASELINE="2388 3230 2443 3234" 
+                    HPOS="2386"
+                    VPOS="3186"
+                    WIDTH="57"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="2430 3197 2408 3186 2390 3197 2388 3230 2386 3245 2414 3256 2416 3256 2417 3256 2419 3256 2441 3246 2443 3234 2443 3219 2430 3197"/></Shape>
+	    <String CONTENT="2."
+                    HPOS="2386"
+                    VPOS="3186"
+                    WIDTH="57"
+                    HEIGHT="70"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="814"
+                   VPOS="308"
+                   WIDTH="13"
+                   HEIGHT="5"
+                   ID="eSc_textblock_a3bcef82"
+                   TAGREFS="BT45">
+          <Shape><Polygon POINTS="820 308 827 308 827 313 814 313 820 308"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="322"
+                   VPOS="308"
+                   WIDTH="307"
+                   HEIGHT="5"
+                   ID="eSc_textblock_c383d595"
+                   TAGREFS="BT45">
+          <Shape><Polygon POINTS="326 308 629 308 629 313 322 313 326 308"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2317"
+                   VPOS="770"
+                   WIDTH="5"
+                   HEIGHT="5"
+                   ID="eSc_textblock_88663243"
+                   TAGREFS="BT45">
+          <Shape><Polygon POINTS="2322 770 2322 775 2317 775 2317 770 2322 770"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2324"
+                   VPOS="777"
+                   WIDTH="5"
+                   HEIGHT="5"
+                   ID="eSc_textblock_fab3d0ef"
+                   TAGREFS="BT45">
+          <Shape><Polygon POINTS="2329 777 2329 782 2324 782 2324 777 2329 777"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2043"
+                   VPOS="770"
+                   WIDTH="147"
+                   HEIGHT="12"
+                   ID="eSc_textblock_4ee0641b"
+                   TAGREFS="BT45">
+          <Shape><Polygon POINTS="2043 770 2190 770 2190 782 2096 782 2043 770"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="645"
+                   VPOS="308"
+                   WIDTH="57"
+                   HEIGHT="5"
+                   ID="eSc_textblock_48a037ed"
+                   TAGREFS="BT45">
+          <Shape><Polygon POINTS="651 308 702 308 702 313 645 313 651 308"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

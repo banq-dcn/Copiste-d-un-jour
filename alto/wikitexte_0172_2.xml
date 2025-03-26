@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0172_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT178" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT178" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="212"
+                   VPOS="249"
+                   WIDTH="1861"
+                   HEIGHT="394"
+                   ID="eSc_textblock_69269a11"
+                   TAGREFS="BT178">
+          <Shape><Polygon POINTS="245 249 953 293 1772 293 2021 330 2065 352 2073 394 2028 447 1992 606 1918 643 242 636 212 577 212 286 264 262 245 249"/></Shape>
+          <TextLine ID="eSc_line_4b7a3e3c"
+                    TAGREFS="LT178"
+                    BASELINE="273 363 2040 381" 
+                    HPOS="271"
+                    VPOS="300"
+                    WIDTH="1769"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="271 390 2036 401 2040 381 2038 346 1845 344 1838 341 1803 319 1801 319 1799 319 1751 317 1750 317 1748 317 1746 317 1724 331 1684 315 1682 315 1625 315 1623 315 1621 315 1619 315 1592 333 1581 339 1552 339 1542 331 1511 313 1509 313 1507 313 1506 313 1504 313 1440 330 1403 341 1333 341 1289 326 1271 320 1269 320 1267 320 1265 320 1256 324 1240 335 1221 324 1203 311 1201 311 1199 311 1197 311 1196 311 1163 322 1128 335 1106 320 1087 309 1086 309 1084 309 1082 309 1080 309 1049 320 1036 324 1027 319 1018 313 1016 313 1014 313 1012 313 1010 313 996 319 957 333 930 317 917 308 915 308 913 308 878 308 876 308 875 308 873 308 862 315 843 326 829 319 827 319 825 319 823 319 821 319 803 331 755 311 739 306 737 306 684 306 682 306 680 306 678 306 673 309 636 331 550 331 510 306 508 304 506 304 504 304 502 304 500 304 495 306 421 330 359 330 317 302 315 302 313 302 273 300 273 363"/></Shape>
+	    <String CONTENT="Le volcan Nevado del Ruiz, situé 30 km au"
+                    HPOS="271"
+                    VPOS="300"
+                    WIDTH="1769"
+                    HEIGHT="101"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ca8a49b5"
+                    TAGREFS="LT178"
+                    BASELINE="229 491 1977 491" 
+                    HPOS="229"
+                    VPOS="430"
+                    WIDTH="1748"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="229 507 1060 520 1417 542 1977 515 1977 491 1977 462 1766 462 1742 451 1740 451 1739 451 1671 458 1634 438 1632 438 1630 438 1629 438 1627 438 1592 460 1541 441 1539 441 1537 441 1535 441 1504 458 1462 430 1460 430 1458 430 1410 430 1408 430 1407 430 1352 458 1311 458 1269 430 1267 430 1265 430 1216 430 1214 430 1212 430 1144 462 1093 462 1045 430 1043 430 1042 430 994 430 992 430 990 430 935 462 906 462 858 430 856 430 854 430 853 430 851 430 805 447 779 430 777 430 776 430 731 430 730 430 728 430 726 430 695 451 664 430 662 430 660 430 596 430 594 430 592 430 535 460 440 460 392 430 390 430 388 430 335 430 333 430 332 430 330 430 308 445 282 436 280 436 278 436 277 436 229 460 229 491"/></Shape>
+	    <String CONTENT="sud-ouest de la ville, est parfois surnommé"
+                    HPOS="229"
+                    VPOS="430"
+                    WIDTH="1748"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ace8b45b"
+                    TAGREFS="LT178"
+                    BASELINE="232 601 1043 595 1959 608" 
+                    HPOS="231"
+                    VPOS="530"
+                    WIDTH="1727"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="231 599 231 629 1955 629 1958 607 1958 561 1928 536 1815 536 1815 539 1790 561 1755 547 1658 561 1617 536 1545 536 1507 561 1455 533 1444 533 1402 561 1356 561 1328 536 1328 533 1169 533 1169 536 1147 555 1108 533 968 533 968 536 940 558 739 558 706 530 695 530 635 558 594 558 569 530 558 530 511 555 409 541 349 552 332 539 332 536 319 536 299 552 264 539 255 539 231 550 231 599"/></Shape>
+	    <String CONTENT="Mesa de Herveo (« la table de Herveo »)."
+                    HPOS="231"
+                    VPOS="530"
+                    WIDTH="1727"
+                    HEIGHT="99"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1876"
+                   VPOS="22"
+                   WIDTH="672"
+                   HEIGHT="122"
+                   ID="eSc_textblock_1746e663"
+                   TAGREFS="BT178">
+          <Shape><Polygon POINTS="1977 22 2498 29 2548 44 2548 86 2505 144 1876 144 1876 51 1977 22"/></Shape>
+          <TextLine ID="eSc_line_22b558c6"
+                    TAGREFS="LT178"
+                    BASELINE="1893 115 2504 102" 
+                    HPOS="1889"
+                    VPOS="47"
+                    WIDTH="615"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1893 115 1893 126 2504 113 2504 102 2498 66 2474 66 2472 66 2458 51 2458 49 2456 49 2454 49 2452 49 2377 58 2359 51 2357 51 2355 51 2353 51 2351 51 2342 58 2329 49 2328 49 2326 49 2324 49 2322 49 2320 49 2298 69 2296 71 2212 71 2210 71 2188 49 2188 47 2186 47 2184 47 2183 47 2181 47 2129 62 2098 49 2096 49 2095 49 2093 49 2062 58 1977 51 1975 51 1973 51 1972 51 1937 77 1889 77 1893 115"/></Shape>
+	    <String CONTENT="wikitexte_0172"
+                    HPOS="1889"
+                    VPOS="47"
+                    WIDTH="615"
+                    HEIGHT="79"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="110"
+                   VPOS="36"
+                   WIDTH="159"
+                   HEIGHT="167"
+                   ID="eSc_textblock_97095b0d"
+                   TAGREFS="BT178">
+          <Shape><Polygon POINTS="201 36 269 51 269 152 240 196 124 203 110 66 201 36"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1863"
+                   VPOS="0"
+                   WIDTH="298"
+                   HEIGHT="12"
+                   ID="eSc_textblock_1008d2e6"
+                   TAGREFS="BT178">
+          <Shape><Polygon POINTS="1863 0 2161 0 2161 5 1950 12 1863 0"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="2228"
+                   VPOS="366"
+                   WIDTH="50"
+                   HEIGHT="28"
+                   ID="eSc_textblock_27991f3d"
+                   TAGREFS="BT178">
+          <Shape><Polygon POINTS="2256 366 2278 374 2271 394 2228 379 2256 366"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

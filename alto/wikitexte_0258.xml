@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0258.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT199" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT199" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="190"
+                   VPOS="264"
+                   WIDTH="2257"
+                   HEIGHT="1684"
+                   ID="eSc_textblock_c68cff59"
+                   TAGREFS="BT199">
+          <Shape><Polygon POINTS="319 264 755 293 1142 271 1210 300 1414 308 1852 300 1972 271 2344 278 2329 313 2395 337 2403 430 2373 489 2439 572 2447 672 2359 777 2388 850 2381 1222 2351 1261 2366 1362 2337 1406 2234 1420 2337 1422 2373 1459 2373 1838 1509 1868 1399 1882 1427 1926 1331 1948 212 1941 190 1904 205 352 227 300 319 264"/></Shape>
+          <TextLine ID="eSc_line_6ed02ac9"
+                    TAGREFS="LT199"
+                    BASELINE="343 363 1175 366 2314 390" 
+                    HPOS="338"
+                    VPOS="299"
+                    WIDTH="1975"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="341 363 338 396 2307 412 2313 387 2307 324 2115 346 1961 346 1936 324 1936 321 1922 321 1895 343 1832 343 1713 316 1661 338 1548 338 1515 313 1496 316 1463 335 1314 335 1265 310 1204 324 1152 310 1141 310 1116 327 1103 316 1103 313 1006 327 971 310 954 308 916 310 778 327 712 302 704 302 638 324 607 302 596 302 558 324 470 324 440 299 341 305 341 363"/></Shape>
+	    <String CONTENT="The Seduction of Claude Debussy est un album du groupe Art"
+                    HPOS="338"
+                    VPOS="299"
+                    WIDTH="1975"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e7516109"
+                    TAGREFS="LT199"
+                    BASELINE="351 485 1133 493" 
+                    HPOS="346"
+                    VPOS="429"
+                    WIDTH="784"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="349 484 346 511 1125 519 1130 492 1127 451 1017 431 1015 431 927 442 888 448 794 448 786 440 775 429 772 429 770 429 767 429 687 437 607 445 349 429 349 484"/></Shape>
+	    <String CONTENT="of Noise réalisé en 1999."
+                    HPOS="346"
+                    VPOS="429"
+                    WIDTH="784"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_603192d7"
+                    TAGREFS="LT199"
+                    BASELINE="379 597 2230 621 2435 643" 
+                    HPOS="374"
+                    VPOS="544"
+                    WIDTH="2060"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="376 596 374 629 2428 662 2434 640 2434 585 2371 569 2291 585 2272 583 2222 566 2109 583 1950 580 1931 563 1741 574 1722 561 1424 574 1320 555 1259 572 1235 555 1114 566 1094 552 1083 552 1048 569 998 552 987 552 960 569 665 552 547 563 376 544 376 596"/></Shape>
+	    <String CONTENT="Les membres du groupe à cette époque sont Trevor Horn, Anne Dudley,"
+                    HPOS="374"
+                    VPOS="544"
+                    WIDTH="2060"
+                    HEIGHT="118"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8b2eb37d"
+                    TAGREFS="LT199"
+                    BASELINE="335 707 546 707 724 722 1153 726" 
+                    HPOS="333"
+                    VPOS="660"
+                    WIDTH="820"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="335 707 333 744 1150 751 1153 726 1153 698 981 693 981 691 963 676 963 674 961 674 959 674 957 674 915 683 898 669 898 667 897 667 895 667 893 667 891 667 854 687 847 691 843 685 825 671 825 669 823 669 821 669 820 669 818 669 816 669 796 683 777 669 777 667 776 667 774 667 772 667 770 667 768 667 768 669 753 683 746 691 697 691 669 687 662 680 645 665 645 663 643 663 642 663 640 663 638 663 594 678 579 682 574 676 561 665 559 665 557 665 504 661 460 660 458 660 456 660 431 671 425 674 418 671 392 660 390 660 388 660 335 667 335 707"/></Shape>
+	    <String CONTENT="Paul Morley et Lol Crème."
+                    HPOS="333"
+                    VPOS="660"
+                    WIDTH="820"
+                    HEIGHT="91"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d6071b9b"
+                    TAGREFS="LT199"
+                    BASELINE="326 830 1408 852 2153 856 2350 867" 
+                    HPOS="324"
+                    VPOS="779"
+                    WIDTH="2026"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="326 830 324 865 1896 880 2234 885 2236 887 2271 896 2272 896 2274 896 2348 887 2350 867 2348 836 2122 806 2041 806 2040 806 2038 806 2010 819 1979 804 1977 804 1904 804 1902 804 1900 804 1860 823 1856 826 1801 826 1689 823 1684 819 1654 801 1652 801 1651 801 1649 801 1647 801 1599 817 1588 821 1579 817 1544 797 1542 797 1507 797 1506 797 1504 797 1471 814 1463 819 1454 814 1434 801 1432 801 1430 801 1429 801 1427 801 1401 812 1388 819 1342 819 1007 814 988 803 964 788 963 788 961 788 959 788 957 788 913 801 882 810 845 810 825 799 801 786 799 786 798 786 796 786 755 797 719 806 590 803 572 793 544 781 543 781 541 781 491 792 486 792 478 790 432 779 431 779 429 779 326 786 326 830"/></Shape>
+	    <String CONTENT="Cet album est un hommage au compositeur français Claude Debussy."
+                    HPOS="324"
+                    VPOS="779"
+                    WIDTH="2026"
+                    HEIGHT="117"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f320ae01"
+                    TAGREFS="LT199"
+                    BASELINE="302 957 2361 977" 
+                    HPOS="300"
+                    VPOS="913"
+                    WIDTH="2061"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="302 957 300 982 2357 1001 2361 977 2361 949 2291 947 2256 931 2254 931 2252 931 2027 942 1984 944 1898 944 1893 940 1871 929 1869 929 1867 929 1865 929 1843 938 1840 940 1829 938 1762 929 1761 929 1713 936 1691 940 1684 936 1669 929 1667 929 1665 929 1634 935 1612 940 1586 935 1548 925 1546 925 1504 933 1474 938 1462 933 1443 924 1441 924 1440 924 1397 931 1368 936 1342 931 1309 922 1308 922 1306 922 1254 929 1234 931 1219 927 1183 920 1181 920 1179 920 1159 927 1137 935 1001 924 919 918 917 918 915 918 902 922 876 933 768 933 730 920 719 916 717 916 715 916 713 916 706 918 673 931 621 918 609 914 607 914 605 914 603 914 594 916 552 929 521 916 519 916 517 916 425 927 398 913 396 913 394 913 302 913 302 957"/></Shape>
+	    <String CONTENT="Loeiz Andouard, nom de plume de Louis Andouard, né le 16 juin 1904 à Binic"
+                    HPOS="300"
+                    VPOS="913"
+                    WIDTH="2061"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4e1ff492"
+                    TAGREFS="LT199"
+                    BASELINE="282 1074 1541 1085 2328 1103" 
+                    HPOS="277"
+                    VPOS="1014"
+                    WIDTH="2050"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="280 1072 277 1108 2321 1127 2327 1102 2327 1042 2236 1039 2192 1058 2112 1036 2101 1036 2076 1056 1793 1056 1774 1039 1760 1039 1694 1053 1534 1036 1411 1045 1389 1028 1279 1045 1213 1025 1202 1025 1182 1042 1177 1036 1158 1028 1149 1028 1092 1045 1086 1036 1070 1023 1059 1023 1009 1039 935 1023 726 1039 701 1020 599 1020 574 1036 514 1017 506 1017 445 1036 379 1036 357 1017 357 1014 346 1014 280 1034 280 1072"/></Shape>
+	    <String CONTENT="et mort le 14 juin 1985 à Lamballe est un écrivain français, également"
+                    HPOS="277"
+                    VPOS="1014"
+                    WIDTH="2050"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_848609a0"
+                    TAGREFS="LT199"
+                    BASELINE="292 1199 2293 1215" 
+                    HPOS="288"
+                    VPOS="1149"
+                    WIDTH="2003"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="291 1199 288 1223 2285 1243 2291 1212 2288 1177 2151 1177 2131 1157 1969 1174 1922 1157 1911 1157 1889 1174 1799 1155 1733 1171 1554 1155 1537 1171 1490 1152 1479 1152 1455 1168 1446 1168 1402 1152 1394 1152 1358 1166 1243 1152 1226 1168 1204 1152 1193 1152 1169 1166 1160 1168 946 1149 940 1149 899 1168 819 1168 797 1149 786 1149 756 1166 731 1149 720 1149 665 1163 291 1157 291 1199"/></Shape>
+	    <String CONTENT="connu sous les pseudonymes de L.F.A., Erel Keralban, Farnachanavan"
+                    HPOS="288"
+                    VPOS="1149"
+                    WIDTH="2003"
+                    HEIGHT="94"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_352f74e1"
+                    TAGREFS="LT199"
+                    BASELINE="326 1312 675 1318" 
+                    HPOS="324"
+                    VPOS="1257"
+                    WIDTH="351"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="326 1312 324 1338 671 1342 675 1318 675 1277 645 1265 643 1265 642 1265 640 1265 612 1276 599 1263 599 1261 598 1261 596 1261 594 1261 592 1261 544 1276 528 1261 528 1259 526 1259 524 1259 522 1259 521 1259 500 1268 442 1261 440 1261 438 1261 410 1274 392 1257 390 1257 388 1257 363 1257 361 1257 359 1257 357 1257 357 1259 343 1274 341 1274 326 1274 326 1312"/></Shape>
+	    <String CONTENT="et Abherhel."
+                    HPOS="324"
+                    VPOS="1257"
+                    WIDTH="351"
+                    HEIGHT="85"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2f5795ba"
+                    TAGREFS="LT199"
+                    BASELINE="302 1430 1827 1448 2172 1446" 
+                    HPOS="297"
+                    VPOS="1375"
+                    WIDTH="1873"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="299 1430 297 1460 2164 1482 2170 1443 2167 1405 2002 1388 1955 1405 1909 1388 1900 1388 1851 1402 1782 1386 1771 1386 1752 1405 1631 1405 1611 1386 1611 1383 1529 1383 1510 1399 1430 1383 1061 1397 1039 1380 946 1394 929 1380 929 1377 792 1394 772 1375 761 1375 709 1391 693 1375 602 1388 572 1377 552 1375 503 1391 299 1375 299 1430"/></Shape>
+	    <String CONTENT="Le vicomte Charles du Bus de Warnaffe (Bruxelles, 16 septembre 1894-"
+                    HPOS="297"
+                    VPOS="1375"
+                    WIDTH="1873"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3b747b42"
+                    TAGREFS="LT199"
+                    BASELINE="275 1549 2351 1569" 
+                    HPOS="273"
+                    VPOS="1496"
+                    WIDTH="2078"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="275 1549 273 1574 759 1576 827 1582 1032 1593 1034 1593 1120 1584 1135 1584 1207 1585 1597 1598 1599 1598 2350 1596 2351 1569 2351 1518 2317 1514 2315 1514 2313 1514 2307 1516 2274 1532 2239 1516 2236 1514 2234 1514 2232 1514 2230 1514 2225 1516 2173 1532 2157 1521 2155 1521 2153 1521 2151 1521 2071 1530 2041 1516 2040 1516 2038 1516 1972 1530 1863 1530 1799 1510 1796 1510 1794 1510 1792 1510 1790 1510 1788 1510 1761 1523 1733 1514 1731 1514 1729 1514 1728 1514 1702 1529 1634 1529 1594 1508 1588 1507 1586 1507 1541 1507 1539 1507 1537 1507 1533 1508 1504 1523 1480 1514 1478 1514 1476 1514 1407 1525 1276 1505 1267 1505 1265 1505 1263 1505 1262 1505 1218 1523 1166 1505 1163 1503 1161 1503 1159 1503 1150 1505 1087 1516 1032 1503 1029 1503 1027 1503 1021 1503 842 1519 807 1501 805 1499 803 1499 801 1499 799 1499 796 1501 777 1508 746 1499 742 1499 741 1499 739 1499 737 1499 735 1499 678 1518 653 1507 651 1507 649 1507 572 1516 535 1497 533 1497 532 1497 526 1497 396 1514 339 1496 337 1496 275 1496 275 1549"/></Shape>
+	    <String CONTENT="Bruxelles 23 octobre 1965) est un homme politique belge membre du Parti"
+                    HPOS="273"
+                    VPOS="1496"
+                    WIDTH="2078"
+                    HEIGHT="102"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ff54ba7e"
+                    TAGREFS="LT199"
+                    BASELINE="280 1668 2283 1690" 
+                    HPOS="275"
+                    VPOS="1608"
+                    WIDTH="2005"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="277 1666 275 1696 2274 1721 2280 1688 2277 1650 2167 1630 2112 1647 2087 1628 2076 1628 2013 1644 2013 1647 1843 1647 1807 1628 1708 1641 1680 1622 1672 1622 1576 1641 1570 1639 1551 1622 1408 1622 1358 1639 1358 1636 1339 1622 1339 1619 1257 1633 1237 1617 1226 1617 1191 1633 1136 1617 1127 1617 1081 1636 995 1636 971 1614 960 1614 913 1628 863 1614 852 1614 827 1633 778 1614 767 1614 750 1630 497 1630 459 1608 277 1622 277 1666"/></Shape>
+	    <String CONTENT="catholique puis du Parti social chrétien (PSC). Il a été ministre dans"
+                    HPOS="275"
+                    VPOS="1608"
+                    WIDTH="2005"
+                    HEIGHT="113"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dccdbb3c"
+                    TAGREFS="LT199"
+                    BASELINE="2188 1761 2359 1756" 
+                    HPOS="2186"
+                    VPOS="1725"
+                    WIDTH="173"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="2188 1761 2188 1783 2359 1769 2359 1756 2355 1730 2195 1725 2194 1725 2192 1725 2190 1725 2190 1727 2186 1728 2188 1761"/></Shape>
+	    <String CONTENT="guerres"
+                    HPOS="2186"
+                    VPOS="1725"
+                    WIDTH="173"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_850eda61"
+                    TAGREFS="LT199"
+                    BASELINE="286 1800 1937 1802 2361 1815" 
+                    HPOS="280"
+                    VPOS="1743"
+                    WIDTH="2080"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="283 1798 280 1828 2354 1834 2360 1815 2357 1768 2195 1768 2173 1749 2159 1749 2137 1768 2074 1768 2068 1762 2035 1749 2027 1749 1994 1765 1969 1746 1958 1746 1900 1760 1829 1746 1807 1762 1785 1746 1771 1746 1746 1765 1702 1746 1691 1746 1669 1765 1532 1765 1507 1743 1496 1743 1457 1760 1424 1743 1413 1743 1389 1765 1064 1765 1039 1743 544 1760 283 1746 283 1798"/></Shape>
+	    <String CONTENT="plusieurs gouvernements belges au cours de la période de l&#x27;entre-deux-&gt;&lt;"
+                    HPOS="280"
+                    VPOS="1743"
+                    WIDTH="2080"
+                    HEIGHT="91"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f8b1c20c"
+                    TAGREFS="LT199"
+                    BASELINE="268 1914 1346 1919" 
+                    HPOS="264"
+                    VPOS="1859"
+                    WIDTH="1081"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="266 1914 264 1933 1339 1947 1345 1916 1345 1881 1295 1859 1287 1859 1240 1878 1185 1864 1174 1864 1160 1881 885 1881 866 1859 855 1859 805 1878 775 1864 665 1875 649 1859 591 1859 574 1875 555 1859 544 1859 497 1878 481 1859 470 1859 437 1872 299 1859 266 1875 266 1914"/></Shape>
+	    <String CONTENT="et après la Seconde Guerre mondiale."
+                    HPOS="264"
+                    VPOS="1859"
+                    WIDTH="1081"
+                    HEIGHT="88"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1920"
+                   VPOS="51"
+                   WIDTH="541"
+                   HEIGHT="108"
+                   ID="eSc_textblock_1c2008b6"
+                   TAGREFS="BT199">
+          <Shape><Polygon POINTS="2129 51 2439 58 2461 122 2366 159 1920 130 1942 58 2129 51"/></Shape>
+          <TextLine ID="eSc_line_b30c7488"
+                    TAGREFS="LT199"
+                    BASELINE="1935 117 2443 110" 
+                    HPOS="1933"
+                    VPOS="64"
+                    WIDTH="510"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2436 69 2258 78 2243 75 2216 64 2214 64 2212 64 2210 64 2175 77 2164 80 2161 77 2150 67 2150 66 2148 66 2146 66 2098 66 2096 66 2095 66 2071 78 2065 82 1933 82 1935 117 1935 133 2443 132 2443 110 2438 69 2436 69"/></Shape>
+	    <String CONTENT="wikitexte_0258"
+                    HPOS="1933"
+                    VPOS="64"
+                    WIDTH="510"
+                    HEIGHT="69"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="310"
+                   VPOS="234"
+                   WIDTH="62"
+                   HEIGHT="13"
+                   ID="eSc_textblock_5d889ca6"
+                   TAGREFS="BT199">
+          <Shape><Polygon POINTS="310 234 357 234 372 247 322 247 310 234"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

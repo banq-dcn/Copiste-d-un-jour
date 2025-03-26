@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0132_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT41" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT41" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="212"
+                   VPOS="183"
+                   WIDTH="2051"
+                   HEIGHT="673"
+                   ID="eSc_textblock_c6da5dc1"
+                   TAGREFS="BT41">
+          <Shape><Polygon POINTS="266 183 1331 190 1575 234 2087 256 1999 276 2065 293 2118 359 2183 374 2234 352 2263 388 2263 731 2234 760 2148 746 1926 797 1972 821 2241 814 2249 834 227 856 212 286 227 205 266 183"/></Shape>
+          <TextLine ID="eSc_line_8808b25c"
+                    TAGREFS="LT41"
+                    BASELINE="255 258 1364 260" 
+                    HPOS="252"
+                    VPOS="195"
+                    WIDTH="1109"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="252 304 1359 303 1361 258 1358 222 1323 222 1298 198 1298 195 1215 195 1191 222 1067 222 1034 195 1020 195 982 220 910 220 888 195 877 195 805 220 764 220 742 195 731 195 668 222 484 220 459 198 459 195 448 195 374 220 349 198 349 195 291 195 253 214 253 255"/></Shape>
+	    <String CONTENT="de la prostaglandine E2."
+                    HPOS="252"
+                    VPOS="195"
+                    WIDTH="1109"
+                    HEIGHT="109"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a017c9ed"
+                    TAGREFS="LT41"
+                    BASELINE="238 374 2041 377" 
+                    HPOS="233"
+                    VPOS="308"
+                    WIDTH="1805"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2032 398 2038 376 2038 332 1983 308 1975 308 1922 330 1867 308 1859 308 1815 332 1752 332 1727 308 1716 308 1633 332 1556 332 1523 308 1512 308 1477 324 1466 332 1182 332 1133 308 1122 308 1097 332 1009 332 872 308 844 316 814 330 778 310 618 310 572 330 550 308 459 308 376 330 352 308 327 310 286 321 239 310 233 393"/></Shape>
+	    <String CONTENT="(12055) 1997 YR11 est un astéroïde de la"
+                    HPOS="233"
+                    VPOS="308"
+                    WIDTH="1805"
+                    HEIGHT="90"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_acd42b73"
+                    TAGREFS="LT41"
+                    BASELINE="240 484 616 480 2155 495" 
+                    HPOS="240"
+                    VPOS="425"
+                    WIDTH="1915"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="252 525 2151 513 2155 495 2155 460 2133 447 2131 447 2129 447 2128 447 2126 447 2087 456 2045 438 2043 438 1964 438 1962 438 1961 438 1928 452 1900 436 1898 436 1896 436 1805 436 1803 436 1801 436 1757 454 1682 458 1667 449 1665 449 1663 449 1662 449 1585 449 1559 434 1557 434 1555 434 1443 432 1441 432 1440 432 1388 451 1357 432 1355 432 1353 432 1286 430 1284 430 1282 430 1223 454 1186 456 1141 430 1139 430 1137 430 1135 430 1054 454 884 454 864 454 862 452 763 436 761 436 759 436 728 451 579 441 577 441 541 449 489 425 487 425 486 425 484 425 412 449 324 449 297 434 295 434 293 434 240 447 240 484"/></Shape>
+	    <String CONTENT="ceinture principale d&#x27;&gt;&lt; astéroïdes"
+                    HPOS="240"
+                    VPOS="425"
+                    WIDTH="1915"
+                    HEIGHT="100"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0bee5f9d"
+                    TAGREFS="LT41"
+                    BASELINE="242 590 1187 591" 
+                    HPOS="239"
+                    VPOS="517"
+                    WIDTH="946"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="239 618 1182 621 1185 588 1185 552 1130 536 1127 536 1125 536 1034 550 960 536 957 536 954 536 951 536 951 539 935 555 687 555 671 539 671 536 668 536 665 536 602 536 599 536 596 536 594 536 594 539 577 555 354 517 264 536 261 536 258 536 255 536 239 547 239 588"/></Shape>
+	    <String CONTENT="découvert en 1997."
+                    HPOS="239"
+                    VPOS="517"
+                    WIDTH="946"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c941482e"
+                    TAGREFS="LT41"
+                    BASELINE="242 704 2153 713" 
+                    HPOS="236"
+                    VPOS="646"
+                    WIDTH="1915"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="2125 754 2151 712 2148 676 2054 676 2030 654 1961 654 1961 657 1939 676 1625 676 1609 665 1584 654 1576 654 1526 673 976 673 954 654 954 651 902 654 783 668 756 654 756 651 739 651 690 668 660 649 327 668 242 646 236 749"/></Shape>
+	    <String CONTENT="Ricinoides est un  genre de ricinules"
+                    HPOS="236"
+                    VPOS="646"
+                    WIDTH="1915"
+                    HEIGHT="108"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e5b359fe"
+                    TAGREFS="LT41"
+                    BASELINE="247 814 1878 826" 
+                    HPOS="245"
+                    VPOS="759"
+                    WIDTH="1633"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="245 869 1874 845 1878 826 1878 797 1764 797 1762 795 1726 770 1724 770 1722 770 1682 770 1680 770 1678 770 1676 770 1658 784 1636 768 1634 768 1632 768 1581 768 1579 768 1577 768 1575 768 1548 788 1511 792 1484 793 1377 793 1372 790 1359 781 1357 781 1355 781 1353 781 1352 781 1320 788 1309 792 1304 788 1267 766 1265 766 1263 766 1236 766 1234 766 1232 766 1230 766 1201 788 1194 792 1183 786 1137 770 1135 770 1133 770 1131 770 1100 786 1095 788 1089 786 1034 764 1032 764 999 764 997 764 996 764 994 764 966 784 955 790 893 790 880 782 842 762 840 762 768 762 766 762 765 762 763 762 733 781 719 788 653 788 640 781 605 760 603 760 559 760 557 760 555 760 554 760 528 779 515 788 482 788 465 777 438 759 436 759 434 759 396 759 394 759 392 759 390 759 366 777 354 784 339 775 308 759 306 759 304 759 302 759 247 773 247 814"/></Shape>
+	    <String CONTENT="de la famille des Ricinoididae."
+                    HPOS="245"
+                    VPOS="759"
+                    WIDTH="1633"
+                    HEIGHT="110"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1768"
+                   VPOS="0"
+                   WIDTH="657"
+                   HEIGHT="137"
+                   ID="eSc_textblock_84eb4594"
+                   TAGREFS="BT41">
+          <Shape><Polygon POINTS="1768 0 2395 0 2425 86 2388 137 1810 122 1768 0"/></Shape>
+          <TextLine ID="eSc_line_ff4bce2f"
+                    TAGREFS="LT41"
+                    BASELINE="1814 71 2153 84 2390 104" 
+                    HPOS="1812"
+                    VPOS="20"
+                    WIDTH="578"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1814 71 1812 86 1838 97 1840 97 1841 97 1924 91 1942 91 2006 93 2010 97 2019 106 2021 106 2023 106 2025 106 2027 106 2040 99 2045 97 2054 100 2084 110 2085 110 2087 110 2146 106 2179 104 2388 121 2390 104 2390 66 2361 44 2359 44 2357 44 2355 44 2353 44 2326 56 2311 45 2309 45 2307 45 2306 45 2304 45 2280 53 2250 44 2249 44 2247 44 2245 44 2243 44 2219 58 2175 56 2164 56 2142 34 2142 33 2140 33 2139 33 2106 31 2104 31 2102 31 2067 49 2040 27 2038 27 2036 27 2010 25 2008 25 2006 25 2005 25 1979 44 1913 20 1911 20 1909 20 1907 20 1906 20 1876 40 1814 38 1814 71"/></Shape>
+	    <String CONTENT="wikitexte_0132"
+                    HPOS="1812"
+                    VPOS="20"
+                    WIDTH="578"
+                    HEIGHT="101"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2192"
+                   VPOS="249"
+                   WIDTH="49"
+                   HEIGHT="20"
+                   ID="eSc_textblock_e547e387"
+                   TAGREFS="BT41">
+          <Shape><Polygon POINTS="2217 249 2241 269 2192 269 2199 256 2217 249"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

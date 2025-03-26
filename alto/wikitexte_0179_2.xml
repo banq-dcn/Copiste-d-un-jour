@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0179_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT180" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT180" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="22"
+                   VPOS="0"
+                   WIDTH="2366"
+                   HEIGHT="672"
+                   ID="eSc_textblock_1f53de30"
+                   TAGREFS="BT180">
+          <Shape><Polygon POINTS="1856 0 2322 22 2359 44 2351 144 2307 154 2359 198 2388 278 2381 533 2359 555 1605 577 1574 601 1588 650 1449 672 242 658 205 308 152 218 66 203 22 130 51 44 218 44 255 58 278 161 352 176 1669 198 1832 166 1856 0"/></Shape>
+          <TextLine ID="eSc_line_0f81821d"
+                    TAGREFS="LT180"
+                    BASELINE="1869 99 2329 104" 
+                    HPOS="1867"
+                    VPOS="33"
+                    WIDTH="462"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1867 115 2326 122 2329 104 2329 58 2313 49 2311 49 2309 49 2307 49 2203 55 2126 58 2117 49 2102 36 2102 34 2100 34 2098 34 2096 34 2095 34 2069 45 2043 58 2030 44 2021 34 2021 33 2019 33 2017 33 1911 33 1909 33 1907 33 1906 33 1902 36 1889 44 1871 34 1869 99 1867 115"/></Shape>
+	    <String CONTENT="wikitexte_0179"
+                    HPOS="1867"
+                    VPOS="33"
+                    WIDTH="462"
+                    HEIGHT="89"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_196d4ab6"
+                    TAGREFS="LT180"
+                    BASELINE="50 120 227 115" 
+                    HPOS="46"
+                    VPOS="46"
+                    WIDTH="179"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="154 46 148 46 129 63 96 46 93 46 90 46 88 46 46 60 49 118 49 132 222 132 225 112 220 60 167 46 154 46"/></Shape>
+	    <String CONTENT="2/2"
+                    HPOS="46"
+                    VPOS="46"
+                    WIDTH="179"
+                    HEIGHT="86"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5bd20eb4"
+                    TAGREFS="LT180"
+                    BASELINE="235 271 2014 271 2260 280" 
+                    HPOS="231"
+                    VPOS="195"
+                    WIDTH="2027"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1526 198 1510 195 1477 222 1455 203 1358 195 1323 225 1122 225 1072 203 1064 203 1017 222 987 195 976 195 921 217 866 195 855 195 819 225 739 225 690 198 555 222 429 200 346 222 299 195 233 195 231 294 2252 299 2258 277 2255 225 2184 225 2134 195 2030 217 2005 195 1942 195 1909 222 1900 220 1862 200 1818 211 1749 195 1691 195 1655 222 1628 200 1617 200 1551 217 1526 198"/></Shape>
+	    <String CONTENT="Les circonscriptions limitrophes sont Yellowhead, Foothills, Bow River,"
+                    HPOS="231"
+                    VPOS="195"
+                    WIDTH="2027"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5b1c7f5a"
+                    TAGREFS="LT180"
+                    BASELINE="240 396 638 390 2225 398" 
+                    HPOS="236"
+                    VPOS="316"
+                    WIDTH="1986"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="239 396 236 415 343 434 387 420 407 434 415 434 492 418 566 434 649 418 822 418 863 437 1438 420 1468 440 1631 423 1713 440 1782 423 1903 440 1986 423 2112 440 2120 440 2140 426 2192 440 2203 440 2219 423 2222 396 2219 349 2126 343 2104 324 2104 321 1933 346 1903 321 1801 321 1746 346 1719 321 1587 321 1556 349 1504 349 1474 319 1394 319 1364 343 1237 319 1152 343 1152 346 1097 346 1056 319 1045 319 993 343 993 346 891 346 861 319 794 319 767 343 728 330 591 341 561 316 398 341 266 316 258 316 239 330 239 396"/></Shape>
+	    <String CONTENT="Calgary Skyview, Calgary Signal Hill, Calgary Rocky Ridge, Calgary"
+                    HPOS="236"
+                    VPOS="316"
+                    WIDTH="1986"
+                    HEIGHT="124"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b820414a"
+                    TAGREFS="LT180"
+                    BASELINE="253 507 2350 517" 
+                    HPOS="251"
+                    VPOS="436"
+                    WIDTH="2099"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="253 507 251 535 2346 540 2350 517 2348 473 2212 473 2206 469 2168 449 2166 449 2164 449 2162 449 2131 462 2098 445 2096 445 2095 445 2021 454 1999 445 1997 445 1995 445 1994 445 1946 465 1931 471 1915 463 1867 443 1865 443 1863 443 1862 443 1823 460 1790 443 1788 443 1739 443 1737 443 1735 443 1702 460 1687 469 1533 469 1507 458 1506 458 1504 458 1454 467 1337 458 1335 458 1333 458 1308 467 1199 465 1174 451 1168 449 1166 449 1065 449 1064 449 1058 449 994 465 953 447 937 440 935 440 726 440 724 440 722 440 715 443 691 456 664 441 662 441 660 441 658 441 656 441 654 441 594 463 528 440 521 438 519 438 456 438 454 438 453 438 449 438 387 463 335 438 333 438 253 436 253 507"/></Shape>
+	    <String CONTENT="Nose Hill et Red Deer-&gt;&lt; Mountain View en Alberta et Kootenay-"
+                    HPOS="251"
+                    VPOS="436"
+                    WIDTH="2099"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_956ce273"
+                    TAGREFS="LT180"
+                    BASELINE="255 632 717 625 1537 638" 
+                    HPOS="253"
+                    VPOS="555"
+                    WIDTH="1284"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="255 632 253 652 1082 665 1084 665 1258 658 1269 658 1278 658 1403 667 1405 667 1535 658 1537 638 1535 595 1322 594 1291 564 1291 562 1289 562 1287 562 1286 562 1284 562 1238 575 1225 564 1225 562 1223 562 1221 562 1175 562 1174 562 1172 562 1170 562 1135 592 1135 594 1111 594 1111 592 1051 561 1049 561 1047 561 1045 561 994 590 957 564 955 564 953 564 919 562 917 562 915 562 913 562 869 590 798 579 796 579 730 588 691 562 689 562 687 562 625 557 623 557 621 557 620 557 585 579 561 557 559 557 557 557 487 557 486 557 484 557 482 557 447 588 414 588 385 562 383 562 381 562 295 555 293 555 291 555 289 555 255 581 255 632"/></Shape>
+	    <String CONTENT="&gt;&lt; Columbia en Colombie-Britannique."
+                    HPOS="253"
+                    VPOS="555"
+                    WIDTH="1284"
+                    HEIGHT="112"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="0"
+                   VPOS="66"
+                   WIDTH="1"
+                   HEIGHT="1"
+                   ID="eSc_textblock_6c29fc29"
+                   TAGREFS="BT180">
+          <Shape><Polygon POINTS="1 67 0 67 0 66 1 66 1 67"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="66"
+                   VPOS="0"
+                   WIDTH="181"
+                   HEIGHT="5"
+                   ID="eSc_textblock_9473f980"
+                   TAGREFS="BT180">
+          <Shape><Polygon POINTS="67 0 247 0 247 5 66 5 67 0"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

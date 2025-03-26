@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0221_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT60" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT60" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="227"
+                   VPOS="44"
+                   WIDTH="2249"
+                   HEIGHT="804"
+                   ID="eSc_textblock_7d4c4cf1"
+                   TAGREFS="BT60">
+          <Shape><Polygon POINTS="2025 44 2432 51 2461 73 2439 174 2219 205 2287 271 2351 286 2337 540 2366 665 2476 762 2461 848 234 841 227 293 264 234 1896 234 1970 220 1972 198 1869 166 1884 73 2025 44"/></Shape>
+          <TextLine ID="eSc_line_97f7f404"
+                    TAGREFS="LT60"
+                    BASELINE="1887 150 2430 144" 
+                    HPOS="1885"
+                    VPOS="60"
+                    WIDTH="545"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1887 150 1887 161 2430 159 2430 144 2425 60 2243 97 2203 97 2184 78 2168 62 2168 60 2166 60 2164 60 2128 60 2126 60 2124 60 2122 60 2122 62 2100 82 2078 62 2078 60 2076 60 2074 60 2073 60 2071 60 2069 60 2052 73 2030 62 2028 62 2027 62 2025 62 2023 62 2023 64 2012 75 1977 62 1975 62 1973 62 1972 62 1970 62 1970 64 1935 97 1902 89 1900 89 1898 89 1896 89 1885 95 1887 150"/></Shape>
+	    <String CONTENT="wikitexte_0221"
+                    HPOS="1885"
+                    VPOS="60"
+                    WIDTH="545"
+                    HEIGHT="101"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c54e8b9b"
+                    TAGREFS="LT60"
+                    BASELINE="253 361 2322 396" 
+                    HPOS="247"
+                    VPOS="264"
+                    WIDTH="2074"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="250 360 247 382 852 385 880 404 998 387 1215 409 1243 390 1347 390 1369 409 1369 412 1378 415 1449 415 1449 412 1455 412 1482 390 1810 390 2118 401 2192 401 2222 426 2233 426 2318 401 2321 396 2321 338 2277 310 2236 316 2164 291 2076 291 2016 332 1911 288 1823 286 1815 286 1755 332 1559 330 1523 297 1422 313 1369 277 1292 277 1204 319 1133 291 1122 291 1083 319 995 272 932 272 838 316 772 316 709 266 698 266 558 308 349 308 286 264 250 266 250 360"/></Shape>
+	    <String CONTENT="Jugovi-i (en serbe cyrillique : -) est un village"
+                    HPOS="247"
+                    VPOS="264"
+                    WIDTH="2074"
+                    HEIGHT="162"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1ec98676"
+                    TAGREFS="LT60"
+                    BASELINE="249 471 2239 476" 
+                    HPOS="247"
+                    VPOS="392"
+                    WIDTH="1992"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="247 491 849 495 911 506 913 506 2238 500 2239 476 2238 430 2212 430 2210 429 2153 397 2151 397 2150 397 2148 397 2074 427 2067 430 1990 430 1981 425 1931 397 1929 397 1889 397 1887 397 1885 397 1840 421 1825 430 1794 396 1762 419 1702 397 1700 397 1634 397 1632 397 1630 397 1594 418 1590 419 1586 418 1552 396 1550 396 1548 396 1465 396 1463 396 1462 396 1427 414 1403 427 1372 412 1333 396 1331 396 1330 396 1276 401 1275 401 1256 410 1225 429 920 399 831 403 799 394 798 394 748 394 746 394 744 394 728 401 667 425 482 412 438 396 434 394 432 394 431 394 429 394 427 394 366 425 310 394 308 394 249 392 249 471"/></Shape>
+	    <String CONTENT="de Bosnie-Herzégovine. Il est situé dans la"
+                    HPOS="247"
+                    VPOS="392"
+                    WIDTH="1992"
+                    HEIGHT="114"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1593be4f"
+                    TAGREFS="LT60"
+                    BASELINE="247 592 414 579 981 590 2306 590" 
+                    HPOS="247"
+                    VPOS="507"
+                    WIDTH="2059"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="247 614 500 610 508 614 526 623 528 623 530 625 643 625 643 623 645 623 665 612 671 610 792 612 930 614 931 614 979 610 1089 603 1214 610 1328 616 1330 616 1840 612 1865 625 1867 625 1869 627 2003 627 2003 625 2005 625 2043 608 2172 617 2173 617 2304 603 2306 590 2306 542 2258 529 2256 529 2254 529 2181 540 2128 513 2126 513 2124 513 2122 513 2098 522 2073 509 2071 509 2069 509 2008 520 1986 509 1984 509 1843 509 1841 509 1840 509 1775 535 1711 509 1709 509 1707 509 1706 509 1647 540 1645 542 1575 542 1572 540 1493 513 1491 513 1489 513 1487 513 1445 531 1403 509 1401 509 1359 507 1357 507 1355 507 1278 539 1170 507 1168 507 1166 507 1164 507 1089 533 1025 511 1023 511 1021 511 1020 511 966 539 895 509 893 509 891 509 889 509 817 521 761 507 759 507 669 507 667 507 665 507 583 539 579 539 247 539 247 592"/></Shape>
+	    <String CONTENT="municipalité de Gacko et dans la République"
+                    HPOS="247"
+                    VPOS="507"
+                    WIDTH="2059"
+                    HEIGHT="120"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_53965fdd"
+                    TAGREFS="LT60"
+                    BASELINE="245 700 2353 704" 
+                    HPOS="243"
+                    VPOS="632"
+                    WIDTH="2110"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="243 713 1295 718 1326 729 1328 729 1330 729 2271 727 2351 716 2353 704 2351 663 2317 663 2317 661 2265 638 2263 638 2261 638 2260 638 2214 661 2212 663 2151 663 2148 660 2096 634 2095 634 1962 634 1961 634 1959 634 1911 658 1889 649 1887 649 1863 638 1827 658 1797 661 1781 658 1731 641 1729 641 1728 641 1726 641 1691 656 1689 656 1685 656 1607 645 1605 645 1462 654 1337 661 1317 652 1271 632 1269 632 1267 632 1265 632 1225 652 1208 661 1146 661 1126 650 1117 647 1115 647 1113 647 1111 647 1102 650 1078 660 1043 650 1042 650 1040 650 1038 650 942 660 913 649 889 639 887 639 886 639 884 639 853 649 831 654 809 647 763 632 761 632 759 632 757 632 717 645 662 632 660 632 658 632 631 647 603 660 576 645 548 632 546 632 511 632 510 632 508 632 482 645 453 660 410 643 379 632 377 632 376 632 245 641 245 700"/></Shape>
+	    <String CONTENT="serbe de Bosnie. Selon les premiers résultats du"
+                    HPOS="243"
+                    VPOS="632"
+                    WIDTH="2110"
+                    HEIGHT="97"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_670d8148"
+                    TAGREFS="LT60"
+                    BASELINE="247 815 1478 804 2452 820" 
+                    HPOS="244"
+                    VPOS="728"
+                    WIDTH="2206"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="244 814 244 847 2448 847 2450 759 2382 728 2373 728 2321 756 2277 728 2129 728 2104 745 2043 728 2032 728 2008 748 1914 728 1884 753 1854 728 1799 728 1744 756 1672 753 1642 728 1556 728 1529 750 1501 728 1490 728 1449 745 1361 728 1328 756 1273 737 1265 737 1226 759 1015 759 938 737 927 737 896 759 778 759 704 728 693 728 657 753 478 742 459 759 244 759 244 814"/></Shape>
+	    <String CONTENT="recensement bosnien de 2013, il compte 17 habitants."
+                    HPOS="244"
+                    VPOS="728"
+                    WIDTH="2206"
+                    HEIGHT="119"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2184"
+                   VPOS="3050"
+                   WIDTH="175"
+                   HEIGHT="145"
+                   ID="eSc_textblock_ee997f4b"
+                   TAGREFS="BT60">
+          <Shape><Polygon POINTS="2216 3050 2337 3065 2359 3102 2337 3188 2199 3195 2184 3109 2216 3050"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

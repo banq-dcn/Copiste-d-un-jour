@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0188_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT52" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT52" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="227"
+                   VPOS="190"
+                   WIDTH="2139"
+                   HEIGHT="1135"
+                   ID="eSc_textblock_a0bead2b"
+                   TAGREFS="BT52">
+          <Shape><Polygon POINTS="1658 190 2256 234 2329 271 2351 328 2322 511 2366 887 2344 1149 946 1193 849 1210 944 1266 719 1288 658 1325 264 1310 242 1252 227 577 234 315 264 249 1658 190"/></Shape>
+          <TextLine ID="eSc_line_bfdb3fda"
+                    TAGREFS="LT52"
+                    BASELINE="243 350 1526 324 2012 320" 
+                    HPOS="242"
+                    VPOS="198"
+                    WIDTH="1770"
+                    HEIGHT="258">
+            <Shape><Polygon POINTS="243 350 243 364 288 456 398 377 399 377 401 377 403 377 587 363 627 375 629 375 631 375 632 375 687 361 748 383 750 383 752 385 838 421 856 395 1042 353 1163 353 1199 375 1201 375 1203 375 1205 377 1238 377 1238 375 1240 375 1337 352 1372 359 1374 359 1440 348 1456 344 1740 344 1779 344 1865 363 1867 363 1869 363 1928 341 1940 337 2008 339 2012 320 2008 264 1981 264 1915 223 1913 223 1911 223 1909 223 1907 223 1819 265 1750 221 1748 221 1746 221 1744 221 1605 225 1603 225 1601 225 1544 262 1500 236 1498 236 1496 236 1495 236 1493 236 1447 265 1394 236 1392 236 1390 236 1388 236 1363 247 1337 234 1335 234 1333 234 1331 234 1297 253 1238 231 1236 231 1228 198 1142 232 1141 232 1139 232 1067 280 898 282 847 251 845 251 843 251 842 251 840 251 838 251 790 284 733 267 731 267 730 267 728 267 726 267 708 278 618 267 616 267 614 267 612 267 579 289 530 289 467 254 465 254 464 254 462 254 460 254 405 293 374 293 311 254 310 254 308 254 306 254 304 254 302 254 242 291 242 295"/></Shape>
+	    <String CONTENT="Finales BAA face aux Capitols de Washington"
+                    HPOS="242"
+                    VPOS="198"
+                    WIDTH="1770"
+                    HEIGHT="258"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b23082b3"
+                    TAGREFS="LT52"
+                    BASELINE="314 465 942 454" 
+                    HPOS="310"
+                    VPOS="382"
+                    WIDTH="630"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="313 464 313 481 938 473 940 453 938 412 858 387 855 387 852 387 850 387 847 387 847 390 827 407 825 412 695 412 665 401 621 382 618 382 525 382 522 382 519 382 517 382 517 385 506 393 489 412 407 418 376 390 374 387 374 385 371 385 368 385 365 385 310 385 313 464"/></Shape>
+	    <String CONTENT="4 matches à 2."
+                    HPOS="310"
+                    VPOS="382"
+                    WIDTH="630"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_25b3f5db"
+                    TAGREFS="LT52"
+                    BASELINE="275 694 783 678 2326 656" 
+                    HPOS="269"
+                    VPOS="574"
+                    WIDTH="2055"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="272 715 508 728 517 728 539 712 539 709 704 706 831 753 861 704 1174 698 1274 738 1334 695 1452 693 1600 693 1631 712 1639 712 1749 709 1774 690 1988 698 2043 682 2043 679 2324 673 2324 654 2321 607 2269 574 2156 574 2109 605 1920 580 1878 616 1834 616 1793 583 1697 583 1655 618 1537 618 1474 585 1466 585 1386 621 1171 591 1122 627 872 624 830 596 816 596 778 632 676 599 665 599 602 638 431 638 390 605 297 605 269 627 272 693"/></Shape>
+	    <String CONTENT="Congo, la paix en otage est un film documentaire"
+                    HPOS="269"
+                    VPOS="574"
+                    WIDTH="2055"
+                    HEIGHT="179"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_624a55b5"
+                    TAGREFS="LT52"
+                    BASELINE="298 810 1001 790 2201 778" 
+                    HPOS="294"
+                    VPOS="680"
+                    WIDTH="1906"
+                    HEIGHT="180">
+            <Shape><Polygon POINTS="305 860 2197 797 2200 775 2197 712 2140 690 2131 690 2032 726 1994 695 1980 695 1936 728 1834 728 1793 695 1727 695 1688 728 1658 704 1644 704 1611 726 1581 698 1525 680 1394 701 1350 737 1199 737 1119 712 1108 712 1070 737 1009 712 998 712 998 715 968 739 921 709 910 709 841 742 723 715 649 748 591 748 541 715 528 715 492 748 385 750 343 731 335 731 294 750 297 808"/></Shape>
+	    <String CONTENT="congolais (RDC) réalisé par Robert Genoud et"
+                    HPOS="294"
+                    VPOS="680"
+                    WIDTH="1906"
+                    HEIGHT="180"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_59f34dae"
+                    TAGREFS="LT52"
+                    BASELINE="325 919 1399 900 1645 902" 
+                    HPOS="321"
+                    VPOS="799"
+                    WIDTH="1323"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="324 948 470 962 497 937 734 937 916 954 962 935 1004 951 1015 951 1034 929 1642 924 1644 902 1642 858 1424 830 1424 833 1397 858 1290 844 1237 860 1196 822 1196 819 1182 819 1136 852 1086 838 1075 838 1050 866 913 863 847 799 737 825 687 866 640 830 627 830 561 871 470 871 434 836 434 833 327 833 327 836 321 838 324 918"/></Shape>
+	    <String CONTENT="Marc Le Pape, sorti en 2005."
+                    HPOS="321"
+                    VPOS="799"
+                    WIDTH="1323"
+                    HEIGHT="163"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4f061801"
+                    TAGREFS="LT52"
+                    BASELINE="326 1152 1896 1118 2282 1119" 
+                    HPOS="321"
+                    VPOS="993"
+                    WIDTH="1959"
+                    HEIGHT="232">
+            <Shape><Polygon POINTS="324 1174 431 1174 453 1190 539 1225 734 1166 1661 1166 1760 1144 2277 1135 2280 1116 2277 1045 2225 1023 2214 1023 2124 993 2101 1058 2057 1028 2046 1028 1975 1061 1936 1028 1878 1028 1837 1067 1812 1067 1771 1031 1700 1031 1647 1069 1620 1069 1573 1034 1565 1034 1496 1036 1460 1069 1389 1039 1378 1039 1345 1069 1314 1047 1303 1047 1235 1078 1105 1078 1072 1050 1059 1050 1026 1080 987 1080 907 1047 896 1047 896 1050 861 1083 759 1050 748 1050 706 1086 519 1056 451 1094 412 1094 371 1058 321 1061 324 1149"/></Shape>
+	    <String CONTENT="Le film traite du sort des Congolais du Nord"
+                    HPOS="321"
+                    VPOS="993"
+                    WIDTH="1959"
+                    HEIGHT="232"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_de8766c2"
+                    TAGREFS="LT52"
+                    BASELINE="348 1267 772 1261" 
+                    HPOS="343"
+                    VPOS="1182"
+                    WIDTH="427"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="346 1265 346 1287 519 1287 522 1287 552 1314 552 1317 555 1317 558 1317 561 1320 654 1320 654 1317 657 1317 660 1317 660 1314 687 1287 770 1284 770 1259 764 1221 684 1221 679 1215 635 1196 632 1196 629 1196 627 1196 569 1212 536 1221 519 1210 484 1182 481 1182 478 1182 354 1182 352 1182 349 1182 346 1182 346 1185 343 1185 346 1265"/></Shape>
+	    <String CONTENT="Katanga."
+                    HPOS="343"
+                    VPOS="1182"
+                    WIDTH="427"
+                    HEIGHT="138"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2399"
+                   VPOS="0"
+                   WIDTH="128"
+                   HEIGHT="115"
+                   ID="eSc_textblock_61adc9f1"
+                   TAGREFS="BT52">
+          <Shape><Polygon POINTS="2399 0 2505 0 2527 71 2498 115 2419 115 2399 0"/></Shape>
+          <TextLine ID="eSc_line_5d8c23ed"
+                    TAGREFS="LT52"
+                    BASELINE="2427 87 2494 87" 
+                    HPOS="2426"
+                    VPOS="19"
+                    WIDTH="66"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2426 85 2426 110 2489 118 2492 85 2489 19 2426 22 2426 85"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2426"
+                    VPOS="19"
+                    WIDTH="66"
+                    HEIGHT="99"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1568"
+                   VPOS="2984"
+                   WIDTH="615"
+                   HEIGHT="108"
+                   ID="eSc_textblock_10765201"
+                   TAGREFS="BT52">
+          <Shape><Polygon POINTS="2093 2984 2168 2992 2183 3063 1884 3092 1619 3085 1568 3056 1597 2992 2093 2984"/></Shape>
+          <TextLine ID="eSc_line_bb7b02ec"
+                    TAGREFS="LT52"
+                    BASELINE="1599 3058 2155 3058" 
+                    HPOS="1599"
+                    VPOS="2988"
+                    WIDTH="556"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1882 2988 1880 2988 1878 2988 1876 2988 1836 3004 1812 3014 1790 3004 1768 2995 1766 2995 1684 2992 1682 2992 1680 2992 1645 3008 1632 3014 1599 3010 1599 3058 1599 3091 2155 3083 2155 3058 2155 2997 2080 2988 2078 2988 2076 2988 2051 2999 2030 3008 2010 2999 2008 2999 2006 2999 2005 2999 2003 2999 2001 2999 1983 3015 1920 3015 1902 3003 1884 2988 1882 2988"/></Shape>
+	    <String CONTENT="wikitexte_0188"
+                    HPOS="1599"
+                    VPOS="2988"
+                    WIDTH="556"
+                    HEIGHT="103"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

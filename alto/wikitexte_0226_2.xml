@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0226_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT61" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT61" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="234"
+                   VPOS="168"
+                   WIDTH="2314"
+                   HEIGHT="827"
+                   ID="eSc_textblock_3e3db5e0"
+                   TAGREFS="BT61">
+          <Shape><Polygon POINTS="319 168 2359 183 2522 315 2548 293 2548 540 2425 579 2454 797 2439 856 2388 892 2153 922 1392 907 966 995 249 980 234 271 256 190 319 168"/></Shape>
+          <TextLine ID="eSc_line_ce9cddd7"
+                    TAGREFS="LT61"
+                    BASELINE="294 247 2379 251" 
+                    HPOS="290"
+                    VPOS="176"
+                    WIDTH="2086"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="2316 181 2269 203 2090 203 2060 181 2038 181 1988 198 1884 187 1865 203 1812 178 1752 178 1719 206 1620 206 1584 178 1512 178 1482 200 1424 178 1413 178 1383 206 1339 206 1290 176 1276 176 1248 198 1217 176 1026 176 993 203 960 203 927 176 916 176 863 203 816 203 786 176 775 176 728 200 624 176 541 203 387 203 330 176 321 176 291 189 291 244 290 304 2371 272 2376 250 2376 203 2338 181 2324 181"/></Shape>
+	    <String CONTENT="l’université de la Californie du Sud. Co-inventeur du"
+                    HPOS="290"
+                    VPOS="176"
+                    WIDTH="2086"
+                    HEIGHT="128"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b3cf15a9"
+                    TAGREFS="LT61"
+                    BASELINE="297 371 1339 361 2460 370" 
+                    HPOS="294"
+                    VPOS="283"
+                    WIDTH="2165"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="302 417 2087 401 2456 385 2459 368 2456 297 2294 283 2285 283 2247 313 2175 299 2126 313 2079 283 2065 283 2027 316 1947 316 1922 299 1889 283 1788 283 1749 313 1664 299 1644 302 1609 313 1551 283 1479 283 1427 313 1389 283 1378 283 1331 305 1320 313 1265 283 1182 283 1133 313 1070 283 949 283 910 316 753 316 745 310 687 294 676 294 649 316 541 316 500 283 486 283 448 313 316 299 294 310 294 368"/></Shape>
+	    <String CONTENT="cryptosystème RSA (Rivest, Shamir, Adleman) en 1977,"
+                    HPOS="294"
+                    VPOS="283"
+                    WIDTH="2165"
+                    HEIGHT="134"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_653222ee"
+                    TAGREFS="LT61"
+                    BASELINE="291 487 2063 487 2538 476" 
+                    HPOS="289"
+                    VPOS="412"
+                    WIDTH="2249"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="291 487 291 506 385 520 387 520 388 520 418 507 451 520 453 520 454 520 456 520 484 507 876 507 935 522 937 522 939 524 1025 524 1025 522 1027 522 1062 509 1390 522 1392 522 1474 509 2472 520 2474 520 2476 520 2538 502 2538 476 2535 447 2469 447 2469 445 2428 429 2427 429 2425 429 2423 429 2372 445 2368 445 2364 445 2291 412 2289 412 2287 412 2285 412 2192 441 2126 412 2124 412 2060 412 2058 412 2056 412 2010 434 1979 419 1977 419 1975 419 1973 419 1931 440 1920 447 1865 447 1851 440 1788 412 1786 412 1700 412 1698 412 1696 412 1645 438 1640 440 1634 438 1561 412 1559 412 1557 412 1555 412 1489 434 1418 414 1416 414 1311 414 1309 414 1308 414 1275 429 1245 416 1243 416 1241 416 1240 416 1188 434 1159 443 1124 432 1065 416 1064 416 1062 416 1060 416 1025 432 994 449 798 449 766 434 765 434 763 434 761 434 731 449 506 449 458 427 429 414 427 414 308 414 306 414 304 414 302 414 289 419 291 487"/></Shape>
+	    <String CONTENT="Adleman a également travaillé dans la bio-informatique."
+                    HPOS="289"
+                    VPOS="412"
+                    WIDTH="2249"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_104c37fd"
+                    TAGREFS="LT61"
+                    BASELINE="298 732 2308 736" 
+                    HPOS="294"
+                    VPOS="632"
+                    WIDTH="2019"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="294 745 2313 772 2307 734 2307 671 2258 638 2244 638 2192 668 1994 668 1936 635 1925 635 1889 665 1815 651 1790 673 1708 673 1647 632 1636 632 1562 651 1521 635 1512 635 1452 662 1375 632 1364 632 1314 673 1213 673 1155 632 1141 632 1103 665 1017 671 971 632 960 632 905 651 883 632 816 632 770 668 737 646 726 635 621 632 574 673 533 673 497 643 484 643 462 660 431 632 297 635 297 731"/></Shape>
+	    <String CONTENT="Karel Blondeel est un triathlète professionnel"
+                    HPOS="294"
+                    VPOS="632"
+                    WIDTH="2019"
+                    HEIGHT="140"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bbc2d33e"
+                    TAGREFS="LT61"
+                    BASELINE="329 843 1247 839 2344 850" 
+                    HPOS="318"
+                    VPOS="741"
+                    WIDTH="2025"
+                    HEIGHT="200">
+            <Shape><Polygon POINTS="324 863 421 917 552 866 574 882 574 885 585 885 638 869 781 869 800 885 811 885 874 866 1158 866 1246 888 1334 871 1422 888 1468 869 1986 869 2019 891 2084 941 2340 869 2343 849 2340 805 2030 781 2021 781 1994 805 1909 805 1843 770 1746 767 1664 800 1573 767 1562 767 1523 800 1460 772 1449 772 1416 803 1347 803 1163 764 1111 764 1067 797 927 797 885 770 863 772 775 797 706 764 695 764 654 800 574 800 461 759 318 741 327 841"/></Shape>
+	    <String CONTENT="belge, champion d&#x27;Europe de triathlon moyenne"
+                    HPOS="318"
+                    VPOS="741"
+                    WIDTH="2025"
+                    HEIGHT="200"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ac2765f3"
+                    TAGREFS="LT61"
+                    BASELINE="333 955 1110 955" 
+                    HPOS="332"
+                    VPOS="882"
+                    WIDTH="776"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="332 990 1108 990 1108 954 1108 910 1075 882 1072 882 1070 882 932 882 929 882 927 882 924 882 924 885 894 913 811 896 808 896 805 896 803 896 778 910 772 913 522 913 514 907 478 882 475 882 473 882 470 882 467 882 429 902 354 882 352 882 349 882 346 882 343 882 343 885 332 896 332 954"/></Shape>
+	    <String CONTENT="distance en 1990."
+                    HPOS="332"
+                    VPOS="882"
+                    WIDTH="776"
+                    HEIGHT="108"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1568"
+                   VPOS="2295"
+                   WIDTH="732"
+                   HEIGHT="108"
+                   ID="eSc_textblock_b3b74f44"
+                   TAGREFS="BT61">
+          <Shape><Polygon POINTS="1674 2295 2256 2295 2300 2352 2278 2396 2219 2403 1619 2403 1568 2381 1575 2310 1674 2295"/></Shape>
+          <TextLine ID="eSc_line_bfa62ff2"
+                    TAGREFS="LT61"
+                    BASELINE="1587 2383 2272 2378" 
+                    HPOS="1581"
+                    VPOS="2296"
+                    WIDTH="688"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="2214 2296 2186 2296 2159 2296 2131 2296 2104 2296 2101 2296 2074 2318 2071 2321 1991 2321 1991 2318 1972 2301 1972 2299 1969 2299 1966 2299 1964 2299 1870 2312 1716 2296 1691 2296 1664 2296 1653 2296 1631 2318 1628 2321 1581 2321 1584 2381 1584 2411 2269 2411 2269 2376 2266 2318 2222 2296 2214 2296"/></Shape>
+	    <String CONTENT="wikitexte_0226"
+                    HPOS="1581"
+                    VPOS="2296"
+                    WIDTH="688"
+                    HEIGHT="115"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2405"
+                   VPOS="3168"
+                   WIDTH="115"
+                   HEIGHT="130"
+                   ID="eSc_textblock_e167c0a1"
+                   TAGREFS="BT61">
+          <Shape><Polygon POINTS="2430 3168 2491 3168 2520 3212 2520 3254 2469 3298 2427 3298 2405 3261 2430 3168"/></Shape>
+          <TextLine ID="eSc_line_e8f167ff"
+                    TAGREFS="LT61"
+                    BASELINE="2438 3254 2482 3254" 
+                    HPOS="2438"
+                    VPOS="3175"
+                    WIDTH="44"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="2438 3254 2438 3272 2482 3270 2482 3254 2482 3175 2438 3175 2438 3254"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2438"
+                    VPOS="3175"
+                    WIDTH="44"
+                    HEIGHT="97"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="420"
+                   VPOS="0"
+                   WIDTH="1359"
+                   HEIGHT="27"
+                   ID="eSc_textblock_6e74d052"
+                   TAGREFS="BT61">
+          <Shape><Polygon POINTS="420 0 1779 0 1779 5 1656 5 1647 27 748 27 420 0"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

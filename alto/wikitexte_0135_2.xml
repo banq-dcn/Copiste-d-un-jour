@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0135_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT210" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT210" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="198"
+                   VPOS="95"
+                   WIDTH="2271"
+                   HEIGHT="841"
+                   ID="eSc_textblock_0f27f15a"
+                   TAGREFS="BT210">
+          <Shape><Polygon POINTS="251 95 2293 124 2337 154 2353 220 2454 242 2469 350 2425 408 2285 476 2285 526 2373 564 2395 665 2359 768 2263 826 1262 826 1100 848 1032 914 220 936 198 572 212 176 220 117 251 95"/></Shape>
+          <TextLine ID="eSc_line_dbc4c0a8"
+                    TAGREFS="LT210"
+                    BASELINE="238 212 2304 209" 
+                    HPOS="233"
+                    VPOS="107"
+                    WIDTH="2069"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="2277 126 1512 137 1452 112 1433 112 1400 140 1325 140 1290 110 1224 110 1182 137 1108 107 1100 107 1042 137 1006 107 995 107 924 134 891 107 745 121 687 107 627 137 591 107 489 107 453 134 418 107 407 107 354 129 297 107 233 112 236 239 2299 233 2302 209 2294 129 2277 126"/></Shape>
+	    <String CONTENT="Reginald Ralph Darlington (6 novembre 1903 - 30"
+                    HPOS="233"
+                    VPOS="107"
+                    WIDTH="2069"
+                    HEIGHT="132"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ad5ef8fd"
+                    TAGREFS="LT210"
+                    BASELINE="243 323 2449 322" 
+                    HPOS="242"
+                    VPOS="231"
+                    WIDTH="2206"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="242 321 242 354 2445 365 2448 258 2371 231 2294 231 2263 253 2192 239 2162 258 2030 258 1991 231 1980 231 1903 258 1903 261 1851 261 1851 258 1812 231 1755 231 1713 258 1713 261 1639 261 1598 231 1587 231 1477 258 1474 261 1240 261 1158 231 1012 231 976 258 841 258 800 231 789 231 698 258 643 231 638 231 470 239 448 258 376 239 365 239 338 258 242 258 242 321"/></Shape>
+	    <String CONTENT="mai 1977) est un historien médiéviste et universitaire"
+                    HPOS="242"
+                    VPOS="231"
+                    WIDTH="2206"
+                    HEIGHT="134"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1287edf7"
+                    TAGREFS="LT210"
+                    BASELINE="236 436 702 436" 
+                    HPOS="236"
+                    VPOS="357"
+                    WIDTH="466"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="236 463 574 473 576 473 577 473 579 473 598 460 702 458 702 436 702 385 643 370 642 370 603 377 581 383 548 375 521 368 519 368 517 368 515 368 513 368 508 372 487 385 429 385 410 366 401 359 401 357 399 357 398 357 322 357 321 357 319 357 317 357 313 361 297 374 238 357 236 436 236 463"/></Shape>
+	    <String CONTENT="britannique."
+                    HPOS="236"
+                    VPOS="357"
+                    WIDTH="466"
+                    HEIGHT="116"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8f242de8"
+                    TAGREFS="LT210"
+                    BASELINE="210 674 453 663 950 658 2372 669" 
+                    HPOS="210"
+                    VPOS="572"
+                    WIDTH="2162"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="210 674 210 696 311 687 333 696 337 698 339 698 341 700 451 700 451 698 453 698 458 696 508 683 761 693 763 693 970 680 1181 694 1183 694 1298 683 1550 683 1596 694 1597 694 1599 694 1678 683 1902 683 1955 696 1995 705 1997 707 2243 707 2243 705 2245 705 2278 696 2307 689 2328 696 2346 704 2348 704 2350 704 2351 704 2370 696 2372 669 2372 599 2361 594 2359 594 2357 594 2355 594 2250 601 2177 606 2164 599 2122 579 2120 579 2045 579 2043 579 2041 579 2003 597 1984 606 1858 595 1825 594 1643 594 1586 594 1585 594 1583 594 1537 605 1368 594 1359 588 1331 575 1330 575 1240 575 1238 575 1236 575 1207 586 1163 603 966 595 942 583 920 573 919 573 847 573 845 573 843 573 825 581 788 599 682 599 634 579 618 572 616 572 526 572 524 572 522 572 508 577 460 597 376 599 308 573 300 572 299 572 297 572 210 572 210 674"/></Shape>
+	    <String CONTENT="Longeville-en-Barrois est une commune française"
+                    HPOS="210"
+                    VPOS="572"
+                    WIDTH="2162"
+                    HEIGHT="135"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_63abdde1"
+                    TAGREFS="LT210"
+                    BASELINE="227 777 1401 771 2160 780" 
+                    HPOS="222"
+                    VPOS="682"
+                    WIDTH="1937"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="225 775 225 814 2156 805 2159 778 2156 717 2005 717 1980 701 1906 715 1867 682 1785 682 1755 706 1724 682 1655 682 1614 712 1578 682 1529 682 1496 712 1460 682 1402 682 1375 709 1254 715 1141 682 1130 682 1094 715 1070 715 1012 682 949 682 910 717 855 717 816 682 767 682 728 717 569 717 495 682 484 682 448 712 423 693 412 693 349 715 294 682 280 682 222 715 225 775"/></Shape>
+	    <String CONTENT="située dans le département de la Meuse, en"
+                    HPOS="222"
+                    VPOS="682"
+                    WIDTH="1937"
+                    HEIGHT="132"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f3211cdc"
+                    TAGREFS="LT210"
+                    BASELINE="216 892 1014 881" 
+                    HPOS="214"
+                    VPOS="803"
+                    WIDTH="800"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="214 867 216 892 216 920 223 927 225 927 227 927 229 927 231 927 232 927 249 914 251 913 255 914 269 927 271 927 273 927 346 931 348 931 381 929 383 929 385 929 385 927 399 914 403 911 429 914 480 920 482 920 484 920 504 913 519 909 532 913 548 920 550 920 552 920 658 913 662 913 664 913 676 922 678 922 680 922 682 922 684 922 717 913 722 909 911 909 913 911 922 918 922 920 924 920 926 920 928 920 1014 909 1014 881 1010 812 953 803 952 803 950 803 948 803 948 804 939 814 928 804 928 803 926 803 924 803 886 803 884 803 882 803 880 803 880 804 867 817 849 837 823 837 807 819 792 806 792 804 790 804 788 804 765 804 763 804 761 804 759 804 759 806 739 823 724 837 682 837 634 834 629 828 609 810 609 808 607 808 605 808 565 808 563 808 561 808 559 808 559 810 535 832 528 841 478 841 431 836 403 834 385 817 383 817 381 817 379 817 377 817 341 836 300 819 299 819 297 819 295 819 218 843 214 867"/></Shape>
+	    <String CONTENT="région Grand Est."
+                    HPOS="214"
+                    VPOS="803"
+                    WIDTH="800"
+                    HEIGHT="128"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="198"
+                   VPOS="0"
+                   WIDTH="2139"
+                   HEIGHT="27"
+                   ID="eSc_textblock_fb51d53a"
+                   TAGREFS="BT210">
+          <Shape><Polygon POINTS="198 0 2337 0 2337 5 660 27 198 0"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

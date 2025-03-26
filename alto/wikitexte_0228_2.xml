@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0228_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT181" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT181" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="198"
+                   VPOS="234"
+                   WIDTH="2322"
+                   HEIGHT="1076"
+                   ID="eSc_textblock_080054e3"
+                   TAGREFS="BT181">
+          <Shape><Polygon POINTS="251 234 2278 249 2317 278 2483 293 2520 337 2520 408 2454 482 2353 496 2337 535 2432 718 2351 914 2461 1026 2447 1193 2395 1215 1407 1222 1282 1259 1287 1296 1216 1310 205 1310 198 344 212 249 251 234"/></Shape>
+          <TextLine ID="eSc_line_bd3a7ab1"
+                    TAGREFS="LT181"
+                    BASELINE="241 370 2498 372" 
+                    HPOS="236"
+                    VPOS="288"
+                    WIDTH="2261"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="236 393 2494 428 2497 371 2492 321 2217 327 2162 288 2151 288 2090 310 2043 299 2032 299 1994 330 1914 330 1870 294 1859 294 1796 324 1749 288 1738 288 1664 327 1587 288 1578 288 1471 327 1380 288 1298 288 1246 327 1177 327 1127 288 951 288 899 330 838 330 775 299 717 299 676 330 492 330 434 288 255 288 239 299 239 368"/></Shape>
+	    <String CONTENT="L’Association Internationale de Trail Running"
+                    HPOS="236"
+                    VPOS="288"
+                    WIDTH="2261"
+                    HEIGHT="140"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fef3e661"
+                    TAGREFS="LT181"
+                    BASELINE="249 489 942 484 2280 491" 
+                    HPOS="247"
+                    VPOS="415"
+                    WIDTH="2030"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="250 538 2272 550 2277 489 2274 448 1980 448 1936 418 1876 418 1845 442 1812 418 1799 418 1749 448 1642 448 1606 418 1595 418 1545 431 1460 418 1378 445 1347 420 1265 418 1224 445 1144 445 1133 440 1103 415 995 431 973 415 858 415 789 445 753 445 712 415 701 415 599 445 354 445 313 415 302 415 247 431 247 486"/></Shape>
+	    <String CONTENT="(en anglais : International Trail Running"
+                    HPOS="247"
+                    VPOS="415"
+                    WIDTH="2030"
+                    HEIGHT="135"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ce2689c3"
+                    TAGREFS="LT181"
+                    BASELINE="249 603 2098 595" 
+                    HPOS="244"
+                    VPOS="528"
+                    WIDTH="1852"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="247 602 247 627 2093 624 2096 594 2090 558 1997 558 1964 528 1961 528 1958 528 1909 528 1906 528 1903 528 1900 528 1865 555 1521 544 1518 544 1441 558 1323 528 1320 528 1317 528 1314 528 1254 558 1182 558 1147 528 1144 528 1141 528 905 528 902 528 899 528 896 528 852 561 638 530 635 530 632 530 629 530 629 533 602 558 517 561 286 530 283 530 280 530 277 530 244 555 247 602"/></Shape>
+	    <String CONTENT="Association, ITRA) est  une association"
+                    HPOS="244"
+                    VPOS="528"
+                    WIDTH="1852"
+                    HEIGHT="99"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ff2e4da1"
+                    TAGREFS="LT181"
+                    BASELINE="258 721 2397 707" 
+                    HPOS="253"
+                    VPOS="640"
+                    WIDTH="2142"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="255 761 335 761 365 739 1886 772 2395 723 2395 706 2390 668 2186 668 2164 649 2153 649 2118 668 2027 668 1969 640 1961 640 1900 671 1766 671 1744 651 1650 665 1620 643 1537 643 1499 673 1463 673 1430 646 1232 668 1144 646 1059 673 877 649 770 676 640 676 605 651 497 651 253 679 255 720"/></Shape>
+	    <String CONTENT="sportive internationale chargée de promou-"
+                    HPOS="253"
+                    VPOS="640"
+                    WIDTH="2142"
+                    HEIGHT="132"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9798617a"
+                    TAGREFS="LT181"
+                    BASELINE="243 833 2337 825" 
+                    HPOS="239"
+                    VPOS="756"
+                    WIDTH="2096"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="242 852 1199 895 2332 847 2335 825 2329 783 2206 770 2076 783 2019 756 2010 756 1955 786 1845 786 1845 783 1810 756 1722 756 1686 781 1581 756 1532 781 1501 756 1427 756 1391 786 1138 786 1078 759 984 783 954 759 874 759 833 789 797 789 761 759 750 759 682 775 616 759 541 786 423 767 239 789 242 830"/></Shape>
+	    <String CONTENT="voir et de développer le trail à travers"
+                    HPOS="239"
+                    VPOS="756"
+                    WIDTH="2096"
+                    HEIGHT="139"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8146da7d"
+                    TAGREFS="LT181"
+                    BASELINE="233 938 1889 942 2293 951" 
+                    HPOS="228"
+                    VPOS="866"
+                    WIDTH="2063"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="228 962 2288 994 2291 948 2291 902 2189 869 2181 869 2118 888 2096 869 1900 869 1873 888 1848 869 1760 869 1719 896 1545 877 1518 902 1279 902 918 899 918 896 869 866 797 866 761 896 640 866 629 866 591 896 591 899 398 899 363 866 288 866 231 893 231 937"/></Shape>
+	    <String CONTENT="le monde. Reconnue par World Athletics"
+                    HPOS="228"
+                    VPOS="866"
+                    WIDTH="2063"
+                    HEIGHT="128"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4198ec67"
+                    TAGREFS="LT181"
+                    BASELINE="223 1056 2438 1061" 
+                    HPOS="220"
+                    VPOS="990"
+                    WIDTH="2217"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="222 1056 220 1078 2434 1078 2437 1058 2434 1009 2346 995 2318 1017 2131 1017 2098 990 2027 990 1972 1017 1862 1017 1829 990 1766 990 1733 1017 1584 1017 1551 990 1441 990 1413 1012 1314 1014 1303 1009 1281 990 1017 990 984 1014 918 992 910 992 850 1017 346 1017 253 990 242 990 222 1001 222 1056"/></Shape>
+	    <String CONTENT="(anciennement IAAF), elle aide notamment"
+                    HPOS="220"
+                    VPOS="990"
+                    WIDTH="2217"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dab9a57d"
+                    TAGREFS="LT181"
+                    BASELINE="236 1174 2419 1169" 
+                    HPOS="231"
+                    VPOS="1100"
+                    WIDTH="2186"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="235 1225 1928 1207 2417 1188 2412 1133 2376 1133 2335 1100 2324 1100 2228 1130 2115 1100 2041 1100 1999 1133 1768 1133 1700 1102 1452 1100 1411 1133 1224 1133 1089 1100 1081 1100 1039 1130 863 1116 814 1130 709 1100 624 1116 489 1100 442 1130 310 1111 231 1133 233 1171"/></Shape>
+	    <String CONTENT="au dialogue entre institutions nationales"
+                    HPOS="231"
+                    VPOS="1100"
+                    WIDTH="2186"
+                    HEIGHT="125"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2e0c91b2"
+                    TAGREFS="LT181"
+                    BASELINE="249 1281 1207 1285" 
+                    HPOS="244"
+                    VPOS="1215"
+                    WIDTH="960"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="247 1278 244 1306 1199 1314 1204 1284 1202 1248 1138 1248 1138 1245 1103 1218 1100 1218 1097 1218 1094 1218 968 1245 962 1245 943 1245 888 1243 866 1221 866 1218 863 1218 861 1218 792 1218 789 1218 786 1218 734 1245 731 1245 646 1245 643 1243 591 1215 588 1215 533 1215 530 1215 528 1215 525 1215 484 1243 481 1245 409 1245 409 1243 382 1218 382 1215 379 1215 376 1215 374 1215 247 1240 247 1278"/></Shape>
+	    <String CONTENT="et internationales."
+                    HPOS="244"
+                    VPOS="1215"
+                    WIDTH="960"
+                    HEIGHT="99"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1871"
+                   VPOS="0"
+                   WIDTH="677"
+                   HEIGHT="152"
+                   ID="eSc_textblock_431dd274"
+                   TAGREFS="BT181">
+          <Shape><Polygon POINTS="1871 0 2483 0 2548 29 2548 108 2520 137 2395 152 1898 115 1871 0"/></Shape>
+          <TextLine ID="eSc_line_52fc45f0"
+                    TAGREFS="LT181"
+                    BASELINE="1907 75 2522 95" 
+                    HPOS="1906"
+                    VPOS="16"
+                    WIDTH="616"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1907 75 1906 95 1917 104 1918 104 1920 104 1922 104 1924 104 1942 95 1961 106 1962 106 1964 106 1966 106 1968 106 1990 97 2183 100 2214 113 2216 113 2217 113 2219 113 2252 106 2353 119 2355 119 2520 111 2522 95 2518 33 2467 45 2454 36 2452 36 2450 36 2449 36 2315 40 2302 31 2295 23 2293 23 2291 23 2289 23 2287 23 2285 23 2276 29 2267 34 2221 29 2129 18 2128 18 2126 18 2124 18 2109 29 2106 31 2095 27 2052 16 2051 16 2049 16 1907 25 1907 75"/></Shape>
+	    <String CONTENT="wikitexte_0228"
+                    HPOS="1906"
+                    VPOS="16"
+                    WIDTH="616"
+                    HEIGHT="103"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2419"
+                   VPOS="3204"
+                   WIDTH="129"
+                   HEIGHT="94"
+                   ID="eSc_textblock_7d690264"
+                   TAGREFS="BT181">
+          <Shape><Polygon POINTS="2474 3204 2548 3212 2548 3298 2427 3298 2419 3234 2474 3204"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

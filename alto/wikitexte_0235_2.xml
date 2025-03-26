@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0235_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT184" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT184" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="256"
+                   VPOS="234"
+                   WIDTH="1149"
+                   HEIGHT="123"
+                   ID="eSc_textblock_995b29cd"
+                   TAGREFS="BT184">
+          <Shape><Polygon POINTS="333 234 1302 242 1390 271 1405 320 1324 350 286 357 256 335 256 286 333 234"/></Shape>
+          <TextLine ID="eSc_line_4b9c6e8d"
+                    TAGREFS="LT184"
+                    BASELINE="304 320 1384 328" 
+                    HPOS="299"
+                    VPOS="261"
+                    WIDTH="1084"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1372 324 1350 275 1317 261 1314 261 1169 261 1166 261 1163 261 1127 280 1092 261 1089 261 1086 261 1009 277 861 264 858 264 855 264 822 277 819 277 486 277 486 275 470 261 467 261 464 261 462 261 302 272 302 319 299 346 1380 346 1383 327 1380 321 1372 324"/></Shape>
+	    <String CONTENT="DÉPUTÉE DE 1972 À 1984."
+                    HPOS="299"
+                    VPOS="261"
+                    WIDTH="1084"
+                    HEIGHT="85"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1275"
+                   VPOS="1239"
+                   WIDTH="702"
+                   HEIGHT="130"
+                   ID="eSc_textblock_aac71fcd"
+                   TAGREFS="BT184">
+          <Shape><Polygon POINTS="1726 1239 1970 1268 1977 1347 1926 1369 1275 1347 1289 1268 1377 1246 1726 1239"/></Shape>
+          <TextLine ID="eSc_line_d0a94477"
+                    TAGREFS="LT184"
+                    BASELINE="1278 1336 1950 1347" 
+                    HPOS="1273"
+                    VPOS="1265"
+                    WIDTH="674"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1276 1309 1276 1333 1273 1366 1942 1369 1947 1344 1942 1270 1642 1289 1622 1276 1606 1265 1603 1265 1600 1265 1419 1265 1416 1265 1413 1265 1411 1265 1411 1267 1391 1281 1389 1287 1290 1287 1276 1309"/></Shape>
+	    <String CONTENT="wikitexte_0235"
+                    HPOS="1273"
+                    VPOS="1265"
+                    WIDTH="674"
+                    HEIGHT="104"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2368"
+                   VPOS="3146"
+                   WIDTH="159"
+                   HEIGHT="130"
+                   ID="eSc_textblock_3190846e"
+                   TAGREFS="BT184">
+          <Shape><Polygon POINTS="2408 3146 2513 3160 2527 3232 2505 3268 2383 3276 2368 3182 2408 3146"/></Shape>
+          <TextLine ID="eSc_line_1fe2c475"
+                    TAGREFS="LT184"
+                    BASELINE="2395 3228 2500 3235" 
+                    HPOS="2390"
+                    VPOS="3157"
+                    WIDTH="110"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="2390 3245 2420 3264 2423 3264 2426 3264 2428 3264 2494 3258 2497 3234 2500 3165 2395 3157 2393 3225 2390 3245"/></Shape>
+	    <String CONTENT="2/2"
+                    HPOS="2390"
+                    VPOS="3157"
+                    WIDTH="110"
+                    HEIGHT="107"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1788"
+                   VPOS="1224"
+                   WIDTH="72"
+                   HEIGHT="6"
+                   ID="eSc_textblock_fbc8a8ef"
+                   TAGREFS="BT184">
+          <Shape><Polygon POINTS="1792 1224 1860 1224 1860 1230 1788 1230 1792 1224"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

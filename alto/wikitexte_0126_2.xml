@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0126_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT38" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT38" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="271"
+                   VPOS="51"
+                   WIDTH="2146"
+                   HEIGHT="607"
+                   ID="eSc_textblock_00a8ac73"
+                   TAGREFS="BT38">
+          <Shape><Polygon POINTS="1599 51 2278 73 2278 240 2417 396 2381 606 2271 636 2043 614 1100 621 946 658 915 628 286 606 271 584 271 300 300 249 1507 212 1561 166 1568 73 1599 51"/></Shape>
+          <TextLine ID="eSc_line_c950c7d9"
+                    TAGREFS="LT38"
+                    BASELINE="1586 146 2245 159" 
+                    HPOS="1585"
+                    VPOS="60"
+                    WIDTH="660"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="2184 82 2173 71 2172 71 2170 71 2109 67 2107 67 2106 67 2104 67 2104 69 2089 82 2051 75 2049 75 2047 75 2045 75 2045 77 2028 91 2023 97 1966 97 1957 91 1915 64 1913 64 1911 64 1909 64 1825 84 1797 62 1796 62 1794 62 1792 62 1790 62 1759 78 1742 62 1742 60 1740 60 1739 60 1737 60 1735 60 1733 60 1718 69 1702 60 1700 60 1698 60 1696 60 1641 88 1605 77 1603 77 1601 77 1599 77 1597 77 1586 84 1586 146 1585 159 1623 174 1625 174 1627 174 1689 165 1832 177 1834 177 1836 177 1856 168 1863 177 1865 177 1865 179 1867 179 1869 179 1871 179 1873 179 1874 179 1891 168 1911 179 1913 179 1915 179 2014 170 2054 183 2056 183 2058 183 2128 172 2146 185 2148 185 2150 185 2151 185 2153 185 2177 174 2221 185 2223 185 2225 185 2227 185 2228 185 2243 172 2245 159 2245 89 2227 71 2227 69 2216 69"/></Shape>
+	    <String CONTENT="wikitexte_0126"
+                    HPOS="1585"
+                    VPOS="60"
+                    WIDTH="660"
+                    HEIGHT="125"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b87c4afe"
+                    TAGREFS="LT38"
+                    BASELINE="293 339 1764 344 2265 353" 
+                    HPOS="291"
+                    VPOS="247"
+                    WIDTH="1974"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="291 359 1116 371 1184 401 1295 379 1380 405 1451 381 1451 379 1452 379 1474 368 1476 368 1568 377 1651 388 2263 372 2265 353 2263 287 2212 287 2210 286 2157 256 2155 256 2153 256 2151 256 2098 280 2054 256 2052 256 1935 256 1933 256 1931 256 1876 286 1869 286 1799 286 1797 284 1744 273 1742 273 1669 280 1621 254 1619 254 1566 253 1564 253 1563 253 1473 278 1407 273 1374 253 1372 253 1370 253 1251 253 1249 253 1247 253 1201 273 1166 258 1164 258 1163 258 1161 258 1131 275 986 280 977 280 924 251 922 251 882 251 880 251 878 251 799 280 686 280 665 280 665 278 609 249 607 249 519 247 517 247 515 247 431 278 293 278 293 339"/></Shape>
+	    <String CONTENT="un médecin et homme politique français. Membre"
+                    HPOS="291"
+                    VPOS="247"
+                    WIDTH="1974"
+                    HEIGHT="158"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_409c57e0"
+                    TAGREFS="LT38"
+                    BASELINE="288 454 2387 467" 
+                    HPOS="283"
+                    VPOS="363"
+                    WIDTH="2104"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="283 475 2387 504 2384 464 2384 390 2354 374 2343 374 2321 390 2288 371 2156 371 2126 398 2093 398 2038 371 2030 371 1975 396 1859 368 1771 383 1752 368 1664 368 1631 396 1471 396 1449 376 1435 376 1416 396 1336 396 1314 387 1279 379 1213 390 1163 365 1155 365 1100 390 1020 368 1009 368 979 393 822 393 775 390 745 363 640 363 613 385 596 371 533 379 451 363 398 379 346 363 338 363 286 385 286 453"/></Shape>
+	    <String CONTENT="des Républicains, il est sénateur du Pas-de-Calais"
+                    HPOS="283"
+                    VPOS="363"
+                    WIDTH="2104"
+                    HEIGHT="141"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_66b16633"
+                    TAGREFS="LT38"
+                    BASELINE="298 565 1984 575 2288 584" 
+                    HPOS="294"
+                    VPOS="475"
+                    WIDTH="1991"
+                    HEIGHT="217">
+            <Shape><Polygon POINTS="294 588 657 591 701 613 712 613 739 594 850 594 877 618 883 618 960 692 1061 621 1061 618 1067 618 1094 596 1441 596 1468 618 1735 599 2134 599 2151 616 2159 616 2283 602 2285 583 2283 519 2104 519 2019 489 1928 489 1892 514 1859 486 1848 486 1749 514 1680 486 1669 486 1636 517 1595 517 1501 484 1490 484 1457 511 1372 484 1364 484 1298 511 1240 484 1229 484 1193 508 1081 492 1072 492 1045 508 1015 492 1004 492 979 508 979 511 816 511 816 508 756 478 698 478 662 506 629 481 618 481 544 500 481 481 470 481 440 508 409 508 374 475 363 475 297 503 297 563"/></Shape>
+	    <String CONTENT="et conseiller régional des Hauts-de-France."
+                    HPOS="294"
+                    VPOS="475"
+                    WIDTH="1991"
+                    HEIGHT="217"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2243"
+                   VPOS="3131"
+                   WIDTH="160"
+                   HEIGHT="167"
+                   ID="eSc_textblock_37479f00"
+                   TAGREFS="BT38">
+          <Shape><Polygon POINTS="2274 3131 2359 3131 2395 3160 2403 3246 2373 3283 2250 3298 2243 3160 2274 3131"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

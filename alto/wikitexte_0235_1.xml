@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0235_1.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT184" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT184" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="264"
+                   VPOS="256"
+                   WIDTH="2284"
+                   HEIGHT="2990"
+                   ID="eSc_textblock_d69a6ee7"
+                   TAGREFS="BT184">
+          <Shape><Polygon POINTS="1744 256 2307 256 2337 278 2324 374 2476 403 2483 474 2439 584 2322 650 2373 704 2373 907 2454 1085 2461 1156 2425 1195 2425 1252 2498 1276 2527 1342 2520 1574 2491 1640 2425 1679 2395 2029 2373 2073 2315 2097 2351 2146 2307 2176 2344 2200 2403 2346 2410 2484 2359 2574 2359 2638 2395 2726 2454 2750 2483 2816 2520 3006 2498 3114 2548 3217 2505 3246 2427 3246 2410 3107 2256 3092 286 3070 264 2300 278 381 1720 366 1641 335 1634 278 1744 256"/></Shape>
+          <TextLine ID="eSc_line_0f1d023a"
+                    TAGREFS="LT184"
+                    BASELINE="1643 308 1970 319 2315 313" 
+                    HPOS="1641"
+                    VPOS="232"
+                    WIDTH="674"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1662 271 1643 275 1643 308 1641 344 2313 344 2315 313 2309 267 2249 276 2194 269 2175 267 2173 267 2172 267 2162 269 2109 287 1981 287 1962 275 1959 271 1957 271 1955 271 1953 271 1951 271 1935 275 1896 286 1871 276 1865 275 1863 275 1862 275 1837 232 1794 284 1786 278 1772 265 1770 265 1768 265 1766 265 1764 265 1733 280 1728 282 1726 280 1709 265 1709 264 1707 264 1706 264 1704 264 1695 264 1680 267"/></Shape>
+	    <String CONTENT="WIKITEXTE_0235"
+                    HPOS="1641"
+                    VPOS="232"
+                    WIDTH="674"
+                    HEIGHT="112"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ea8a57a3"
+                    TAGREFS="LT184"
+                    BASELINE="312 435 2221 434 2463 445" 
+                    HPOS="308"
+                    VPOS="351"
+                    WIDTH="2153"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="2450 396 2041 382 1314 382 1312 382 1309 382 1281 390 333 351 308 385 310 434 310 462 2459 462 2461 442 2459 401 2453 398"/></Shape>
+	    <String CONTENT="J&#x27;AI LU LES CONDITIONS DE PARTICIPATION ET J&#x27;Y CONSENS."
+                    HPOS="308"
+                    VPOS="351"
+                    WIDTH="2153"
+                    HEIGHT="111"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e14cbc1f"
+                    TAGREFS="LT184"
+                    BASELINE="309 555 1203 542 2421 544" 
+                    HPOS="305"
+                    VPOS="503"
+                    WIDTH="2115"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="308 552 308 572 2420 563 2420 541 2415 503 305 508 308 552"/></Shape>
+	    <String CONTENT="JE COMPRENDS QUE MON MANUSCRIT SERA ANONYMISÉ"
+                    HPOS="305"
+                    VPOS="503"
+                    WIDTH="2115"
+                    HEIGHT="69"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7d7e2a5d"
+                    TAGREFS="LT184"
+                    BASELINE="324 673 2227 658" 
+                    HPOS="319"
+                    VPOS="602"
+                    WIDTH="1906"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="321 671 321 690 2222 687 2225 657 2219 618 1969 602 1966 602 1810 618 1790 621 319 621 321 671"/></Shape>
+	    <String CONTENT="ET UTILISÉ PAR BANQ POUR DES ACTIVITÉS DE"
+                    HPOS="319"
+                    VPOS="602"
+                    WIDTH="1906"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dee74c10"
+                    TAGREFS="LT184"
+                    BASELINE="313 776 1452 771 2366 779" 
+                    HPOS="310"
+                    VPOS="717"
+                    WIDTH="2055"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="310 775 310 800 2362 797 2365 778 2362 734 2167 734 2164 731 2151 717 2148 717 2145 717 2142 717 2071 731 2060 731 2041 731 1925 717 1922 717 1920 717 1917 717 1903 728 1898 734 1375 734 1323 723 1270 717 1268 717 1265 717 1262 717 1254 723 1243 734 583 734 310 717 310 775"/></Shape>
+	    <String CONTENT="RECHERCHE ET DÉVELOPPEMENT, ET QU&#x27;IL POURRA"
+                    HPOS="310"
+                    VPOS="717"
+                    WIDTH="2055"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_601eebcf"
+                    TAGREFS="LT184"
+                    BASELINE="291 889 1990 883 2285 891" 
+                    HPOS="289"
+                    VPOS="809"
+                    WIDTH="1996"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="291 913 2283 911 2285 891 2283 854 2021 854 1946 834 1944 834 1942 834 1940 834 1939 834 1906 854 1873 854 1803 856 1695 856 1693 854 1658 836 1656 836 1654 836 1548 854 1546 854 1544 854 1515 843 1513 843 1511 843 1449 850 1388 836 1339 809 1289 836 1287 836 1174 854 1172 856 1007 856 1001 856 942 837 941 837 939 837 937 837 887 850 862 837 860 837 805 837 803 837 801 837 768 856 765 858 715 858 713 856 686 843 684 843 535 837 533 837 532 837 478 856 476 856 475 856 427 841 425 841 423 841 421 841 387 852 315 839 313 839 311 839 310 839 289 850 291 889"/></Shape>
+	    <String CONTENT="AUSSI ÊTRE PUBLIÉ ET PARTAGÉ SOUS LICENCE"
+                    HPOS="289"
+                    VPOS="809"
+                    WIDTH="1996"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_431cadea"
+                    TAGREFS="LT184"
+                    BASELINE="319 1007 1043 997 2384 1010" 
+                    HPOS="313"
+                    VPOS="940"
+                    WIDTH="2069"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="316 1006 313 1025 2376 1034 2382 1009 2379 965 2269 948 2186 965 1994 965 1975 948 1909 962 1589 962 1570 946 1559 946 1504 959 1408 946 1356 959 929 943 861 957 827 957 704 943 591 957 547 940 539 940 500 954 412 940 316 951 316 1006"/></Shape>
+	    <String CONTENT="CC-BY POUR ÊTRE UTILISÉ LIBREMENT À DES FINS"
+                    HPOS="313"
+                    VPOS="940"
+                    WIDTH="2069"
+                    HEIGHT="94"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_41fcd2e5"
+                    TAGREFS="LT184"
+                    BASELINE="301 1119 2438 1118" 
+                    HPOS="299"
+                    VPOS="1067"
+                    WIDTH="2138"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="299 1116 299 1144 2437 1144 2437 1116 2437 1083 2241 1083 2239 1080 2219 1067 2217 1067 2214 1067 2211 1067 2118 1080 2112 1083 1444 1083 1424 1080 1323 1067 1188 1067 1185 1067 1182 1067 1180 1067 1166 1078 1160 1080 299 1078 299 1116"/></Shape>
+	    <String CONTENT="NON COMMERCIALES. HORUS AU SEREKH OU DOUBLE"
+                    HPOS="299"
+                    VPOS="1067"
+                    WIDTH="2138"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cfa6cb4d"
+                    TAGREFS="LT184"
+                    BASELINE="299 1222 2355 1235" 
+                    HPOS="297"
+                    VPOS="1182"
+                    WIDTH="2058"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="299 1222 297 1250 2351 1257 2355 1235 2355 1206 2328 1191 2326 1191 2324 1191 2155 1204 2137 1204 2133 1204 2109 1191 2107 1191 2106 1191 1959 1200 1931 1202 1928 1200 1907 1189 1906 1189 1757 1188 1755 1188 1652 1197 1618 1200 1581 1197 1504 1188 1502 1188 1500 1188 1485 1195 1474 1200 1275 1200 1232 1193 1177 1184 1175 1184 1174 1184 1157 1191 1146 1197 1054 1189 986 1186 985 1186 955 1189 895 1197 299 1182 299 1222"/></Shape>
+	    <String CONTENT="FAUCON EST UN ROI AYANT UN SEREKH SURMONTÉ"
+                    HPOS="297"
+                    VPOS="1182"
+                    WIDTH="2058"
+                    HEIGHT="75"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2a186bf9"
+                    TAGREFS="LT184"
+                    BASELINE="304 1349 1942 1338 2498 1356" 
+                    HPOS="299"
+                    VPOS="1292"
+                    WIDTH="2198"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="302 1347 302 1375 2494 1375 2497 1355 2494 1309 1485 1292 1482 1292 907 1309 316 1295 313 1295 310 1295 308 1295 308 1298 299 1303 302 1347"/></Shape>
+	    <String CONTENT="PAR DEUX FAUCONS MAIS AUCUN NOM N&#x27;EST INDIQUÉ."
+                    HPOS="299"
+                    VPOS="1292"
+                    WIDTH="2198"
+                    HEIGHT="83"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0f6864aa"
+                    TAGREFS="LT184"
+                    BASELINE="312 1457 2414 1457" 
+                    HPOS="310"
+                    VPOS="1416"
+                    WIDTH="2102"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 1454 310 1485 2409 1479 2412 1454 2409 1419 310 1416 310 1454"/></Shape>
+	    <String CONTENT="IL EST ENTERRÉ DANS LA NÉCROPOLE D&#x27;OUMM ET"
+                    HPOS="310"
+                    VPOS="1416"
+                    WIDTH="2102"
+                    HEIGHT="69"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_52bb28ca"
+                    TAGREFS="LT184"
+                    BASELINE="312 1572 2500 1571" 
+                    HPOS="310"
+                    VPOS="1489"
+                    WIDTH="2187"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="310 1597 2497 1592 2497 1570 2494 1534 1785 1534 1782 1534 1763 1520 1760 1520 1757 1520 1755 1520 1752 1520 1716 1534 1713 1537 1306 1537 1137 1489 1111 1518 1108 1518 1105 1518 1103 1518 1081 1537 962 1537 924 1518 921 1518 761 1518 759 1518 756 1518 717 1534 643 1518 640 1518 638 1518 585 1534 544 1518 541 1518 539 1518 426 1534 335 1518 332 1518 330 1518 327 1518 310 1529 310 1570"/></Shape>
+	    <String CONTENT="QU&#x27;AB À ABYDOS. PLUSIEURS SEREKHS ANONYMES ONT"
+                    HPOS="310"
+                    VPOS="1489"
+                    WIDTH="2187"
+                    HEIGHT="108"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_445c8243"
+                    TAGREFS="LT184"
+                    BASELINE="313 1683 2359 1686" 
+                    HPOS="308"
+                    VPOS="1633"
+                    WIDTH="2049"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 1683 308 1707 2351 1710 2357 1685 2354 1644 310 1633 310 1683"/></Shape>
+	    <String CONTENT="ÉTÉ TROUVÉS DANS LE CIMETIÈRES U D&#x27;ABYDOS."
+                    HPOS="308"
+                    VPOS="1633"
+                    WIDTH="2049"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_05e3d818"
+                    TAGREFS="LT184"
+                    BASELINE="328 1801 2386 1793" 
+                    HPOS="324"
+                    VPOS="1712"
+                    WIDTH="2060"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="327 1820 2384 1815 2384 1793 2376 1740 2126 1754 2104 1738 2021 1738 2002 1757 1914 1757 1876 1743 1837 1738 1815 1757 1680 1757 1631 1740 1567 1754 1479 1738 1457 1754 1367 1738 1345 1760 916 1760 861 1740 850 1740 827 1760 475 1712 440 1740 324 1760 327 1798"/></Shape>
+	    <String CONTENT="ON PENSE QU&#x27;À L&#x27;ORIGINE LE PEUBLE « DES FAUÇONS »"
+                    HPOS="324"
+                    VPOS="1712"
+                    WIDTH="2060"
+                    HEIGHT="108"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_59fe80de"
+                    TAGREFS="LT184"
+                    BASELINE="308 1906 2372 1906" 
+                    HPOS="308"
+                    VPOS="1829"
+                    WIDTH="2064"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="308 1936 2372 1934 2372 1906 2372 1868 2298 1862 2296 1862 2295 1862 2283 1868 2265 1879 2219 1879 2199 1868 2186 1862 2184 1862 2117 1862 2115 1862 2001 1868 1845 1877 1799 1870 1759 1862 1757 1862 1674 1870 1594 1877 1572 1870 1548 1862 1511 1829 1469 1862 1467 1862 1465 1862 1449 1871 1436 1879 1225 1879 1210 1871 1199 1868 1197 1868 1196 1868 1194 1868 1181 1871 1161 1877 1137 1871 1095 1862 1093 1862 1091 1862 1073 1871 1062 1877 1014 1871 968 1868 966 1868 964 1868 948 1873 931 1879 717 1879 675 1873 592 1866 590 1866 588 1866 557 1873 544 1877 539 1873 515 1862 513 1862 511 1862 383 1875 372 1875 368 1875 333 1862 332 1862 330 1862 328 1862 308 1871 308 1906"/></Shape>
+	    <String CONTENT="AVAIT ETABLI UN ROYAUME PRIMITIF à 650KM DE"
+                    HPOS="308"
+                    VPOS="1829"
+                    WIDTH="2064"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_31bbb075"
+                    TAGREFS="LT184"
+                    BASELINE="323 2028 1669 2018 2368 2024" 
+                    HPOS="319"
+                    VPOS="1982"
+                    WIDTH="2046"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="321 2026 321 2051 2362 2048 2365 2024 2362 1982 319 1982 321 2026"/></Shape>
+	    <String CONTENT="LA MER SUR UNE FRACTION DE LA VALLEE DU NIL"
+                    HPOS="319"
+                    VPOS="1982"
+                    WIDTH="2046"
+                    HEIGHT="69"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7b4feaf6"
+                    TAGREFS="LT184"
+                    BASELINE="331 2144 1808 2132" 
+                    HPOS="327"
+                    VPOS="2060"
+                    WIDTH="1480"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="330 2167 1804 2167 1807 2131 1801 2095 1490 2079 1488 2079 1485 2079 1482 2079 1482 2081 1468 2092 1147 2084 1144 2084 943 2098 841 2084 838 2084 574 2101 561 2090 561 2087 558 2087 555 2087 526 2060 462 2087 327 2103 330 2142"/></Shape>
+	    <String CONTENT="COMPRIS ENTRE LOUXOR ET EDFOU."
+                    HPOS="327"
+                    VPOS="2060"
+                    WIDTH="1480"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9e11acc6"
+                    TAGREFS="LT184"
+                    BASELINE="308 2251 1265 2245 2289 2253" 
+                    HPOS="306"
+                    VPOS="2200"
+                    WIDTH="1983"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="308 2251 306 2273 2285 2277 2289 2253 2287 2218 2203 2203 2201 2203 2199 2203 2173 2216 2173 2218 2052 2218 2049 2216 2019 2201 2017 2201 1940 2201 1939 2201 1937 2201 1893 2214 1885 2216 1880 2214 1854 2201 1852 2201 1775 2201 1773 2201 1772 2201 1729 2212 1715 2216 1702 2212 1658 2201 1656 2201 1654 2201 1652 2201 1632 2212 1623 2218 1309 2218 1289 2211 1275 2205 1273 2205 1271 2205 1269 2205 1252 2209 1229 2216 1203 2209 1175 2201 1174 2201 1172 2201 1170 2201 1155 2209 1139 2218 794 2218 772 2205 763 2201 761 2201 759 2201 757 2201 739 2205 698 2216 676 2205 673 2203 671 2203 669 2203 654 2205 605 2212 555 2205 526 2200 524 2200 522 2200 513 2203 495 2214 460 2203 445 2200 443 2200 442 2200 418 2203 385 2209 308 2203 308 2251"/></Shape>
+	    <String CONTENT="TUTU (1986) EST UN ALBUM DU COMPOSITEUR ET"
+                    HPOS="306"
+                    VPOS="2200"
+                    WIDTH="1983"
+                    HEIGHT="77"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d4438497"
+                    TAGREFS="LT184"
+                    BASELINE="313 2369 2010 2361 2372 2370" 
+                    HPOS="308"
+                    VPOS="2307"
+                    WIDTH="2063"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="310 2367 310 2395 2368 2395 2371 2367 2368 2323 2112 2307 2109 2307 2107 2307 2104 2307 2085 2323 1925 2323 1859 2307 1856 2307 1854 2307 1812 2323 1807 2323 1724 2323 1070 2310 1067 2310 1064 2310 1061 2310 1048 2323 1042 2326 951 2323 605 2312 602 2312 308 2323 310 2367"/></Shape>
+	    <String CONTENT="TROMPETTISTE DE JAZZ AMERICAIN MILES DAVIS,"
+                    HPOS="308"
+                    VPOS="2307"
+                    WIDTH="2063"
+                    HEIGHT="88"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0ee8179f"
+                    TAGREFS="LT184"
+                    BASELINE="320 2486 1667 2473 2386 2478" 
+                    HPOS="316"
+                    VPOS="2405"
+                    WIDTH="2068"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="319 2505 2384 2502 2384 2477 2382 2431 2131 2417 2129 2417 2052 2431 2049 2405 1980 2417 1977 2417 1975 2417 1972 2417 1953 2433 1746 2433 1639 2417 1636 2417 1633 2417 1631 2417 1611 2433 1609 2433 1303 2420 1301 2420 1298 2420 1295 2420 1279 2436 998 2436 968 2422 965 2422 962 2422 800 2436 759 2422 756 2422 753 2422 750 2422 704 2439 475 2425 473 2425 316 2442 319 2486"/></Shape>
+	    <String CONTENT="COMPOSÉ PAR MARCUS MILLER. PRODUIT PAR TOMMY"
+                    HPOS="316"
+                    VPOS="2405"
+                    WIDTH="2068"
+                    HEIGHT="100"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3cdee420"
+                    TAGREFS="LT184"
+                    BASELINE="329 2592 2212 2592" 
+                    HPOS="327"
+                    VPOS="2532"
+                    WIDTH="1884"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="327 2623 2211 2623 2211 2554 2112 2532 1964 2532 1964 2535 1944 2549 1942 2554 1815 2554 1790 2532 1694 2546 1664 2554 1358 2554 1292 2532 1281 2532 1281 2535 1259 2554 1061 2554 1042 2535 869 2532 861 2532 861 2535 838 2554 508 2554 481 2532 462 2532 379 2549 330 2532 327 2623"/></Shape>
+	    <String CONTENT="LiPUMA ET MARCUS MILLER, SORTI EN 1986"
+                    HPOS="327"
+                    VPOS="2532"
+                    WIDTH="1884"
+                    HEIGHT="91"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_303cd52f"
+                    TAGREFS="LT184"
+                    BASELINE="300 2702 2357 2707" 
+                    HPOS="299"
+                    VPOS="2614"
+                    WIDTH="2058"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="299 2726 2353 2728 2357 2707 2355 2674 2287 2658 2285 2658 2126 2669 2084 2654 2082 2654 2080 2654 1863 2669 1814 2673 1785 2669 1695 2614 1669 2652 1667 2652 1621 2667 1610 2673 1363 2673 1350 2665 1326 2652 1324 2652 1322 2652 1320 2652 1291 2665 1278 2671 1212 2665 1091 2652 1089 2652 1087 2652 1056 2663 1034 2671 964 2662 867 2651 865 2651 803 2662 785 2663 759 2662 673 2651 671 2651 669 2651 651 2660 632 2669 300 2658 300 2702"/></Shape>
+	    <String CONTENT="ADRIANA FABBRI SERONI OU SIMPLEMENT ADRIANA"
+                    HPOS="299"
+                    VPOS="2614"
+                    WIDTH="2058"
+                    HEIGHT="114"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_290dc6a3"
+                    TAGREFS="LT184"
+                    BASELINE="322 2821 506 2816 1113 2816 1372 2806 2447 2821" 
+                    HPOS="319"
+                    VPOS="2750"
+                    WIDTH="2126"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="321 2818 319 2840 2439 2843 2445 2818 2442 2783 2332 2766 2222 2780 2203 2780 2134 2763 2085 2777 2010 2763 1854 2772 1821 2758 1815 2758 1617 2769 1598 2755 1589 2755 1488 2769 1471 2755 1273 2755 1246 2774 1125 2774 1094 2752 1083 2752 1050 2772 1042 2772 1004 2758 995 2758 968 2772 792 2772 748 2750 635 2769 321 2766 321 2818"/></Shape>
+	    <String CONTENT="SERONI, NÉE LE 9 JUIN 1922 À FLORENCE ET MORTE"
+                    HPOS="319"
+                    VPOS="2750"
+                    WIDTH="2126"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1de34747"
+                    TAGREFS="LT184"
+                    BASELINE="295 2933 2287 2931 2458 2940" 
+                    HPOS="293"
+                    VPOS="2852"
+                    WIDTH="2165"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="295 2953 2454 2959 2458 2940 2456 2898 2118 2898 2107 2894 2045 2883 2043 2883 1955 2894 1933 2896 1926 2894 1889 2880 1887 2880 1885 2880 1884 2880 1830 2893 1816 2896 1794 2893 1720 2882 1718 2882 1717 2882 1674 2893 1660 2896 1643 2893 1599 2880 1597 2880 1578 2852 1443 2891 1392 2894 1363 2891 1291 2880 1289 2880 1287 2880 1260 2891 1243 2896 1164 2889 1130 2887 1128 2887 1106 2889 1045 2896 972 2889 906 2882 904 2882 902 2882 886 2887 865 2896 849 2887 832 2880 831 2880 829 2880 827 2880 803 2887 792 2891 753 2887 682 2880 680 2880 678 2880 664 2887 647 2894 631 2887 616 2880 614 2880 612 2880 570 2885 526 2893 491 2885 462 2880 460 2880 429 2885 388 2893 293 2885 295 2933"/></Shape>
+	    <String CONTENT="LE 9 AVRIL 1984, EST UNE FEMME POLITIQUE ITALIENNE,"
+                    HPOS="293"
+                    VPOS="2852"
+                    WIDTH="2165"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_60f01a5a"
+                    TAGREFS="LT184"
+                    BASELINE="299 3039 1590 3039 2489 3050" 
+                    HPOS="299"
+                    VPOS="2945"
+                    WIDTH="2190"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="299 3072 2487 3070 2489 3050 2485 3010 2428 3012 2419 3008 2397 3001 2395 3001 2394 3001 2355 3008 2337 3012 2328 3008 2296 2993 2295 2993 2293 2993 2291 2993 2247 3008 2234 3014 2082 3014 2073 3008 2062 3003 2060 3003 2058 3003 2016 3006 1986 3010 1979 3006 1950 2992 1948 2992 1946 2992 1944 2992 1915 3004 1880 2988 1878 2988 1876 2988 1542 3003 1469 2986 1467 2986 1465 2986 1410 3004 1397 3008 1381 3004 1341 2995 1339 2995 1278 3004 1247 3008 1144 3003 1045 2999 1043 2999 981 3003 924 3006 911 3003 858 2984 799 2945 706 2984 704 2984 702 2984 662 3001 653 3004 627 3001 511 2984 510 2984 508 2984 462 3001 449 3004 299 3001 299 3039"/></Shape>
+	    <String CONTENT="MEMBRE DU PARTI COMMUNISTE ITALIEN (PCI), JOURNALISTE ET"
+                    HPOS="299"
+                    VPOS="2945"
+                    WIDTH="2190"
+                    HEIGHT="127"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6be3d5f9"
+                    TAGREFS="LT184"
+                    BASELINE="2393 3221 2509 3217" 
+                    HPOS="2386"
+                    VPOS="3118"
+                    WIDTH="122"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="2390 3228 2503 3236 2508 3214 2503 3157 2467 3148 2464 3148 2461 3148 2459 3148 2461 3118 2413 3134 2386 3157 2387 3184 2390 3220"/></Shape>
+	    <String CONTENT="1/2"
+                    HPOS="2386"
+                    VPOS="3118"
+                    WIDTH="122"
+                    HEIGHT="118"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

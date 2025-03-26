@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0163_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT42" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT42" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="220"
+                   VPOS="161"
+                   WIDTH="2153"
+                   HEIGHT="1487"
+                   ID="eSc_textblock_af605d6e"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="293 161 1223 183 1317 212 1339 249 1331 320 1232 364 1240 396 2359 425 2373 1501 1546 1552 1473 1574 1507 1584 1485 1604 1216 1648 242 1618 220 1120 234 425 337 401 249 342 249 249 293 161"/></Shape>
+          <TextLine ID="eSc_line_405f1124"
+                    TAGREFS="LT42"
+                    BASELINE="293 265 504 262 1304 282" 
+                    HPOS="288"
+                    VPOS="167"
+                    WIDTH="1015"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="288 299 537 368 657 302 899 302 932 319 1083 308 1111 332 1143 356 1174 310 1301 310 1303 225 1248 200 1171 209 1130 184 1026 181 1017 181 1017 184 979 220 891 217 855 181 855 178 723 176 665 211 390 209 343 167 332 167 291 181 291 264"/></Shape>
+	    <String CONTENT="Auvergne-Rhône-Alpes."
+                    HPOS="288"
+                    VPOS="167"
+                    WIDTH="1015"
+                    HEIGHT="201"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8e6e47b2"
+                    TAGREFS="LT42"
+                    BASELINE="310 513 2304 526" 
+                    HPOS="305"
+                    VPOS="401"
+                    WIDTH="1997"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="1975 415 1939 448 1895 412 1843 412 1793 456 1741 456 1700 420 1686 420 1653 448 1642 453 1496 453 1488 442 1471 429 1323 451 1276 412 1215 407 1138 451 1089 407 1089 404 1078 404 995 451 874 451 819 404 563 401 528 431 495 415 484 415 445 448 396 448 354 415 346 415 308 420 308 511 305 536 2296 544 2302 525 2302 456 2252 437 2241 437 2217 456 2217 459 2142 459 2041 418 2013 415"/></Shape>
+	    <String CONTENT="Ses habitants sont dénommés les Lumbinois."
+                    HPOS="305"
+                    VPOS="401"
+                    WIDTH="1997"
+                    HEIGHT="143"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b7f34711"
+                    TAGREFS="LT42"
+                    BASELINE="316 755 2270 767" 
+                    HPOS="310"
+                    VPOS="640"
+                    WIDTH="1959"
+                    HEIGHT="223">
+            <Shape><Polygon POINTS="310 772 654 775 753 835 811 803 847 781 929 781 979 805 1045 805 1078 781 1226 863 1255 817 1257 794 1268 794 1306 783 1347 808 1413 808 1413 805 1419 805 1444 783 1507 808 1545 808 1545 805 1551 805 1581 781 1790 805 1823 783 2266 783 2269 764 2269 706 2189 684 2148 649 2010 649 1922 704 1733 690 1683 646 1570 646 1507 701 1471 684 1295 701 1254 673 1243 673 1177 701 1097 699 1031 684 984 643 737 640 728 640 657 698 632 698 572 643 558 643 495 693 412 695 352 651 341 651 313 665 313 753"/></Shape>
+	    <String CONTENT="Dans la mythologie grecque, Bélos ou Bélus"
+                    HPOS="310"
+                    VPOS="640"
+                    WIDTH="1959"
+                    HEIGHT="223"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_13daed69"
+                    TAGREFS="LT42"
+                    BASELINE="332 867 2334 891" 
+                    HPOS="327"
+                    VPOS="772"
+                    WIDTH="2005"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="327 891 528 929 668 896 797 910 907 899 1023 902 1045 921 1053 924 1182 924 1182 921 1188 921 1218 899 1427 904 1449 926 1455 926 1457 929 1548 929 1548 926 1554 926 1587 899 2244 904 2277 929 2291 929 2329 902 2332 891 2332 833 2192 786 2112 783 2030 808 2002 783 1933 783 1884 822 1832 781 1821 781 1749 811 1672 778 1589 778 1534 825 1529 819 1446 775 1435 775 1380 811 1347 781 1188 772 1042 819 946 819 902 789 891 789 819 816 442 814 376 772 363 772 330 792 330 866"/></Shape>
+	    <String CONTENT="(en grec ancien - / Bélos), fils de Poséidon"
+                    HPOS="327"
+                    VPOS="772"
+                    WIDTH="2005"
+                    HEIGHT="157"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c4c9305c"
+                    TAGREFS="LT42"
+                    BASELINE="293 990 2026 1006" 
+                    HPOS="288"
+                    VPOS="883"
+                    WIDTH="1736"
+                    HEIGHT="210">
+            <Shape><Polygon POINTS="288 1014 939 1093 1240 1017 1380 1036 1389 1036 1405 1023 1485 1036 1537 1017 1733 1020 1749 1036 1757 1036 2021 1020 2024 1003 2024 957 1925 954 1895 924 1884 924 1845 940 1749 926 1716 951 1633 883 1551 915 1551 918 1515 948 1389 926 1383 926 1331 948 1292 924 1083 946 1042 913 982 910 976 910 916 943 742 910 613 910 613 913 580 941 528 943 462 907 451 907 409 932 354 907 346 907 291 935 291 990"/></Shape>
+	    <String CONTENT="et de Libye, était un roi africain."
+                    HPOS="288"
+                    VPOS="883"
+                    WIDTH="1736"
+                    HEIGHT="210"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6b26a305"
+                    TAGREFS="LT42"
+                    BASELINE="260 1228 2314 1228" 
+                    HPOS="258"
+                    VPOS="1108"
+                    WIDTH="2055"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="258 1251 1012 1254 1042 1270 1050 1270 1094 1256 1391 1270 1490 1256 1510 1256 1581 1290 1620 1256 1881 1270 2313 1259 2313 1108 2052 1108 1939 1166 1903 1149 1892 1149 1856 1177 1771 1163 1724 1179 1375 1179 1303 1119 1290 1119 1229 1163 1166 1119 1152 1119 1081 1179 935 1179 852 1149 844 1149 750 1177 684 1149 676 1149 632 1166 563 1108 258 1108 258 1226"/></Shape>
+	    <String CONTENT="Il fut marié à Anchinoé, avec qui il eut"
+                    HPOS="258"
+                    VPOS="1108"
+                    WIDTH="2055"
+                    HEIGHT="182"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_38bcd9fc"
+                    TAGREFS="LT42"
+                    BASELINE="272 1343 2375 1360" 
+                    HPOS="266"
+                    VPOS="1259"
+                    WIDTH="2107"
+                    HEIGHT="178">
+            <Shape><Polygon POINTS="266 1366 426 1372 499 1411 605 1375 682 1388 863 1372 1028 1388 1037 1388 1053 1375 1116 1399 1254 1372 1270 1372 1320 1388 1424 1375 1554 1437 1647 1405 1647 1402 1744 1377 1837 1405 1845 1405 1955 1377 2068 1391 2162 1380 2197 1408 2206 1408 2371 1377 2373 1306 2346 1289 2225 1289 2115 1306 2085 1284 1832 1303 1799 1278 1672 1270 1603 1270 1565 1303 1512 1303 1468 1270 1457 1270 1400 1295 1353 1273 1345 1273 1284 1298 1226 1281 1213 1281 1119 1298 1017 1295 976 1265 924 1265 888 1295 844 1273 712 1295 563 1292 528 1262 517 1262 398 1292 335 1262 269 1259 269 1342"/></Shape>
+	    <String CONTENT="les jumeaux Danaos et Égyptos, ainsi que"
+                    HPOS="266"
+                    VPOS="1259"
+                    WIDTH="2107"
+                    HEIGHT="178"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_65ee61ce"
+                    TAGREFS="LT42"
+                    BASELINE="331 1484 2104 1473" 
+                    HPOS="327"
+                    VPOS="1359"
+                    WIDTH="1774"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="330 1493 374 1493 418 1526 426 1529 580 1529 580 1526 585 1526 585 1523 616 1496 701 1493 712 1490 957 1490 995 1518 1009 1518 1031 1493 1323 1490 1350 1512 1350 1515 1477 1504 1548 1518 1576 1504 1589 1520 1600 1520 1669 1490 1777 1490 1804 1515 1804 1518 1845 1549 1898 1520 1928 1496 2098 1496 2101 1471 2096 1419 2035 1419 1969 1383 1955 1359 1928 1362 1922 1416 1856 1402 1799 1416 1680 1380 1669 1380 1625 1419 1600 1405 1532 1419 1490 1383 1490 1380 1477 1380 1446 1402 1375 1377 1364 1377 1306 1419 1273 1410 1218 1402 1193 1421 1100 1405 1012 1419 968 1383 968 1380 789 1383 734 1424 673 1399 607 1410 602 1408 563 1372 489 1402 470 1386 470 1383 335 1383 335 1386 327 1388 330 1482"/></Shape>
+	    <String CONTENT="Céphée et Phinée (selon Euripide"
+                    HPOS="327"
+                    VPOS="1359"
+                    WIDTH="1774"
+                    HEIGHT="190"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9dbfdb8e"
+                    TAGREFS="LT42"
+                    BASELINE="315 1579 1359 1599" 
+                    HPOS="310"
+                    VPOS="1482"
+                    WIDTH="1046"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="313 1482 313 1578 310 1603 462 1622 569 1608 607 1606 759 1628 794 1614 841 1628 850 1628 891 1614 984 1614 998 1625 998 1628 1081 1617 1086 1619 1097 1633 1103 1633 1105 1636 1185 1636 1185 1633 1191 1633 1202 1619 1215 1636 1356 1625 1356 1551 1309 1551 1306 1545 1259 1501 1259 1498 1070 1496 1042 1520 1026 1507 1026 1504 1012 1504 979 1531 951 1512 775 1531 682 1515 660 1540 508 1492 445 1534 396 1487 387 1482"/></Shape>
+	    <String CONTENT="[réf. nécessaire])."
+                    HPOS="310"
+                    VPOS="1482"
+                    WIDTH="1046"
+                    HEIGHT="154"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0152_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT223" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT223" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="242"
+                   VPOS="161"
+                   WIDTH="1933"
+                   HEIGHT="277"
+                   ID="eSc_textblock_bbca0d95"
+                   TAGREFS="BT223">
+          <Shape><Polygon POINTS="1335 161 2153 176 2175 262 2153 306 2058 320 1078 342 975 357 871 430 739 438 271 438 242 364 249 198 278 176 900 190 1335 161"/></Shape>
+          <TextLine ID="eSc_line_96ae8f50"
+                    TAGREFS="LT223"
+                    BASELINE="260 284 2168 268" 
+                    HPOS="255"
+                    VPOS="184"
+                    WIDTH="1912"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="2040 229 1991 187 1991 184 1870 187 1815 231 1793 231 1741 187 1658 187 1592 225 1565 200 1463 189 1463 192 1419 231 1356 189 1342 189 1298 217 1229 189 1218 189 1171 225 1130 192 1072 192 1072 195 1028 233 888 239 759 239 712 198 712 195 701 195 566 239 486 225 420 239 330 198 255 198 258 302 569 319 723 299 748 319 756 321 1125 316 1125 313 1147 297 1276 313 1301 294 1463 294 1485 310 1496 310 1559 291 1711 310 1713 313 1843 313 1843 310 1917 288 2008 302 2164 291 2167 266 2164 264 2143 191"/></Shape>
+	    <String CONTENT="Son record personnel est de 48 s 84 obtenu à"
+                    HPOS="255"
+                    VPOS="184"
+                    WIDTH="1912"
+                    HEIGHT="137"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4b166c0c"
+                    TAGREFS="LT223"
+                    BASELINE="275 396 871 396" 
+                    HPOS="272"
+                    VPOS="316"
+                    WIDTH="597"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="272 396 272 415 288 426 291 426 294 426 297 429 451 429 451 426 453 426 456 426 456 423 467 412 470 412 866 420 869 396 869 346 833 316 830 316 827 316 825 316 726 330 651 316 649 316 646 316 643 316 643 319 621 338 610 349 539 335 536 335 533 335 530 335 530 338 517 352 365 352 338 321 332 319 332 316 330 316 327 316 324 316 272 316 272 396"/></Shape>
+	    <String CONTENT="Rome en 1995."
+                    HPOS="272"
+                    VPOS="316"
+                    WIDTH="597"
+                    HEIGHT="113"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1818"
+                   VPOS="762"
+                   WIDTH="614"
+                   HEIGHT="130"
+                   ID="eSc_textblock_f275db75"
+                   TAGREFS="BT223">
+          <Shape><Polygon POINTS="2306 762 2432 784 2425 892 1818 892 1825 792 1854 770 2306 762"/></Shape>
+          <TextLine ID="eSc_line_22faa4fa"
+                    TAGREFS="LT223"
+                    BASELINE="1836 863 2417 852" 
+                    HPOS="1834"
+                    VPOS="777"
+                    WIDTH="583"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1836 863 1836 880 1929 889 1931 889 1975 880 1983 878 1990 880 2025 889 2027 889 2028 889 2030 889 2052 878 2056 876 2062 878 2074 887 2076 887 2078 887 2080 887 2144 885 2146 885 2148 885 2148 883 2150 883 2153 878 2157 874 2263 874 2267 876 2274 883 2276 883 2278 883 2280 883 2416 874 2417 852 2416 804 2390 779 2390 777 2388 777 2386 777 2320 777 2318 777 2317 777 2315 777 2315 779 2300 793 2247 784 2245 784 2243 784 2241 784 2216 806 2216 808 2159 808 2159 806 2129 784 2128 784 2126 784 2124 784 2098 786 2096 786 2095 786 2095 788 2076 806 2041 806 2016 786 2014 786 2012 786 2010 786 2008 786 2006 786 1983 801 1953 793 1951 793 1950 793 1948 793 1946 793 1946 795 1933 808 1909 795 1907 795 1906 795 1904 795 1902 795 1887 808 1885 808 1849 799 1847 799 1845 799 1843 799 1841 799 1834 803 1836 863"/></Shape>
+	    <String CONTENT="wikitexte_0152"
+                    HPOS="1834"
+                    VPOS="777"
+                    WIDTH="583"
+                    HEIGHT="112"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2434"
+                   VPOS="3175"
+                   WIDTH="114"
+                   HEIGHT="123"
+                   ID="eSc_textblock_41b9e9b6"
+                   TAGREFS="BT223">
+          <Shape><Polygon POINTS="2460 3175 2548 3226 2498 3298 2441 3298 2434 3276 2460 3175"/></Shape>
+          <TextLine ID="eSc_line_64fa4f8a"
+                    TAGREFS="LT223"
+                    BASELINE="2471 3257 2508 3256" 
+                    HPOS="2470"
+                    VPOS="3181"
+                    WIDTH="35"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="2497 3198 2470 3181 2470 3256 2470 3278 2505 3272 2505 3256 2505 3203 2497 3198"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="2470"
+                    VPOS="3181"
+                    WIDTH="35"
+                    HEIGHT="97"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

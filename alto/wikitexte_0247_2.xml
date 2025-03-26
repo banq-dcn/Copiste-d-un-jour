@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>wikitexte_0247_2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT65" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT65" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3205"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3205">
+        <TextBlock HPOS="0"
+                   VPOS="192"
+                   WIDTH="2306"
+                   HEIGHT="696"
+                   ID="eSc_textblock_6e0a1056"
+                   TAGREFS="BT65">
+          <Shape><Polygon POINTS="106 192 527 213 2070 192 2227 213 2284 263 2270 340 1878 446 2099 484 2135 582 2220 605 2298 690 2306 781 1175 817 1145 833 1152 867 1088 888 21 881 0 860 0 213 19 249 106 192"/></Shape>
+          <TextLine ID="eSc_line_f6034221"
+                    TAGREFS="LT65"
+                    BASELINE="87 288 1891 293 2265 300" 
+                    HPOS="85"
+                    VPOS="180"
+                    WIDTH="2178"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="85 333 2261 333 2263 299 2261 251 2119 248 2062 201 1964 219 1937 240 1879 219 1724 221 1697 243 1686 248 1590 243 1544 219 1443 243 1266 243 1229 216 1216 216 1200 229 1152 221 1119 245 1045 216 1037 216 978 248 849 248 812 216 801 216 719 243 673 243 641 216 630 216 542 245 286 245 245 213 163 180 85 221 85 285"/></Shape>
+	    <String CONTENT="François Thual, né le 24 novembre 1944 à Paris,"
+                    HPOS="85"
+                    VPOS="180"
+                    WIDTH="2178"
+                    HEIGHT="153"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_34427e8b"
+                    TAGREFS="LT65"
+                    BASELINE="122 389 1657 397" 
+                    HPOS="122"
+                    VPOS="306"
+                    WIDTH="1535"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="122 425 370 425 370 423 372 423 373 423 407 414 438 423 466 430 500 460 546 432 548 432 550 432 571 421 587 414 603 421 623 432 625 432 626 434 662 434 662 432 664 432 685 421 698 414 817 414 861 421 892 425 893 425 929 420 938 420 940 420 958 434 959 434 961 434 963 434 1063 420 1082 418 1175 418 1177 420 1225 434 1226 434 1228 434 1230 434 1232 434 1253 420 1253 418 1358 418 1360 418 1397 436 1399 436 1401 438 1479 438 1479 436 1481 436 1540 418 1542 418 1656 418 1657 397 1656 357 1567 345 1565 345 1522 354 1517 356 1510 354 1451 340 1449 340 1447 340 1445 340 1417 354 1412 356 1351 356 1348 352 1326 338 1324 338 1323 338 1321 338 1319 338 1292 347 1271 329 1269 329 1246 306 1196 329 1194 329 1193 329 1191 329 1161 350 1153 354 958 352 945 347 890 327 888 327 724 327 722 327 623 341 578 348 553 341 502 325 500 325 498 325 496 325 495 325 473 340 455 352 270 352 251 338 235 325 233 325 231 325 229 325 179 336 153 341 122 336 122 389"/></Shape>
+	    <String CONTENT="est un géopolitologue français."
+                    HPOS="122"
+                    VPOS="306"
+                    WIDTH="1535"
+                    HEIGHT="154"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_48f52998"
+                    TAGREFS="LT65"
+                    BASELINE="90 579 2120 575" 
+                    HPOS="85"
+                    VPOS="504"
+                    WIDTH="2034"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="2108 531 2058 531 2010 504 1908 504 1876 528 1804 526 1780 504 1587 523 1536 504 1526 504 1496 528 1405 507 1360 528 1360 531 1146 531 1114 504 997 504 959 528 882 504 874 504 801 531 435 531 382 504 374 504 294 528 283 528 179 504 98 504 98 507 85 518 88 608 2116 608 2119 574 2114 544 2108 531"/></Shape>
+	    <String CONTENT="Les championnats d&#x27;Europe de biathlon 1996,"
+                    HPOS="85"
+                    VPOS="504"
+                    WIDTH="2034"
+                    HEIGHT="104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c8b2e866"
+                    TAGREFS="LT65"
+                    BASELINE="89 681 2220 671" 
+                    HPOS="87"
+                    VPOS="605"
+                    WIDTH="2133"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="89 696 236 708 238 708 445 697 2212 720 2220 671 2217 632 2167 619 2165 619 2040 628 1971 605 1969 605 1862 605 1860 605 1859 605 1791 628 1771 635 1727 635 1705 626 1650 607 1648 607 1647 607 1645 607 1606 626 1604 626 1497 635 1364 626 1362 626 1239 635 1198 623 1155 608 1153 608 1152 608 1116 610 1114 610 1091 621 1061 639 984 639 938 621 911 610 909 610 908 610 906 610 886 619 851 637 747 630 726 619 712 612 710 612 632 612 630 612 628 612 610 617 541 640 487 624 486 624 484 624 482 624 430 642 258 642 163 614 162 614 87 614 89 681"/></Shape>
+	    <String CONTENT="troisième édition des championnats d&#x27;Europe"
+                    HPOS="87"
+                    VPOS="605"
+                    WIDTH="2133"
+                    HEIGHT="115"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_efee0f08"
+                    TAGREFS="LT65"
+                    BASELINE="96 774 511 767 2293 763" 
+                    HPOS="94"
+                    VPOS="697"
+                    WIDTH="2199"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="96 774 96 790 2293 790 2293 763 2291 714 2256 697 2254 697 2252 697 2250 697 2206 712 2176 697 2174 697 2119 697 2117 697 2115 697 2079 715 2065 722 1880 722 1850 715 1777 699 1775 699 1773 699 1729 717 1723 719 1718 717 1681 699 1679 699 1627 699 1625 699 1624 699 1586 717 1584 719 1474 722 1463 719 1424 699 1422 699 1378 699 1376 699 1374 699 1355 708 1287 701 1285 701 1283 701 1244 719 1234 724 1184 719 1118 714 1116 714 1114 714 1100 721 1091 726 975 726 963 721 901 701 899 701 785 701 783 701 781 701 710 722 696 728 614 728 603 722 548 703 546 703 397 703 395 703 393 703 340 722 263 703 261 703 259 703 258 703 208 724 138 703 137 703 135 703 133 703 94 722 96 774"/></Shape>
+	    <String CONTENT="de biathlon, ont lieu en 1996 à Ridnaun-Val"
+                    HPOS="94"
+                    VPOS="697"
+                    WIDTH="2199"
+                    HEIGHT="93"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7aebd416"
+                    TAGREFS="LT65"
+                    BASELINE="124 865 1086 863" 
+                    HPOS="122"
+                    VPOS="795"
+                    WIDTH="964"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="124 865 124 892 1084 892 1086 863 1082 827 1043 827 1041 826 1018 810 1016 810 1015 810 1013 810 1011 810 1009 810 990 824 988 824 986 824 958 797 958 795 956 795 954 795 952 795 950 795 949 795 915 819 886 819 865 797 865 795 863 795 861 795 746 795 744 795 742 795 740 795 740 797 721 815 710 826 614 817 612 817 527 826 507 810 498 803 498 801 496 801 495 801 493 801 491 801 489 801 477 808 454 824 386 824 306 808 304 808 302 808 288 813 277 803 270 797 270 795 268 795 267 795 265 795 263 795 249 803 213 819 188 801 183 795 181 795 179 795 178 795 122 797 124 865"/></Shape>
+	    <String CONTENT="Ridanna, en Italie."
+                    HPOS="122"
+                    VPOS="795"
+                    WIDTH="964"
+                    HEIGHT="97"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
